@@ -1,0 +1,7519 @@
+row_id,cgid,label,description
+2228,16174,ro,read only
+2229,16175,ro,read only
+2230,16176,res,resident/fellow/pa/np
+2231,16177,ro,read only
+2232,16178,rt,respiratory
+2233,16179,res,resident/fellow/pa/np
+2234,16180,rehab,rehabilitation
+2235,16181,md,
+2236,16182,cm,case manager
+2237,16183,rehab,rehabilitation
+2238,16184,rn,rn
+2239,16185,md,attending
+2240,16186,rn,rn
+2241,16187,rn,rn
+2242,16188,sw,social worker
+2243,16189,ro,read only
+2244,16190,ro,read only
+2245,16191,md,
+2246,16192,ro,read only
+2247,16193,res,resident/fellow/pa/np
+2248,16194,res,resident/fellow/pa/np
+2249,16195,ro,read only
+2250,16196,rph,pharmacist
+2251,16197,cm,case manager
+2252,16198,mds,resident/fellow/pa/np
+2253,16199,md,
+2254,16200,rn,rn
+2255,16201,res,resident/fellow/pa/np
+2256,16202,np,read only
+2257,16203,ro,read only
+2258,16204,res,resident/fellow/pa/np
+2259,16205,ro,read only
+2260,16206,md,
+2261,16207,md,
+2262,16208,md,
+2263,16209,res,read only
+2264,16210,ro,read only
+2265,16211,rph,pharmacist
+2266,16212,ro,read only
+2267,16213,rehab,rehabilitation
+2268,16214,res,resident/fellow/pa/np
+2269,16215,md,attending
+2270,16216,res,resident/fellow/pa/np
+2271,16217,cm,case manager
+2272,16218,srt,
+2273,16219,res,resident/fellow/pa/np
+2274,16220,md,attending
+2275,16221,ro,read only
+2276,16222,res,resident/fellow/pa/np
+2277,16223,rd,dietitian
+2278,16224,pct,pct/na
+2279,16225,md,
+2280,16226,res,resident/fellow/pa/np
+2281,16227,rd,dietitian
+2282,16228,res,resident/fellow/pa/np
+2283,16229,rn,rn
+2284,16230,md,
+2285,16231,ro,read only
+2286,16232,ro,read only
+2287,16233,cm,case manager
+2288,16234,rn,rn
+2289,16235,md,
+2290,16236,cowork,pct/na
+2291,16237,md,attending
+2292,16238,res,resident/fellow/pa/np
+2293,16239,res,resident/fellow/pa/np
+2294,16240,admin,administrator
+2295,16241,res,resident/fellow/pa/np
+2296,16242,ro,read only
+2297,16243,res,resident/fellow/pa/np
+2298,16244,ro,read only
+2299,16245,res,resident/fellow/pa/np
+2300,16246,rn,rn
+2301,16247,res,resident/fellow/pa/np
+2302,16248,pct,pct/na
+2303,16249,cowker,
+2304,16250,md,read only
+2305,16251,res,resident/fellow/pa/np
+2306,16252,uco,
+2307,16253,md,
+2308,16254,pc,pastoral care
+2309,16255,ro,read only
+2310,16256,rehab,rehabilitation
+2311,16257,md,attending
+2312,16258,res,resident/fellow/pa/np
+2313,16259,res,resident/fellow/pa/np
+2314,16260,res,resident/fellow/pa/np
+2315,16261,ro,read only
+2316,16262,res,resident/fellow/pa/np
+2317,16263,res,resident/fellow/pa/np
+2318,16264,rn,rn
+2319,16265,ro,read only
+2320,16266,rph,pharmacist
+2321,16267,cm,case manager
+2322,16268,co-wor,pct/na
+2323,16269,res,resident/fellow/pa/np
+2324,16270,res,resident/fellow/pa/np
+2325,16271,res,resident/fellow/pa/np
+2326,16272,res,resident/fellow/pa/np
+2327,16273,rn,rn
+2328,16274,rrt,
+2329,16275,ro,read only
+2330,16276,md,resident/fellow/pa/np
+2331,16277,md,
+2332,16278,md,
+2333,16279,md,resident/fellow/pa/np
+2334,16280,mds,resident/fellow/pa/np
+2335,16281,mds,
+2336,16282,res,resident/fellow/pa/np
+2337,16283,res,resident/fellow/pa/np
+2338,16284,rn,rn
+2339,16285,sw,social worker
+2340,16286,ms,
+2341,16287,mds,read only
+2342,16288,rn,
+2343,16289,res,resident/fellow/pa/np
+2344,16290,ro,read only
+2345,16291,ro,read only
+2346,16292,ro,read only
+2347,16293,md,resident/fellow/pa/np
+2348,16294,rn,rn
+2349,16295,rehab,rehabilitation
+2350,16296,ro,read only
+2351,16297,rth,respiratory
+2352,16298,ro,read only
+891,14891,rn,rn
+892,14892,md,read only
+893,14893,res,resident/fellow/pa/np
+894,14894,res,resident/fellow/pa/np
+895,14895,res,resident/fellow/pa/np
+896,14896,md,
+897,14897,res,resident/fellow/pa/np
+898,14898,md,attending
+899,14899,rt,respiratory
+900,14900,md,attending
+901,14901,rn,rn
+902,14902,res,resident/fellow/pa/np
+903,14903,res,resident/fellow/pa/np
+904,14904,rn,rn
+905,14905,md,
+906,14906,rn,rn
+907,14907,res,resident/fellow/pa/np
+908,14908,ro,read only
+909,14909,res,resident/fellow/pa/np
+910,14910,res,resident/fellow/pa/np
+911,14911,md,attending
+912,14912,md,attending
+913,14913,rt,respiratory
+914,14914,res,resident/fellow/pa/np
+915,14915,res,resident/fellow/pa/np
+916,14916,rt,respiratory
+917,14917,res,resident/fellow/pa/np
+918,14918,di,
+919,14919,md,attending
+920,14920,res,resident/fellow/pa/np
+921,14921,ms,
+922,14922,rn,rn
+923,14923,rehab,rehabilitation
+924,14924,res,resident/fellow/pa/np
+925,14925,md,
+926,14926,snp,
+927,14927,rn,
+928,14928,ro,read only
+929,14929,ro,read only
+930,14930,md,read only
+931,14931,ro,read only
+932,14932,ro,read only
+933,14933,res,resident/fellow/pa/np
+934,14934,rn,rn
+935,14935,md,attending
+936,14936,ro,read only
+937,14937,ro,read only
+938,14938,isops,administrator
+939,14939,rn,rn
+940,14940,md,
+941,14941,ro,read only
+942,14942,ro,read only
+943,14943,md,
+944,14944,md,
+945,14945,md,attending
+946,14946,rn,rn
+947,14947,res,resident/fellow/pa/np
+948,14948,rrt,read only
+949,14949,rn,rn
+950,14950,md,
+951,14951,srt,
+952,14952,res,resident/fellow/pa/np
+953,14953,rn,rn
+954,14954,rn,rn
+955,14955,admin,administrator
+956,14956,res,resident/fellow/pa/np
+957,14957,rn,read only
+958,14958,md,
+959,14959,ro,read only
+960,14960,ro,read only
+961,14961,res,resident/fellow/pa/np
+962,14962,rn,
+963,14963,res,resident/fellow/pa/np
+964,14964,md,
+965,14965,rehab,rehabilitation
+966,14966,ro,read only
+967,14967,rn,
+968,14968,rn,read only
+969,14969,ro,read only
+970,14970,cowker,
+971,14971,rn,
+972,14972,md,
+973,14973,rn,rn
+974,14974,ro,read only
+975,14975,ro,read only
+976,14976,med st,
+977,14977,pct,pct/na
+978,14978,md,
+979,14979,issupp,administrator
+980,14980,ro,read only
+981,14981,ro,read only
+982,14982,ro,read only
+983,14983,rph,pharmacist
+984,14984,ro,read only
+985,14985,rn,rn
+986,14986,rn,rn
+987,14987,rn,rn
+988,14988,rn,rn
+989,14989,rn,
+990,14990,rn,
+991,14991,cowkr,
+992,14992,rn,rn
+993,14993,rn,
+994,14994,cowker,
+995,14995,ro,read only
+996,14996,rn,
+997,14997,rn,rn
+998,14998,rn,
+999,14999,md,
+1000,15000,ro,read only
+1001,15001,rn,rn
+1002,15002,rnc,
+1003,15003,md,
+1004,15004,rn,rn
+1005,15005,pca,
+1006,15006,ro,read only
+1007,15007,md,read only
+1008,15008,md,
+1009,15009,hmsiv,
+1010,15010,medsty,
+1011,15011,md,
+1012,15012,rrt,respiratory
+1013,15013,ua,
+1014,15014,pct,rn
+1015,15015,ro,read only
+1016,15016,uc,
+1017,15017,rn,rn
+1018,15018,rn,read only
+1019,15019,rrt,
+1020,15020,rn,read only
+1021,15021,ra,research assistant
+1022,15022,res,resident/fellow/pa/np
+1023,15023,rn,rn
+1024,15024,rn,
+1025,15025,rn,rn
+1026,15026,ro,read only
+1027,15027,rn,
+1028,15028,ro,read only
+1029,15029,rn,rn
+1030,15030,res,resident/fellow/pa/np
+1031,15031,rt,respiratory
+623,14554,mds,resident/fellow/pa/np
+624,14555,cowkr,
+625,14556,ro,read only
+626,14557,ro,read only
+627,14558,md,
+628,14559,rph,
+629,14560,res,resident/fellow/pa/np
+630,14561,pct,pct/na
+631,14562,rn,
+632,14563,rehab,rehabilitation
+633,14564,ro,read only
+634,14565,rn,rn
+635,14566,rehab,rehabilitation
+636,14567,md,attending
+637,14568,res,resident/fellow/pa/np
+638,14569,ro,read only
+639,14570,res,resident/fellow/pa/np
+640,14571,pct,pct/na
+641,14572,res,resident/fellow/pa/np
+642,14573,md,attending
+643,14574,res,resident/fellow/pa/np
+644,14575,res,resident/fellow/pa/np
+645,14576,rn,rn
+646,14577,res,resident/fellow/pa/np
+647,14578,md,attending
+648,14579,ro,read only
+649,14580,res,resident/fellow/pa/np
+650,14581,md,
+651,14582,res,resident/fellow/pa/np
+652,14583,ro,read only
+653,14584,rn,rn
+654,14585,res,resident/fellow/pa/np
+655,14586,md,
+656,14587,res,resident/fellow/pa/np
+657,14588,rn,rn
+658,14589,ro,read only
+659,14590,ro,read only
+660,14591,ro,read only
+661,14592,uco,uco
+662,14593,md,
+663,14594,res,resident/fellow/pa/np
+664,14595,res,resident/fellow/pa/np
+665,14596,ro,read only
+666,14597,rn,rn
+667,14598,rnc,read only
+668,14599,ro,read only
+669,14600,rn,
+670,14601,ro,read only
+671,14602,mds,resident/fellow/pa/np
+672,14603,neob,uco
+673,14604,rn,
+674,14605,rn,rn
+675,14606,rn,rn
+676,14607,rn,rn
+677,14608,rn,
+678,14609,rn,
+679,14610,ro,read only
+680,14611,res,resident/fellow/pa/np
+681,14612,rt,respiratory
+682,14613,md,read only
+683,14614,res,resident/fellow/pa/np
+684,14615,res,resident/fellow/pa/np
+685,14616,res,resident/fellow/pa/np
+686,14617,rehab,rehabilitation
+687,14618,res,resident/fellow/pa/np
+688,14619,res,resident/fellow/pa/np
+689,14620,md,attending
+690,14621,rd,dietitian
+691,14622,uco,uco
+692,14623,cm,case manager
+693,14624,res,resident/fellow/pa/np
+694,14625,rn,rn
+695,14626,rn,rn
+696,14627,issupp,administrator
+697,14628,ro,read only
+698,14629,md,resident/fellow/pa/np
+699,14630,rrts,
+700,14631,pct,pct/na
+701,14632,rph,pharmacist
+702,14633,ro,read only
+703,14634,ro,read only
+704,14635,rt,respiratory
+705,14636,ro,read only
+706,14637,md,attending
+707,14638,rn,rn
+708,14639,res,resident/fellow/pa/np
+709,14640,rn,rn
+710,14641,rehab,rehabilitation
+711,14642,rt,respiratory
+712,14643,res,resident/fellow/pa/np
+713,14644,res,resident/fellow/pa/np
+714,14645,rd,dietitian
+715,14646,res,resident/fellow/pa/np
+716,14647,rehab,rehabilitation
+717,14648,res,resident/fellow/pa/np
+718,14649,res,resident/fellow/pa/np
+719,14650,pct,pct/na
+720,14651,res,resident/fellow/pa/np
+721,14652,res,resident/fellow/pa/np
+722,14653,ro,read only
+723,14654,res,resident/fellow/pa/np
+724,14655,rt,respiratory
+725,14656,res,resident/fellow/pa/np
+726,14657,rn,rn
+727,14658,rn,
+728,14659,md,attending
+729,14660,ro,read only
+730,14661,ro,read only
+731,14662,mds,resident/fellow/pa/np
+732,14663,md,
+733,14664,md,read only
+734,14665,md,
+735,14666,res,resident/fellow/pa/np
+736,14667,md,read only
+737,14668,ro,read only
+738,14669,ro,read only
+739,14670,md,
+740,14671,ro,read only
+741,14672,ro,read only
+742,14673,mds,resident/fellow/pa/np
+743,14674,studen,
+744,14675,mds,resident/fellow/pa/np
+745,14676,res,resident/fellow/pa/np
+746,14677,res,resident/fellow/pa/np
+747,14678,rn,rn
+748,14679,res,resident/fellow/pa/np
+749,14680,md,resident/fellow/pa/np
+750,14681,res,resident/fellow/pa/np
+751,14682,res,resident/fellow/pa/np
+752,14683,rn,rn
+753,14684,res,resident/fellow/pa/np
+754,14685,res,resident/fellow/pa/np
+288,14686,res,resident/fellow/pa/np
+289,14687,sw,social worker
+290,14688,rehab,rehabilitation
+291,14689,uco,uco
+292,14690,res,resident/fellow/pa/np
+293,14691,res,resident/fellow/pa/np
+294,14692,rehab,rehabilitation
+295,14693,md,attending
+296,14694,ro,read only
+297,14695,rn,rn
+298,14696,ro,read only
+299,14697,md,
+300,14698,ro,read only
+301,14699,ro,read only
+302,14700,rrt,respiratory
+303,14701,np,
+304,14702,md,
+305,14703,res,resident/fellow/pa/np
+306,14704,res,resident/fellow/pa/np
+307,14705,ro,read only
+308,14706,rn,rn
+309,14707,rehab,rehabilitation
+310,14708,md,read only
+311,14709,res,resident/fellow/pa/np
+312,14710,rn,rn
+313,14711,ro,read only
+314,14712,rn,
+315,14713,ro,read only
+316,14714,rn,rn
+317,14715,md,
+318,14716,rn,
+319,14717,rn,
+320,14718,mds,resident/fellow/pa/np
+321,14719,rn,rn
+322,14720,licsw,
+323,14721,rn,read only
+324,14722,md,read only
+325,14723,u a,
+326,14724,ro,read only
+327,14725,rn,
+328,14726,rn,
+329,14727,res,resident/fellow/pa/np
+330,14728,res,resident/fellow/pa/np
+331,14729,res,resident/fellow/pa/np
+332,14730,md,
+333,14731,res,resident/fellow/pa/np
+334,14732,rd,dietitian
+335,14733,md,
+336,14734,stpha,
+337,14735,res,resident/fellow/pa/np
+338,14736,rn,rn
+339,14737,res,resident/fellow/pa/np
+340,14738,rph,pharmacist
+341,14739,md,resident/fellow/pa/np
+342,14740,rn,
+343,14741,ms,
+344,14742,ro,read only
+345,14743,rrt,
+346,14744,rehab,rehabilitation
+347,14745,res,resident/fellow/pa/np
+348,14746,ro,read only
+349,14747,res,resident/fellow/pa/np
+350,14748,ro,read only
+351,14749,res,resident/fellow/pa/np
+352,14750,res,resident/fellow/pa/np
+353,14751,rn,rn
+354,14752,md,resident/fellow/pa/np
+355,14753,ro,read only
+356,14754,ro,read only
+755,14755,ro,read only
+756,14756,ro,read only
+757,14757,rn,rn
+758,14758,rn,rn
+759,14759,rn,rn
+760,14760,rehab,rehabilitation
+761,14761,res,resident/fellow/pa/np
+762,14762,rn,
+763,14763,rn,rn
+764,14764,rd,dietitian
+765,14765,res,resident/fellow/pa/np
+766,14766,res,resident/fellow/pa/np
+767,14767,res,resident/fellow/pa/np
+768,14768,rn,rn
+769,14769,res,resident/fellow/pa/np
+770,14770,md,resident/fellow/pa/np
+771,14771,coopst,
+772,14772,rn,rn
+773,14773,neob,
+774,14774,rn,
+775,14775,res,resident/fellow/pa/np
+776,14776,pct,pct/na
+777,14777,md,attending
+778,14778,res,resident/fellow/pa/np
+779,14779,sw,social worker
+780,14780,medstu,
+781,14781,md,attending
+782,14782,res,resident/fellow/pa/np
+783,14783,rehab,rehabilitation
+784,14784,rn,rn
+785,14785,res,resident/fellow/pa/np
+786,14786,md,
+787,14787,rn,rn
+788,14788,res,resident/fellow/pa/np
+789,14789,rehab,rehabilitation
+790,14790,res,resident/fellow/pa/np
+791,14791,ro,read only
+792,14792,pct,pct/na
+793,14793,ro,read only
+794,14794,md,resident/fellow/pa/np
+795,14795,ro,read only
+796,14796,ro,read only
+797,14797,md,
+798,14798,rph,pharmacist
+799,14799,ra,research assistant
+800,14800,medstu,
+801,14801,rn,rn
+802,14802,rn,rn
+803,14803,rehab,rehabilitation
+804,14804,rn,rn
+805,14805,res,resident/fellow/pa/np
+806,14806,ro,read only
+807,14807,md,
+808,14808,ro,read only
+809,14809,rrt,
+810,14810,ro,read only
+811,14811,rn,rn
+812,14812,res,resident/fellow/pa/np
+813,14813,ro,read only
+814,14814,ro,read only
+815,14815,rrt,read only
+816,14816,rnc,
+817,14817,rn,read only
+818,14818,rn,
+819,14819,rph,
+820,14820,ms,
+821,14821,pt,
+822,14822,md,
+823,14823,md,
+824,14824,rehab,rehabilitation
+825,14825,ro,read only
+826,14826,md,
+827,14827,md,
+828,14828,rn,read only
+829,14829,mds,read only
+830,14830,ro,read only
+831,14831,admin,administrator
+832,14832,ro,read only
+833,14833,md,resident/fellow/pa/np
+834,14834,rn,
+835,14835,ro,read only
+836,14836,ro,read only
+837,14837,md,
+838,14838,md,resident/fellow/pa/np
+839,14839,mds,resident/fellow/pa/np
+840,14840,medst,
+841,14841,ro,read only
+842,14842,ms,resident/fellow/pa/np
+843,14843,md,
+844,14844,mds,resident/fellow/pa/np
+845,14845,ro,read only
+846,14846,intern,resident/fellow/pa/np
+847,14847,mds,
+848,14848,md,
+849,14849,ro,read only
+850,14850,stnurs,
+851,14851,md,
+852,14852,ro,read only
+853,14853,res,resident/fellow/pa/np
+854,14854,md,
+855,14855,rn,
+856,14856,ro,read only
+857,14857,pca,
+858,14858,ro,read only
+859,14859,rn,rn
+860,14860,rn,
+861,14861,md,
+862,14862,rrt,
+863,14863,rn,
+864,14864,md,
+865,14865,rn,
+866,14866,md,
+867,14867,mds,
+868,14868,md,
+869,14869,res,resident/fellow/pa/np
+870,14870,rt,respiratory
+872,14872,rn,
+873,14873,ro,read only
+874,14874,ro,read only
+875,14875,ro,read only
+876,14876,res,resident/fellow/pa/np
+877,14877,res,resident/fellow/pa/np
+878,14878,res,resident/fellow/pa/np
+879,14879,res,resident/fellow/pa/np
+880,14880,ro,read only
+881,14881,rt,respiratory
+882,14882,ro,read only
+883,14883,res,resident/fellow/pa/np
+884,14884,res,resident/fellow/pa/np
+885,14885,uco,uco
+886,14886,res,resident/fellow/pa/np
+887,14887,md,
+888,14888,md,
+889,14889,cowker,
+890,14890,res,resident/fellow/pa/np
+226,14001,ro,read only
+227,14002,ro,read only
+229,14004,ar,
+230,14005,md,
+231,14006,md,
+232,14007,md,read only
+233,14008,ro,read only
+234,14009,mds,
+235,14010,mds,resident/fellow/pa/np
+236,14011,ro,read only
+237,14012,medst,
+238,14013,ro,read only
+239,14014,ro,read only
+240,14015,ro,read only
+241,14016,ro,read only
+242,14017,md,
+243,14018,ro,read only
+244,14019,res,resident/fellow/pa/np
+245,14020,rn,
+246,14021,res,resident/fellow/pa/np
+247,14022,res,resident/fellow/pa/np
+248,14023,rn,rn
+249,14024,md,attending
+250,14025,md,
+251,14026,mds,
+252,14027,res,resident/fellow/pa/np
+253,14028,res,resident/fellow/pa/np
+254,14029,md,
+255,14030,ro,read only
+256,14031,ro,read only
+257,14032,md,read only
+258,14033,rt,respiratory
+259,14034,res,resident/fellow/pa/np
+260,14035,ro,read only
+261,14036,ro,read only
+262,14037,phd,attending
+263,14038,res,resident/fellow/pa/np
+264,14039,ro,read only
+265,14040,md,
+266,14041,md,
+267,14042,ro,read only
+268,14043,md,
+269,14044,ro,read only
+270,14045,md,attending
+271,14046,ro,read only
+272,14047,ro,read only
+273,14048,ro,read only
+274,14049,md,
+275,14050,md,
+276,14051,md,
+277,14052,md,
+278,14053,ro,read only
+279,14054,md,resident/fellow/pa/np
+280,14055,md,
+281,14056,mds,resident/fellow/pa/np
+282,14057,md,
+283,14058,dr,read only
+284,14059,ro,read only
+285,14060,ro,read only
+286,14061,md,read only
+287,14062,md,
+1,14063,res,resident/fellow/pa/np
+2,14064,ro,read only
+3,14065,md,
+4,14066,ro,read only
+5,14067,md,
+6,14068,md,
+7,14069,rehab,rehabilitation
+8,14070,ro,read only
+9,14071,ro,read only
+10,14072,md,read only
+11,14073,medstu,
+12,14074,ro,read only
+13,14075,ro,read only
+14,14076,ro,read only
+16,14078,rn,rn
+17,14079,res,resident/fellow/pa/np
+18,14080,md,attending
+19,14081,sw,social worker
+20,14082,ro,read only
+21,14083,rt,respiratory
+22,14084,rn,rn
+23,14085,res,resident/fellow/pa/np
+24,14086,res,resident/fellow/pa/np
+25,14087,res,resident/fellow/pa/np
+26,14088,ro,read only
+27,14089,res,resident/fellow/pa/np
+28,14090,res,resident/fellow/pa/np
+29,14091,mds,resident/fellow/pa/np
+30,14092,medst,
+31,14093,res,resident/fellow/pa/np
+32,14094,rd,dietitian
+33,14095,ro,read only
+34,14096,md,
+35,14097,md,
+36,14098,rn,
+37,14099,md,
+38,14100,ro,read only
+39,14101,ra,read only
+40,14102,md,
+41,14103,md,resident/fellow/pa/np
+42,14104,res,resident/fellow/pa/np
+43,14105,fell,resident/fellow/pa/np
+44,14106,md,
+45,14107,md,
+46,14108,md,
+47,14109,ro,read only
+48,14110,md,attending
+49,14111,res,resident/fellow/pa/np
+50,14112,md,
+51,14113,md,attending
+52,14114,pa,resident/fellow/pa/np
+53,14115,h,
+54,14116,md,attending
+55,14117,ro,read only
+56,14118,mds,
+57,14119,ro,read only
+58,14120,ro,read only
+59,14121,st,
+60,14122,ro,read only
+61,14123,mds,resident/fellow/pa/np
+62,14124,ro,read only
+63,14125,ro,read only
+64,14126,res,resident/fellow/pa/np
+65,14127,res,resident/fellow/pa/np
+66,14128,md,resident/fellow/pa/np
+67,14129,ro,read only
+68,14130,res,resident/fellow/pa/np
+69,14131,ro,read only
+70,14132,md,
+71,14133,rn,
+72,14134,ro,read only
+73,14135,md,resident/fellow/pa/np
+74,14136,md,read only
+75,14137,imd,imd
+76,14138,ms,
+77,14139,ua,
+78,14140,md,
+79,14141,ro,read only
+80,14142,mds,
+81,14143,md,resident/fellow/pa/np
+82,14144,md,
+83,14145,pa,
+84,14146,md,read only
+85,14147,ro,read only
+86,14148,ro,read only
+87,14149,md,
+88,14150,md,
+89,14151,rn,rn
+90,14152,md,
+91,14153,ro,read only
+92,14154,mds,resident/fellow/pa/np
+93,14155,ro,read only
+94,14156,di,dietitian
+95,14157,md,
+96,14158,ro,read only
+97,14159,md,read only
+98,14160,rn,
+99,14161,ro,read only
+100,14162,coopst,
+101,14163,pca,
+102,14164,uco,uco
+103,14165,rn,
+104,14166,rn,
+105,14167,rrt,
+106,14168,md,resident/fellow/pa/np
+107,14169,rrt,respiratory
+108,14170,mds,
+109,14171,md,resident/fellow/pa/np
+110,14172,ro,read only
+111,14173,res,resident/fellow/pa/np
+112,14174,res,resident/fellow/pa/np
+113,14175,md,
+114,14176,ro,read only
+115,14177,md,
+116,14178,ro,read only
+117,14179,md,
+118,14180,mds,resident/fellow/pa/np
+119,14181,ro,read only
+120,14182,rn,rn
+121,14183,rph,
+122,14184,np,resident/fellow/pa/np
+123,14185,md,
+124,14186,rn,
+125,14187,rn,read only
+126,14188,ms,
+127,14189,ro,read only
+128,14190,md,
+129,14191,rn,
+130,14192,md,resident/fellow/pa/np
+131,14193,ro,read only
+132,14194,cm,case manager
+133,14195,rehab,rehabilitation
+134,14196,md,
+135,14197,sw,social worker
+136,14198,res,resident/fellow/pa/np
+137,14199,ro,read only
+138,14200,md,read only
+139,14201,crt,
+140,14202,rt,respiratory
+141,14203,ro,read only
+142,14204,rn,
+143,14205,rn,
+144,14206,rn,rn
+145,14207,ro,read only
+146,14208,ro,read only
+147,14209,cowkr,
+148,14210,ro,read only
+149,14211,rrt,respiratory
+150,14212,rn,rn
+151,14213,rn,rn
+152,14214,rn,rn
+153,14215,sn,
+154,14216,res,resident/fellow/pa/np
+155,14217,res,resident/fellow/pa/np
+156,14218,ro,read only
+157,14219,md,read only
+158,14220,ro,read only
+159,14221,md,attending
+160,14222,rn,rn
+161,14223,medst,
+162,14224,md,attending
+163,14225,res,resident/fellow/pa/np
+164,14226,res,resident/fellow/pa/np
+165,14227,ro,read only
+166,14228,rn,rn
+167,14229,ro,read only
+168,14230,ro,read only
+169,14231,ro,read only
+170,14232,ro,read only
+171,14233,ro,read only
+172,14234,ua,uco
+173,14235,medst,
+174,14236,rrt,
+175,14237,md,read only
+176,14238,md,
+177,14239,md,
+178,14240,md,resident/fellow/pa/np
+179,14241,rn,
+180,14242,mds,read only
+181,14243,ro,read only
+182,14244,ro,read only
+183,14245,md,
+184,14246,rn,
+185,14247,ro,read only
+186,14248,rehab,rehabilitation
+187,14249,md,
+188,14250,ro,read only
+189,14251,res,resident/fellow/pa/np
+190,14252,mds,attending
+191,14253,ro,read only
+192,14254,msiv,
+193,14255,md,
+194,14256,md,
+195,14257,ro,read only
+196,14258,ro,read only
+197,14259,mds,
+198,14260,md,
+199,14261,sw,social worker
+200,14262,std,
+201,14263,ro,read only
+202,14264,rn,
+203,14265,np,rn
+204,14266,rn,
+205,14267,ro,read only
+206,14268,md,read only
+207,14269,mds,resident/fellow/pa/np
+208,14270,snp,
+209,14271,md,read only
+210,14272,md,
+211,14273,md,
+212,14274,rn,
+213,14275,md,
+214,14276,md,
+215,14277,rn,
+216,14278,md,
+217,14279,md,
+218,14280,md,
+219,14281,ajm,resident/fellow/pa/np
+220,14282,rn,
+221,14283,otr/l,
+222,14284,rn,rn
+223,14285,ro,read only
+224,14286,pct,
+225,14287,md,resident/fellow/pa/np
+357,14288,ro,read only
+358,14289,rph,
+359,14290,di,dietitian
+360,14291,md,
+361,14292,ro,read only
+362,14293,licsw,
+363,14294,md,
+364,14295,rn,
+365,14296,rn,
+366,14297,md,
+367,14298,rn,
+368,14299,pct,
+369,14300,licsw,
+370,14301,ro,read only
+371,14302,rn,
+372,14303,ro,read only
+373,14304,ro,read only
+374,14305,md,resident/fellow/pa/np
+375,14306,stu,
+376,14307,res,resident/fellow/pa/np
+377,14308,medstu,read only
+378,14309,md,
+379,14310,ro,read only
+380,14311,md,
+381,14312,md,
+382,14313,uco,
+383,14314,res,resident/fellow/pa/np
+384,14315,rd,dietitian
+385,14316,rehab,rehabilitation
+386,14317,rn,rn
+387,14318,md,
+388,14319,medstu,
+389,14320,ro,read only
+390,14321,ro,read only
+391,14322,rn,
+392,14323,md,read only
+393,14324,cowkr,
+394,14325,rn,
+395,14326,ro,read only
+396,14327,mds,read only
+397,14328,ro,read only
+398,14329,rrt,
+399,14330,ms,resident/fellow/pa/np
+400,14331,mds,resident/fellow/pa/np
+401,14332,rns,rn
+402,14333,md,
+403,14334,rt,respiratory
+404,14335,rehab,rehabilitation
+405,14336,ro,read only
+406,14337,medstu,
+407,14338,mds,read only
+408,14339,rph,
+409,14340,md,
+410,14341,ms,
+411,14342,medst,
+412,14343,md,
+413,14344,ro,read only
+414,14345,rn,rn
+415,14346,md,
+416,14347,ms,
+417,14348,ro,read only
+418,14349,ro,read only
+419,14350,ro,read only
+420,14351,ms,
+421,14352,md,
+422,14353,di,dietitian
+423,14354,md,resident/fellow/pa/np
+424,14355,ro,read only
+425,14356,md,resident/fellow/pa/np
+426,14357,rn,rn
+427,14358,md,
+428,14359,res,resident/fellow/pa/np
+429,14360,md,
+430,14361,md,
+431,14362,msiv,
+432,14363,md,
+433,14364,ro,read only
+434,14365,md,resident/fellow/pa/np
+435,14366,srt,
+436,14367,rn,
+437,14368,ro,read only
+438,14369,ro,read only
+439,14370,ro,read only
+440,14371,srt,respiratory
+441,14372,r.ph,
+442,14373,ro,read only
+443,14374,md,resident/fellow/pa/np
+444,14375,rn,
+445,14376,rn,
+446,14377,rn,
+447,14378,ro,read only
+448,14379,rn,rn
+449,14380,ro,read only
+450,14381,rrt,respiratory
+451,14382,phstud,
+452,14383,md,
+453,14384,md,resident/fellow/pa/np
+454,14385,md,
+455,14386,md,
+456,14387,rn,rn
+457,14388,res,resident/fellow/pa/np
+458,14389,md,
+459,14390,nsv,
+460,14391,ro,read only
+461,14392,ro,read only
+462,14393,md,attending
+463,14394,ro,read only
+464,14395,ro,read only
+465,14396,ro,read only
+466,14397,ro,read only
+467,14398,ro,read only
+468,14399,rn,
+469,14400,ro,read only
+470,14401,ro,read only
+471,14402,ro,read only
+472,14403,md,
+473,14404,md,
+474,14405,msi,
+475,14406,ro,read only
+476,14407,ro,read only
+477,14408,al,respiratory
+478,14409,md,
+479,14410,ro,read only
+480,14411,rn,rn
+481,14412,md,
+482,14413,rn,
+483,14414,md,resident/fellow/pa/np
+484,14415,rnc,read only
+485,14416,ro,read only
+486,14417,mds,resident/fellow/pa/np
+487,14418,rn,rn
+488,14419,rn,rn
+489,14420,std,
+490,14421,rn,
+491,14422,rn,
+492,14423,ro,read only
+493,14424,md,
+494,14425,rn,read only
+495,14426,rn,
+496,14427,rn,rn
+497,14428,ro,read only
+498,14429,rn,
+499,14430,ro,read only
+500,14431,rn,rn
+501,14432,rn,
+502,14433,rn,
+503,14434,ro,read only
+504,14435,rn,rn
+505,14436,rn,
+506,14437,rrt,
+507,14438,ua,uco
+508,14439,rn,
+509,14440,rn,read only
+510,14441,rn,rn
+511,14442,rn,rn
+512,14443,rn,
+513,14444,mds,resident/fellow/pa/np
+514,14445,ro,read only
+515,14446,md,attending
+516,14447,md,attending
+517,14448,medst,
+518,14449,mds,resident/fellow/pa/np
+519,14450,ro,read only
+520,14451,md,
+521,14452,md,
+522,14453,md,
+523,14454,rph,read only
+524,14455,md,
+525,14456,res,resident/fellow/pa/np
+526,14457,rph,
+527,14458,md,resident/fellow/pa/np
+528,14459,md,
+529,14460,ro,read only
+530,14461,pca,
+531,14462,md,resident/fellow/pa/np
+532,14463,ro,read only
+533,14464,ro,read only
+534,14465,ms,resident/fellow/pa/np
+535,14466,md,
+536,14467,std,read only
+537,14468,ro,read only
+538,14469,md,
+539,14470,rn,
+540,14471,ro,read only
+541,14472,ro,read only
+542,14473,mds,resident/fellow/pa/np
+543,14474,ro,read only
+544,14475,md,read only
+545,14476,md,
+546,14477,ms,resident/fellow/pa/np
+547,14478,res,resident/fellow/pa/np
+548,14479,md,
+549,14480,md,
+550,14481,medstu,
+551,14482,res,resident/fellow/pa/np
+552,14483,rn,rn
+553,14484,r.ph,pharmacist
+554,14485,res,read only
+555,14486,mds,resident/fellow/pa/np
+556,14487,ro,read only
+557,14488,ro,read only
+558,14489,rn,
+559,14490,md,
+560,14491,medst,
+561,14492,md,
+562,14493,ro,read only
+563,14494,md,resident/fellow/pa/np
+564,14495,md,attending
+565,14496,ro,read only
+566,14497,rph,pharmacist
+567,14498,ro,read only
+568,14499,np,read only
+569,14500,ro,read only
+570,14501,ro,read only
+571,14502,ro,read only
+572,14503,md,
+573,14504,ro,read only
+574,14505,res,resident/fellow/pa/np
+575,14506,md,
+576,14507,ro,read only
+577,14508,mds,resident/fellow/pa/np
+578,14509,ro,read only
+579,14510,md,attending
+580,14511,di,dietitian
+581,14512,md,
+582,14513,ro,read only
+583,14514,res,resident/fellow/pa/np
+584,14515,md,
+585,14516,ro,read only
+586,14517,md,resident/fellow/pa/np
+587,14518,rn,rn
+588,14519,pca,
+589,14520,ro,read only
+590,14521,mds,resident/fellow/pa/np
+591,14522,ro,read only
+592,14523,di,
+593,14524,md,resident/fellow/pa/np
+594,14525,ro,read only
+595,14526,md,
+596,14527,ro,read only
+597,14528,res,resident/fellow/pa/np
+598,14529,res,resident/fellow/pa/np
+599,14530,rehab,rehabilitation
+600,14531,mds,read only
+601,14532,ro,read only
+602,14533,res,resident/fellow/pa/np
+603,14534,ms,
+604,14535,rph,
+605,14536,md,
+606,14537,rehab,rehabilitation
+607,14538,ro,read only
+608,14539,md,
+609,14540,ua,
+610,14541,res,resident/fellow/pa/np
+611,14542,rn,rn
+612,14543,md,attending
+613,14544,res,resident/fellow/pa/np
+614,14545,md,
+615,14546,res,resident/fellow/pa/np
+616,14547,uco,uco
+617,14548,rn,rn
+618,14549,rph,pharmacist
+619,14550,res,resident/fellow/pa/np
+620,14551,rd,dietitian
+621,14552,md,resident/fellow/pa/np
+622,14553,md,
+1949,15949,ro,read only
+1950,15950,md,
+1951,15951,md,
+1952,15952,di,
+1953,15953,res,resident/fellow/pa/np
+1954,15954,ro,read only
+1955,15955,ro,read only
+1956,15956,medst,
+1957,15957,ro,read only
+1958,15958,ro,read only
+1959,15959,md,resident/fellow/pa/np
+1960,15960,ro,read only
+1961,15961,md,read only
+1962,15962,ro,read only
+1963,15963,rrt,
+1964,15964,md,read only
+1965,15965,md,
+1966,15966,md,
+1967,15967,ro,read only
+1968,15968,rn,rn
+1969,15969,cowker,
+1970,15970,md,
+1971,15971,ro,read only
+1972,15972,pca,
+1973,15973,ro,read only
+1974,15974,ro,read only
+1975,15975,ro,read only
+1976,15976,md,
+1977,15977,mds,resident/fellow/pa/np
+1978,15978,rn,
+1979,15979,md,read only
+1980,15980,ms,dietitian
+1981,15981,res,resident/fellow/pa/np
+1982,15982,ro,read only
+1983,15983,rn,
+1984,15984,ro,read only
+1985,15985,pca,
+1986,15986,rn,
+1987,15987,ro,read only
+1988,15988,ms,
+1989,15989,ro,read only
+1990,15990,rn,
+1991,15991,srn,
+1992,15992,ro,read only
+1993,15993,mds,resident/fellow/pa/np
+1994,15994,coopst,
+1995,15995,ro,read only
+1996,15996,rn,
+1997,15997,rn,rn
+1998,15998,rn,
+1999,15999,ro,read only
+2000,16000,ro,read only
+2001,16001,ro,read only
+2002,16002,ro,read only
+2003,16003,std,resident/fellow/pa/np
+2004,16004,md,
+2005,16005,rn,
+2006,16006,ro,read only
+2007,16007,md,read only
+2008,16008,ro,read only
+2009,16009,nurs,rn
+2010,16010,rn,
+2011,16011,ms,resident/fellow/pa/np
+2012,16012,rn,
+2013,16013,rn,
+2014,16014,ro,read only
+2015,16015,rn,
+2016,16016,ro,read only
+2017,16017,ro,read only
+2018,16018,rn,
+2019,16019,mds,
+2020,16020,rn,case manager
+2021,16021,rn,rn
+2022,16022,rn,
+2023,16023,rn,read only
+2024,16024,rn,
+2025,16025,rn,case manager
+2026,16026,rn,
+2027,16027,rn,rn
+2028,16028,ro,read only
+2029,16029,ro,read only
+2030,16030,rehab,rehabilitation
+2031,16031,res,resident/fellow/pa/np
+2032,16032,rd,dietitian
+2033,16033,res,resident/fellow/pa/np
+2034,16034,md,
+2035,16035,rn,rn
+2036,16036,rn,
+2037,16037,rn,rn
+2038,16038,res,resident/fellow/pa/np
+2039,16039,md,
+2040,16040,ro,read only
+2041,16041,rn,rn
+2042,16042,rn,rn
+2043,16043,rt,
+2098,16044,ro,read only
+2099,16045,mds,resident/fellow/pa/np
+2100,16046,ro,read only
+2101,16047,rn,
+2102,16048,ro,read only
+2103,16049,uc,
+2104,16050,mds,resident/fellow/pa/np
+2105,16051,md,
+2106,16052,mds,resident/fellow/pa/np
+2107,16053,ns,rn
+2108,16054,md,
+2109,16055,md,resident/fellow/pa/np
+2110,16056,ro,read only
+2111,16057,rn,
+2112,16058,md,
+2113,16059,ro,read only
+2114,16060,uco,uco
+2115,16061,uco,uco
+2116,16062,res,resident/fellow/pa/np
+2117,16063,res,resident/fellow/pa/np
+2118,16064,res,resident/fellow/pa/np
+2119,16065,rt,respiratory
+2120,16066,medstu,
+2121,16067,sw,social worker
+2122,16068,md,attending
+2123,16069,md,
+2124,16070,md,
+2125,16071,md,resident/fellow/pa/np
+2126,16072,issupp,
+2127,16073,mds,resident/fellow/pa/np
+2128,16074,ro,read only
+2129,16075,ro,read only
+2130,16076,mds,resident/fellow/pa/np
+2131,16077,md,
+2132,16078,md,
+2133,16079,res,resident/fellow/pa/np
+2134,16080,md,
+2135,16081,md,
+2136,16082,ms,resident/fellow/pa/np
+2137,16083,rn,
+2138,16084,md,
+2139,16085,md,
+2140,16086,md,
+2141,16087,medst,
+2142,16088,eaw,resident/fellow/pa/np
+2143,16089,md,resident/fellow/pa/np
+2144,16090,md,resident/fellow/pa/np
+2145,16091,ro,read only
+2146,16092,mds,read only
+2147,16093,rd,dietitian
+2148,16094,pa,resident/fellow/pa/np
+2149,16095,di,dietitian
+2150,16096,ro,read only
+2151,16097,rn,
+2152,16098,pca,
+2153,16099,ro,read only
+2154,16100,ro,read only
+2155,16101,md,
+2156,16102,rn,rn
+2157,16103,md,
+2158,16104,res,
+2159,16105,md,
+2160,16106,mds,resident/fellow/pa/np
+2161,16107,medst,
+2162,16108,mds,read only
+2163,16109,ro,read only
+2164,16110,ro,read only
+2165,16111,admin,
+2166,16112,srt,
+2167,16113,ra,read only
+2168,16114,rn,
+2169,16115,ro,read only
+2170,16116,rn,
+2171,16117,res,resident/fellow/pa/np
+2172,16118,rn,
+2173,16119,otr/l,
+2174,16120,rn,
+2175,16121,rn,
+2176,16122,pa,
+2177,16123,otr/l,
+2178,16124,rn,
+2179,16125,ro,read only
+2180,16126,md,resident/fellow/pa/np
+2181,16127,md,
+2182,16128,ro,read only
+2183,16129,stnrs,
+2184,16130,md,
+2185,16131,rn,
+2186,16132,ro,read only
+2187,16133,rn,
+2188,16134,ro,read only
+2189,16135,pca,
+2190,16136,mds,resident/fellow/pa/np
+2191,16137,ro,read only
+2192,16138,di,
+2193,16139,rn,rn
+2194,16140,rn,
+2195,16141,ro,read only
+2196,16142,rn,
+2197,16143,ro,read only
+2198,16144,di,dietitian
+2199,16145,md,resident/fellow/pa/np
+2200,16146,ro,read only
+2201,16147,cm,case manager
+2202,16148,ro,read only
+2203,16149,res,resident/fellow/pa/np
+2204,16150,sw,social worker
+2205,16151,ro,read only
+2206,16152,md,
+2207,16153,mds,resident/fellow/pa/np
+2208,16154,md,resident/fellow/pa/np
+2209,16155,md,
+2210,16156,md,
+2211,16157,ro,read only
+2212,16158,phd,
+2213,16159,md,
+2214,16160,ro,read only
+2215,16161,mds,resident/fellow/pa/np
+2216,16162,rn,
+2217,16163,ro,read only
+2218,16164,md,resident/fellow/pa/np
+2219,16165,mds,resident/fellow/pa/np
+2220,16166,md,
+2221,16167,medstu,
+2222,16168,ro,read only
+2223,16169,md,resident/fellow/pa/np
+2224,16170,rehab,rehabilitation
+2225,16171,uco,uco
+2226,16172,ro,read only
+2227,16173,ro,read only
+2731,16731,rehab,rehabilitation
+2732,16732,ro,read only
+2733,16733,rph,pharmacist
+2734,16734,md,
+2735,16735,rn,
+2736,16736,md,
+2737,16737,rehab,rehabilitation
+2738,16738,ro,read only
+2739,16739,res,resident/fellow/pa/np
+2740,16740,md,attending
+2741,16741,md,
+2742,16742,rn,rn
+2743,16743,res,resident/fellow/pa/np
+2744,16744,rn,rn
+2745,16745,md,
+2746,16746,rt,respiratory
+2747,16747,md,attending
+2748,16748,ro,read only
+2749,16749,res,resident/fellow/pa/np
+2750,16750,res,resident/fellow/pa/np
+2751,16751,res,resident/fellow/pa/np
+2752,16752,res,resident/fellow/pa/np
+2753,16753,res,resident/fellow/pa/np
+2754,16754,ro,read only
+2755,16755,md,read only
+2756,16756,ro,read only
+2757,16757,res,resident/fellow/pa/np
+2758,16758,res,resident/fellow/pa/np
+2759,16759,res,resident/fellow/pa/np
+2760,16760,res,resident/fellow/pa/np
+2761,16761,res,resident/fellow/pa/np
+2762,16762,res,resident/fellow/pa/np
+2763,16763,res,resident/fellow/pa/np
+2764,16764,cm,case manager
+2765,16765,res,resident/fellow/pa/np
+2766,16766,rn,rn
+2767,16767,md,
+2768,16768,res,resident/fellow/pa/np
+2769,16769,rn,
+2770,16770,md,read only
+2771,16771,rph,pharmacist
+2772,16772,ro,read only
+2773,16773,res,resident/fellow/pa/np
+2774,16774,res,resident/fellow/pa/np
+2775,16775,res,resident/fellow/pa/np
+2776,16776,res,resident/fellow/pa/np
+2777,16777,cm,case manager
+2778,16778,res,resident/fellow/pa/np
+2779,16779,res,resident/fellow/pa/np
+2780,16780,res,resident/fellow/pa/np
+2781,16781,pct,pct/na
+2782,16782,uco,uco
+2783,16783,rehab,rehabilitation
+2784,16784,md,attending
+2785,16785,res,resident/fellow/pa/np
+2786,16786,rph,pharmacist
+2787,16787,res,resident/fellow/pa/np
+2788,16788,ro,read only
+2789,16789,rehab,rehabilitation
+2790,16790,ro,read only
+2791,16791,md,
+2792,16792,pct,pct/na
+2793,16793,md,
+2794,16794,md,read only
+2795,16795,ro,read only
+2796,16796,res,resident/fellow/pa/np
+2797,16797,rn,rn
+3012,17363,ro,read only
+3013,17364,ro,read only
+3014,17365,md,
+3015,17366,md,
+3016,17367,md,
+3017,17368,rph,read only
+3018,17369,md,
+3019,17370,medstu,resident/fellow/pa/np
+3020,17371,md,
+3021,17372,medres,resident/fellow/pa/np
+3022,17373,md,attending
+3023,17374,res,resident/fellow/pa/np
+3024,17375,uco,uco
+3025,17376,res,resident/fellow/pa/np
+3026,17377,res,resident/fellow/pa/np
+3027,17378,ro,read only
+3028,17379,md,
+3029,17380,medst,
+3030,17381,ro,read only
+3031,17382,ro,read only
+3032,17383,md,resident/fellow/pa/np
+3033,17384,mds,resident/fellow/pa/np
+3034,17385,mds,resident/fellow/pa/np
+3035,17386,md,
+3036,17387,md,resident/fellow/pa/np
+3037,17388,ro,read only
+3038,17389,ro,read only
+3039,17390,ms,
+3040,17391,cowork,pct/na
+3041,17392,md,
+3042,17393,md,
+3043,17394,mds,read only
+3394,17395,rph,pharmacist
+3395,17396,srn,
+3396,17397,rn,rn
+3397,17398,rrt,
+3398,17399,rn,read only
+3399,17400,md,
+3400,17401,ro,read only
+3401,17402,res,resident/fellow/pa/np
+3402,17403,ro,read only
+3403,17404,md,
+3404,17405,md,
+3405,17406,res,resident/fellow/pa/np
+3406,17407,md,attending
+3407,17408,ro,read only
+3408,17409,pct,pct/na
+3409,17410,ro,read only
+3410,17411,ro,read only
+3411,17412,ro,read only
+3412,17413,ro,read only
+3413,17414,md,
+3414,17415,ro,read only
+3415,17416,ro,read only
+3416,17417,ro,read only
+3417,17418,ms,resident/fellow/pa/np
+3418,17419,md,attending
+3419,17420,pct,
+3420,17421,md,attending
+3421,17422,res,resident/fellow/pa/np
+3422,17423,md,
+3423,17424,ro,read only
+3424,17425,md,
+3425,17426,res,resident/fellow/pa/np
+3426,17427,md,
+3427,17428,mds,
+3428,17429,ro,read only
+3429,17430,ro,read only
+3430,17431,ro,read only
+3431,17432,mds,
+3432,17433,md,
+3433,17434,ro,read only
+3434,17435,rn,rn
+3435,17436,md,read only
+3436,17437,sw,social worker
+3437,17438,nsgst,
+3438,17439,rn,
+3439,17440,rn,rn
+3440,17441,np,
+3441,17442,md,attending
+3442,17443,rrt,respiratory
+3443,17444,ms,read only
+3444,17445,ro,read only
+3445,17446,rn,rn
+3446,17447,res,resident/fellow/pa/np
+3447,17448,md,
+3448,17449,ro,read only
+3449,17450,md,attending
+3450,17451,std,
+3451,17452,ua,
+3452,17453,rn,resident/fellow/pa/np
+3453,17454,rn,
+3454,17455,ro,read only
+3455,17456,ro,read only
+3456,17457,rn,rn
+3457,17458,rn,
+3458,17459,dr,
+3459,17460,md,
+3460,17461,rn,rn
+3461,17462,ro,read only
+3462,17463,ro,read only
+3463,17464,rn,rn
+3464,17465,md,
+3465,17466,ro,read only
+3466,17467,md,
+3467,17468,ro,read only
+3468,17469,ro,read only
+3469,17470,ro,read only
+3470,17471,ro,read only
+3471,17472,rn,
+3472,17473,uco,uco
+3473,17474,rn,rn
+3474,17475,res,resident/fellow/pa/np
+3475,17476,rn,rn
+3476,17477,rrt,
+3477,17478,rn,rn
+3478,17479,rrt,respiratory
+3479,17480,rn,rn
+3480,17481,ro,read only
+3481,17482,rn,
+3482,17483,ro,read only
+3483,17484,ro,read only
+3484,17485,rn,rn
+3486,17487,rrt,
+3487,17488,md,
+3488,17489,md,
+3489,17490,ro,read only
+3490,17491,ro,read only
+3491,17492,md,
+3492,17493,rtst,
+3493,17494,ro,read only
+3494,17495,rn,
+3495,17496,rn,
+3496,17497,ro,read only
+3497,17498,md,
+3498,17499,rn,
+3499,17500,ro,read only
+3500,17501,ro,read only
+3501,17502,ro,read only
+3502,17503,res,
+3503,17504,md,
+3504,17505,coord,
+3505,17506,ro,read only
+3506,17507,pt,rehabilitation
+3507,17508,rn,
+3508,17509,md,
+3509,17510,md,
+3510,17511,rn,
+3511,17512,rn,
+3512,17513,ro,read only
+3513,17514,res,resident/fellow/pa/np
+3514,17515,ro,read only
+3515,17516,md,resident/fellow/pa/np
+3516,17517,rn,
+3517,17518,ro,read only
+3518,17519,pct,
+3519,17520,rn,case manager
+3520,17521,di,
+3521,17522,res,resident/fellow/pa/np
+3522,17523,ro,read only
+3523,17524,dr,
+3524,17525,rn,rn
+3525,17526,std,
+3526,17527,md,resident/fellow/pa/np
+3527,17528,std,
+3528,17529,md,
+3529,17530,md,
+3530,17531,res,read only
+3531,17532,ro,read only
+3532,17533,ro,read only
+3533,17534,ro,read only
+3534,17535,rph,
+3535,17536,ms,resident/fellow/pa/np
+3536,17537,ro,read only
+3537,17538,res,resident/fellow/pa/np
+3538,17539,ro,read only
+3539,17540,ro,read only
+3540,17541,res,resident/fellow/pa/np
+3541,17542,res,resident/fellow/pa/np
+3542,17543,md,
+3543,17544,md,
+3544,17545,ro,read only
+3545,17546,nustud,
+3546,17547,md,
+3547,17548,res,resident/fellow/pa/np
+2798,16798,pharmd,
+2799,16799,md,read only
+2800,16800,ro,read only
+2801,16801,ro,read only
+2802,16802,res,resident/fellow/pa/np
+2803,16803,ua,uco
+2804,16804,md,
+2805,16805,ro,read only
+2806,16806,imd,imd
+2807,16807,sw,social worker
+2808,16808,ro,read only
+2809,16809,ro,read only
+2810,16810,md,resident/fellow/pa/np
+2811,16811,res,resident/fellow/pa/np
+2812,16812,ro,read only
+2813,16813,mds,
+2814,16814,res,resident/fellow/pa/np
+2815,16815,ro,read only
+2816,16816,ro,read only
+2817,16817,ms,
+2818,16818,rn,rn
+2819,16819,md,
+2820,16820,ro,read only
+2821,16821,ro,read only
+2822,16822,ro,read only
+2823,16823,uco,
+2824,16824,rtstu,
+2825,16825,ms,uco
+2826,16826,md,
+2827,16827,ua,uco
+2828,16828,res,resident/fellow/pa/np
+2829,16829,prog,
+2830,16830,ro,read only
+2831,16831,ms,
+2832,16832,uco,
+2833,16833,ro,read only
+2834,16834,ro,read only
+2835,16835,ro,read only
+2836,16836,uco,uco
+2837,16837,rn,rn
+2838,16838,rd,dietitian
+2839,16839,ro,read only
+2840,16840,ro,read only
+2841,16841,ro,read only
+2842,16842,rph,
+2843,16843,rescha,
+2844,16844,ro,read only
+2845,16845,stpha,
+2846,16846,cowker,
+2847,16847,cra,
+2848,16848,rrt,
+2849,16849,ro,read only
+2850,16850,pt,
+2851,16851,md,
+2852,16852,res,resident/fellow/pa/np
+2853,16853,di,dietitian
+2854,16854,rt,respiratory
+2855,16855,ms,
+2856,16856,ro,read only
+2857,16857,res,resident/fellow/pa/np
+2858,16858,phad,
+2859,16859,res,resident/fellow/pa/np
+2860,16860,md,read only
+2861,16861,rn,rn
+2862,16862,sw,social worker
+2863,16863,res,resident/fellow/pa/np
+2864,16864,rn,
+2865,16865,rn,
+2866,16866,rn,rn
+2867,16867,md,attending
+2868,16868,ro,read only
+2869,16869,rn,
+2870,16870,rn,rn
+2871,16871,ro,read only
+2872,16872,ro,read only
+2873,16873,md,
+2874,16874,ro,read only
+2875,16875,md,
+2876,16876,ro,read only
+2877,16877,res,
+2878,16878,ro,read only
+2879,16879,ro,read only
+2880,16880,ro,read only
+2881,16881,stu,
+2882,16882,res,
+2884,16884,ro,read only
+2885,16885,md,attending
+2886,16886,"rn,rph",
+2887,16887,md,
+2888,16888,md,read only
+2889,16889,ro,read only
+2890,16890,rn,rn
+2891,16891,uco,uco
+2892,16892,ro,read only
+2893,16893,ro,read only
+2894,16894,rn,
+2895,16895,ro,read only
+2896,16896,md,
+2897,16897,md,
+2898,16898,md,
+2899,16899,rn,
+2900,16900,ro,read only
+2901,16901,rn,rn
+2902,16902,ms,
+2903,16903,rn,
+2904,16904,md,
+2905,16905,md,
+2906,16906,issupp,
+2907,16907,md,resident/fellow/pa/np
+2908,16908,md,
+2909,16909,ro,read only
+2910,16910,md,
+2911,16911,ro,read only
+2912,16912,ro,read only
+2913,16913,md,
+2914,16914,rn,
+2915,16915,rn,rn
+2916,16916,rn,
+2917,16917,ro,read only
+2918,16918,stud,
+2919,16919,ro,read only
+2920,16920,ro,read only
+2921,16921,mds,
+2922,16922,md,
+2923,16923,rnc,
+2924,16924,rrt,respiratory
+2925,16925,ro,read only
+2926,16926,rn,rn
+2927,16927,rph,pharmacist
+2928,16928,rnc,
+2929,16929,md,read only
+2930,16930,ro,read only
+2931,16931,coopst,read only
+2932,16932,mds,
+2933,16933,ro,read only
+2934,16934,rn,rn
+2935,16935,ro,read only
+2936,16936,md,
+2937,16937,md,
+2938,16938,medst.,
+2939,16939,rn,rn
+2940,16940,ro,read only
+2941,16941,rrt,
+2942,16942,pt,
+2943,16943,res,resident/fellow/pa/np
+2944,16944,res,resident/fellow/pa/np
+2945,16945,rrt,respiratory
+2946,16946,rn,read only
+2947,16947,mds,resident/fellow/pa/np
+2948,16948,rn,rn
+2949,16949,rn,
+2950,16950,rn,
+2951,16951,rn,respiratory
+2952,16952,ro,read only
+2953,16953,uco,uco
+2954,16954,rrt,
+2955,16955,ro,read only
+2956,16956,ms,
+2957,16957,rn,rn
+2958,16958,std,
+2959,16959,md,
+2960,16960,rn,rn
+2961,16961,md,resident/fellow/pa/np
+2962,16962,md,
+2963,16963,ro,read only
+2964,16964,rn,rn
+2965,16965,co-wor,pct/na
+2966,16966,ro,read only
+2967,16967,ro,read only
+2968,16968,ro,read only
+2969,16969,ms,
+2970,16970,md,
+2971,16971,pt,
+2972,16973,md,read only
+2973,16974,md,resident/fellow/pa/np
+2974,16975,rrt,
+2975,16976,md,
+2976,16977,md,resident/fellow/pa/np
+2977,16978,rn,rn
+2978,16979,ro,read only
+2979,16980,md,resident/fellow/pa/np
+2980,16981,msiv,
+2981,16982,md,
+2982,16983,md,read only
+2983,16984,md,
+2984,16985,rrt,respiratory
+2985,16986,md,
+2986,16987,phstud,
+2987,16988,md,read only
+2988,16989,ro,read only
+2989,16990,ro,read only
+2990,16991,md,
+2991,16992,ro,read only
+2992,16993,md,
+2993,16994,ro,read only
+2994,16995,mds,resident/fellow/pa/np
+3044,16996,ro,read only
+3045,16997,ro,read only
+3046,16998,ro,read only
+3047,16999,ro,read only
+3048,17000,md,
+3049,17001,rn,
+3050,17002,rn,
+3051,17003,ms,
+3052,17004,md,
+3053,17005,rn,rn
+3054,17006,md,
+3055,17007,ro,read only
+3056,17008,md,
+3057,17009,rn,
+3058,17010,rn,rn
+3059,17011,ro,read only
+3060,17012,ro,read only
+3061,17013,rn,rn
+3062,17014,pct,pct/na
+3063,17015,rn,
+3064,17016,ro,read only
+3065,17017,ro,read only
+3066,17018,rt,respiratory
+3067,17019,ro,read only
+3068,17020,ro,read only
+3069,17021,ro,read only
+3070,17022,md,
+3071,17023,rn,
+3072,17024,ro,read only
+3073,17025,crs,read only
+3074,17026,phad,
+3075,17027,ro,read only
+3076,17028,ro,read only
+3077,17029,md,read only
+3078,17030,mds,resident/fellow/pa/np
+3079,17031,mds,
+3080,17032,ro,read only
+3081,17033,md,read only
+3082,17034,imd,imd
+3083,17035,ro,read only
+3084,17036,ro,read only
+3085,17037,md,
+3086,17038,md,resident/fellow/pa/np
+3087,17039,md,
+3088,17040,srt,
+3089,17041,res,resident/fellow/pa/np
+3090,17042,mds,resident/fellow/pa/np
+3091,17043,md,
+3092,17044,md,resident/fellow/pa/np
+3093,17045,ro,read only
+3094,17046,ro,read only
+3095,17047,md,
+3096,17048,rn,rn
+3097,17049,ro,read only
+3098,17050,rrt,
+3099,17051,md,
+3100,17052,isops,administrator
+3101,17053,rn,rn
+3102,17054,md,resident/fellow/pa/np
+3103,17055,res,
+3104,17056,md,
+3105,17057,md,read only
+3106,17058,rn,rn
+3107,17059,md,
+3108,17060,dietin,
+3109,17061,ro,read only
+3110,17062,rn,rn
+3111,17063,rn,rn
+3112,17064,ro,read only
+3113,17065,ro,read only
+3114,17066,pca,read only
+3115,17067,ro,read only
+3116,17068,rn,
+3117,17069,ro,read only
+3118,17070,rn,pharmacist
+3119,17071,ro,read only
+3120,17072,md,
+3121,17073,ro,read only
+3122,17074,md,resident/fellow/pa/np
+3123,17075,d,
+3124,17076,ro,read only
+3125,17077,ro,read only
+3126,17078,ro,read only
+3127,17079,rn,
+3128,17080,ro,read only
+3129,17081,uco,read only
+3130,17082,rn,
+3131,17083,md,
+3132,17084,rn,
+3133,17085,md,
+3134,17086,md,
+3135,17087,rn,
+3136,17088,rn,rn
+3137,17089,md,
+3138,17090,md,
+3139,17091,sn,
+3140,17092,pa,resident/fellow/pa/np
+3141,17093,ro,read only
+3142,17094,rn,
+3143,17095,rn,
+3144,17096,ro,read only
+3145,17097,rn,rn
+3146,17098,mds,resident/fellow/pa/np
+3147,17099,ro,read only
+3148,17100,ro,read only
+3149,17101,rn,
+3150,17102,rn,
+3151,17103,rrt,
+3152,17104,ro,read only
+3153,17105,ro,read only
+3154,17106,md,
+3155,17107,ro,read only
+3156,17108,md,
+3157,17109,md,read only
+3158,17110,md,
+3160,17112,md,
+3161,17113,pt,
+3162,17114,rn,rn
+3164,17116,ro,read only
+3165,17117,ro,read only
+3166,17118,mds,resident/fellow/pa/np
+3167,17119,ro,read only
+3168,17120,ro,read only
+3169,17121,rn,
+3170,17122,rn,rn
+3171,17123,cowker,
+3172,17124,mds,resident/fellow/pa/np
+3173,17125,rn,
+3174,17126,ro,read only
+3175,17127,ccp,
+3176,17128,rn,
+3177,17129,ro,read only
+3178,17130,rn,rn
+3179,17131,mds,read only
+3180,17132,ro,read only
+3181,17133,ro,read only
+3182,17134,ro,read only
+3183,17135,md,
+3184,17136,rn,rn
+3185,17137,ro,read only
+3186,17138,rn,
+3187,17139,rrt,resident/fellow/pa/np
+3188,17140,corn,rn
+3189,17141,ro,read only
+3190,17142,md,
+3191,17143,ro,read only
+3192,17144,cowkr,
+3193,17145,ro,read only
+3194,17146,di,dietitian
+3195,17147,rn,read only
+3196,17148,ro,read only
+3197,17149,di,
+3198,17150,md,
+3199,17151,ro,read only
+3200,17152,reassi,
+3201,17153,md,
+3202,17154,md,
+3203,17155,rn,rn
+3204,17156,rd,dietitian
+3205,17157,md,
+3206,17158,ms,
+3207,17159,licsw,
+3208,17160,ro,read only
+3209,17161,md,
+3210,17162,md,
+3211,17163,md,
+3212,17164,mds,resident/fellow/pa/np
+3213,17165,ro,read only
+3214,17166,ua,uco
+3215,17167,ms,
+3216,17168,ro,read only
+3217,17169,rrt,respiratory
+3218,17170,md,
+3219,17171,rrt,
+3220,17172,res,resident/fellow/pa/np
+3221,17173,ro,read only
+3222,17174,md,
+3223,17175,md,resident/fellow/pa/np
+3224,17176,res,resident/fellow/pa/np
+3225,17177,coopst,pct/na
+3226,17178,ro,read only
+3227,17179,md,
+3228,17180,ro,read only
+3229,17181,ro,read only
+3230,17182,ro,read only
+3231,17183,rn,rn
+3232,17184,mds,
+3233,17185,md,resident/fellow/pa/np
+3234,17186,ro,read only
+3235,17187,pct,pct/na
+3236,17188,std,
+3237,17189,rn,
+3238,17190,rn,rn
+3239,17191,ro,read only
+3240,17192,md,resident/fellow/pa/np
+3241,17193,rn,
+3242,17194,rn,
+3243,17195,res,resident/fellow/pa/np
+3244,17196,rn,
+3245,17197,ro,read only
+3246,17198,res,resident/fellow/pa/np
+3247,17199,rrt,read only
+3248,17200,ro,read only
+3249,17201,std,read only
+3250,17202,ro,read only
+3251,17203,ro,read only
+3252,17204,srn,
+3253,17205,ro,read only
+3254,17206,rn,
+3255,17207,dpm,
+3256,17208,ro,read only
+3257,17209,res,resident/fellow/pa/np
+3258,17210,rn,rn
+3259,17211,ro,read only
+3260,17212,res,resident/fellow/pa/np
+3261,17213,md,
+3262,17214,res,resident/fellow/pa/np
+3263,17215,rn,
+3264,17216,rn,
+3265,17217,rn,
+3266,17218,rn,
+3267,17219,rn,rn
+3268,17220,ro,read only
+3269,17221,dietin,
+3270,17222,rn,rn
+3271,17223,md,read only
+3272,17224,srt,respiratory
+3273,17225,rd,dietitian
+3274,17226,res,resident/fellow/pa/np
+3275,17227,rn,rn
+3276,17228,rehab,rehabilitation
+3277,17229,ro,read only
+3278,17230,pca,
+3279,17231,ro,read only
+3280,17232,ro,read only
+3281,17233,ro,read only
+3282,17234,res,resident/fellow/pa/np
+3283,17235,issupp,
+3284,17236,md,
+3285,17237,res,resident/fellow/pa/np
+3286,17238,ro,read only
+3287,17239,mds,resident/fellow/pa/np
+3288,17240,rn,
+3289,17241,cowker,
+3290,17242,ro,read only
+3291,17243,pt,rehabilitation
+3292,17244,ro,read only
+3293,17245,ro,read only
+3294,17246,rn,
+3295,17247,rd,
+3296,17248,rn,rn
+3297,17249,rn,rn
+3298,17250,rn,rn
+3299,17251,rn,rn
+3300,17252,md,
+3301,17253,studen,
+3302,17254,sn,
+3303,17255,rn,
+3304,17256,ro,read only
+3305,17257,ro,read only
+3306,17258,ro,read only
+3307,17259,rn,
+3308,17260,md,
+3309,17261,ro,read only
+3310,17262,md,
+3311,17263,ro,read only
+3312,17264,rn,
+3313,17265,ro,read only
+3314,17266,md,
+3315,17267,rn,
+3316,17268,md,
+3317,17269,rn,
+3318,17270,rn,rn
+3319,17271,md,
+3320,17272,ro,read only
+3321,17273,rts,
+3322,17274,rrt,
+3323,17275,rrt,
+3324,17276,ms,
+3325,17277,rrt,respiratory
+3326,17278,res,
+3327,17279,md,resident/fellow/pa/np
+3328,17280,mds,resident/fellow/pa/np
+3329,17281,1390,resident/fellow/pa/np
+3330,17282,res,resident/fellow/pa/np
+3331,17283,md,
+3332,17284,ro,read only
+3333,17285,ro,read only
+3334,17286,rn,rn
+3335,17287,md,read only
+3336,17288,md,
+3337,17289,rph,
+3338,17290,ro,read only
+3339,17291,ro,read only
+3340,17292,md,resident/fellow/pa/np
+3341,17293,md,
+3342,17294,st,
+3343,17295,rn,rn
+3344,17296,md,
+3345,17297,md,
+3346,17298,md,
+3347,17299,md,read only
+3348,17300,res,resident/fellow/pa/np
+3349,17301,md,
+3350,17302,mds,resident/fellow/pa/np
+3351,17303,ro,read only
+3352,17304,ro,read only
+3353,17305,ro,read only
+3354,17306,rn,
+3355,17307,md,
+3356,17308,ro,read only
+3357,17309,ms,read only
+3358,17310,md,
+3359,17311,ro,read only
+3360,17312,np,read only
+3361,17313,md,
+3362,17314,medstu,
+3363,17315,md,
+3364,17316,phastu,
+3365,17317,md,resident/fellow/pa/np
+3366,17318,md,read only
+3367,17319,std,resident/fellow/pa/np
+3368,17320,md,
+3369,17321,md,
+3370,17322,md,resident/fellow/pa/np
+3371,17323,md,
+3372,17324,md,
+3373,17325,ro,read only
+3374,17326,pa,
+3375,17327,ro,read only
+3376,17328,ro,read only
+3377,17329,md,
+3378,17330,md,
+3379,17331,mds,resident/fellow/pa/np
+3380,17332,cpht,
+3381,17333,ro,read only
+3382,17334,md,
+3383,17335,md,
+3384,17336,md,
+3385,17337,issupp,
+3386,17338,md,attending
+3387,17339,rn,rn
+3388,17340,rt,respiratory
+3389,17341,res,resident/fellow/pa/np
+3390,17342,res,resident/fellow/pa/np
+3391,17343,res,resident/fellow/pa/np
+3392,17344,ro,read only
+3393,17345,res,
+2995,17346,rn,rn
+2996,17347,ro,read only
+2997,17348,ro,read only
+2998,17349,ro,read only
+2999,17350,ro,read only
+3000,17351,di,dietitian
+3001,17352,sw,social worker
+3002,17353,md,resident/fellow/pa/np
+3003,17354,ro,read only
+3004,17355,md,resident/fellow/pa/np
+3005,17356,md,
+3006,17357,ro,read only
+3007,17358,md,
+3008,17359,ro,read only
+3009,17360,md,
+3010,17361,mds,
+3011,17362,ro,read only
+4623,18625,ro,read only
+4624,18626,rrt,
+4625,18627,ro,read only
+4626,18628,md,
+4627,18629,md,read only
+4628,18630,md,
+4629,18631,md,
+4630,18632,pct,pct/na
+4631,18633,md,attending
+4632,18634,res,resident/fellow/pa/np
+4633,18635,res,resident/fellow/pa/np
+4634,18636,srt,
+4635,18637,md,
+4636,18638,rrt,
+4637,18639,rn,
+4638,18640,ro,read only
+4639,18641,res,resident/fellow/pa/np
+4640,18642,ro,read only
+4641,18643,ro,read only
+4642,18644,ro,read only
+4643,18645,rrt,
+4644,18646,rph,pharmacist
+4645,18647,res,resident/fellow/pa/np
+4646,18648,ro,read only
+4647,18649,md,resident/fellow/pa/np
+4648,18650,nstude,
+4649,18651,rn,
+4650,18652,md,read only
+4651,18653,rn,
+4652,18654,rn,rn
+4653,18655,rn,
+4654,18656,md,read only
+4655,18657,9596,resident/fellow/pa/np
+4656,18658,res,resident/fellow/pa/np
+4657,18659,mds,resident/fellow/pa/np
+4658,18660,md,
+4659,18661,rt,respiratory
+4660,18662,isops,read only
+4661,18663,rph,pharmacist
+4662,18664,ro,read only
+4663,18665,crt,
+4664,18666,res,resident/fellow/pa/np
+4665,18667,rt,respiratory
+4666,18668,admin,administrator
+4667,18669,res,resident/fellow/pa/np
+4668,18670,rrt,
+4669,18671,ro,read only
+4670,18672,ro,read only
+4671,18673,rn,
+4672,18674,md,
+4673,18675,rn,rn
+4674,18676,rn,
+4675,18677,pt,
+4676,18678,md,
+4677,18679,rn,rn
+4678,18680,ro,read only
+4679,18681,ro,read only
+4680,18682,ro,read only
+4681,18683,ro,read only
+1032,15032,rt,respiratory
+1033,15033,res,resident/fellow/pa/np
+1034,15034,md,attending
+1035,15035,res,resident/fellow/pa/np
+1036,15036,rehab,rehabilitation
+1037,15037,rehab,rehabilitation
+1038,15038,rns,rn
+1039,15039,rn,rn
+1040,15040,uc,pct/na
+1041,15041,rehab,rehabilitation
+1042,15042,ro,read only
+1043,15043,res,resident/fellow/pa/np
+1044,15044,res,resident/fellow/pa/np
+1045,15045,md,read only
+1046,15046,rn,rn
+1047,15047,rn,rn
+1048,15048,rn,
+1049,15049,np,
+1050,15050,md,
+1051,15051,ro,read only
+1052,15052,md,resident/fellow/pa/np
+1053,15053,rn,rn
+1054,15054,ro,read only
+1055,15055,rn,rn
+1056,15056,np,
+1057,15057,ro,read only
+1058,15058,mds,resident/fellow/pa/np
+1059,15059,mds,resident/fellow/pa/np
+1060,15060,md,
+1061,15061,rrt,
+1062,15062,rn,rn
+1063,15063,ro,read only
+1064,15064,rn,
+1065,15065,rn,rn
+1066,15066,md,
+1067,15067,rn,
+1068,15068,rn,
+1069,15069,studen,
+1070,15070,rn,rn
+1071,15071,admin,administrator
+1072,15072,rn,rn
+1073,15073,md,
+1074,15074,sw,social worker
+1075,15075,rn,rn
+1076,15076,ro,read only
+1077,15077,ro,read only
+1078,15078,res,resident/fellow/pa/np
+1079,15079,md,attending
+1080,15080,studen,
+1081,15081,rehab,rehabilitation
+1082,15082,ro,read only
+1083,15083,rn,rn
+1084,15084,cm,case manager
+1085,15085,md,attending
+1086,15086,res,resident/fellow/pa/np
+1087,15087,ro,read only
+1088,15088,res,resident/fellow/pa/np
+1089,15089,rn,rn
+1090,15090,ms,
+1091,15091,res,resident/fellow/pa/np
+1092,15092,res,resident/fellow/pa/np
+1093,15093,res,resident/fellow/pa/np
+1094,15094,md,
+1095,15095,ro,read only
+1096,15096,md,
+1097,15097,res,resident/fellow/pa/np
+1098,15098,ro,read only
+1099,15099,ro,read only
+1100,15100,rn,
+1101,15101,md,
+1102,15102,cowker,pct/na
+1103,15103,med st,resident/fellow/pa/np
+1104,15104,rn,
+1105,15105,co-wkr,
+1106,15106,md,resident/fellow/pa/np
+1107,15107,ro,read only
+1108,15108,sw,social worker
+1109,15109,md,
+1110,15110,md,
+1111,15111,md,attending
+1112,15112,ro,read only
+1113,15113,pct,pct/na
+1114,15114,ro,read only
+1115,15115,coopst,
+1116,15116,mds,resident/fellow/pa/np
+1117,15117,md,
+1118,15118,res,resident/fellow/pa/np
+1119,15119,res,resident/fellow/pa/np
+1120,15120,md,resident/fellow/pa/np
+1121,15121,res,resident/fellow/pa/np
+1122,15122,rt,respiratory
+1123,15123,res,resident/fellow/pa/np
+1124,15124,res,resident/fellow/pa/np
+1125,15125,res,resident/fellow/pa/np
+1126,15126,sw,social worker
+1127,15127,res,resident/fellow/pa/np
+1128,15128,res,resident/fellow/pa/np
+1129,15129,res,resident/fellow/pa/np
+1130,15130,rehab,rehabilitation
+1131,15131,cm,case manager
+1132,15132,cm,case manager
+1133,15133,pct,read only
+1134,15134,res,resident/fellow/pa/np
+1135,15135,res,resident/fellow/pa/np
+1136,15136,res,resident/fellow/pa/np
+1137,15137,res,resident/fellow/pa/np
+1138,15138,res,resident/fellow/pa/np
+1139,15139,res,resident/fellow/pa/np
+1140,15140,rehab,rehabilitation
+1141,15141,res,resident/fellow/pa/np
+1142,15142,res,resident/fellow/pa/np
+1143,15143,mds,read only
+1144,15144,res,resident/fellow/pa/np
+1145,15145,rph,pharmacist
+1146,15146,res,resident/fellow/pa/np
+1147,15147,ms,
+1148,15148,ro,read only
+1149,15149,mds,resident/fellow/pa/np
+1150,15150,rn,
+1151,15151,md,
+1152,15152,res,resident/fellow/pa/np
+1153,15153,rph,
+1154,15154,ro,read only
+1155,15155,md,
+1156,15156,rn,
+1157,15157,rn,
+1158,15158,md,
+1159,15159,ro,read only
+1160,15160,ro,read only
+1161,15161,rn,
+1162,15162,rrt,
+1163,15163,uco,
+1164,15164,rn,read only
+1165,15165,mds,resident/fellow/pa/np
+1166,15166,res,resident/fellow/pa/np
+1167,15167,md,
+1168,15168,ro,read only
+1169,15169,ms,
+1170,15170,md,
+1171,15171,res,resident/fellow/pa/np
+1172,15172,res,resident/fellow/pa/np
+1173,15173,rd,dietitian
+1174,15174,res,resident/fellow/pa/np
+1175,15175,md,
+1176,15176,rph,pharmacist
+1177,15177,pct,pct/na
+1243,15178,res,resident/fellow/pa/np
+1244,15179,rph,pharmacist
+1245,15180,ro,read only
+1246,15181,res,resident/fellow/pa/np
+1247,15182,res,resident/fellow/pa/np
+1248,15183,res,resident/fellow/pa/np
+1249,15184,rph,pharmacist
+1250,15185,res,resident/fellow/pa/np
+1251,15186,res,resident/fellow/pa/np
+1252,15187,res,resident/fellow/pa/np
+1253,15188,rph,
+1254,15189,rn,
+1255,15190,rph,
+1256,15191,rrt,
+1257,15192,md,
+1258,15193,rehab,rehabilitation
+1259,15194,msiv,
+1260,15195,ro,read only
+1261,15196,ro,read only
+1262,15197,ra,research assistant
+1263,15198,di,
+1264,15199,ms,
+1265,15200,pharmd,pharmacist
+1266,15201,md,
+1267,15202,md,
+1268,15203,srt,respiratory
+1269,15204,di,dietitian
+1270,15205,ro,read only
+1271,15206,mds,
+1272,15207,np,read only
+1273,15208,ro,read only
+1274,15209,ro,read only
+1275,15210,ro,read only
+1276,15211,ro,read only
+1277,15212,rn,rn
+1278,15213,ro,read only
+1279,15214,ro,read only
+1280,15215,md,
+1281,15216,rn,rn
+1282,15217,rn,rn
+1283,15218,rn,rn
+1284,15219,ro,read only
+1285,15220,mds,
+1286,15221,ro,read only
+1287,15222,rn,rn
+1288,15223,rs,read only
+1289,15224,rn,
+1290,15225,rn,rn
+1291,15226,rn,read only
+1292,15227,mds,
+1293,15228,ro,read only
+1294,15229,rn,
+1295,15230,ro,read only
+1296,15231,srt,
+1297,15232,ro,read only
+1298,15233,ro,read only
+1299,15234,md,resident/fellow/pa/np
+1300,15235,mds,resident/fellow/pa/np
+1301,15236,rph,
+1302,15237,mds,resident/fellow/pa/np
+1303,15238,ro,read only
+1304,15239,rd,dietitian
+1305,15240,ro,read only
+1306,15241,rn,
+1307,15242,rn,
+1308,15243,ro,read only
+1309,15244,rn,
+1310,15245,ro,read only
+1311,15246,ms,
+1312,15247,ro,read only
+1313,15248,mds,
+1314,15249,ro,read only
+1315,15250,res,
+1316,15251,md,attending
+1317,15252,md,attending
+1318,15253,md,
+1319,15254,med st,
+1320,15255,rn,
+1321,15256,ua,
+1322,15257,md,
+1323,15258,md,
+1324,15259,md,
+1325,15260,md,
+1326,15261,md,
+1327,15262,rn,
+1328,15263,md,
+1329,15264,md,
+1330,15265,md,
+1331,15266,rph,pharmacist
+1332,15267,md,
+1333,15268,nurse,uco
+1334,15269,md,
+1335,15270,md,
+1336,15271,ro,read only
+1337,15272,ro,read only
+1338,15273,ro,read only
+1339,15274,md,
+1340,15275,rrt,
+1341,15276,md,
+1342,15277,rph,
+1343,15278,rt,
+1344,15279,ro,read only
+1345,15280,rn,
+1346,15281,rph,
+1347,15282,md,
+1348,15283,rn,
+1349,15284,md,
+1350,15285,rn,rn
+1351,15286,rn,rn
+1352,15287,ro,read only
+1353,15288,rehab,rehabilitation
+1354,15289,ro,read only
+1355,15290,res,resident/fellow/pa/np
+1356,15291,ro,read only
+1357,15292,uco,uco
+1358,15293,md,
+1359,15294,md,
+1360,15295,res,resident/fellow/pa/np
+1361,15296,md,
+1362,15297,md,
+1363,15298,ro,read only
+1364,15299,ua,
+1365,15300,rn,
+1366,15301,rn,
+1367,15302,ro,read only
+1368,15303,ro,read only
+1369,15304,ro,read only
+1370,15305,md,
+1371,15306,md,
+1372,15307,mds,
+1373,15308,rn,rn
+1374,15309,res,resident/fellow/pa/np
+1375,15310,ro,read only
+1376,15311,ro,read only
+1377,15312,rn,
+1378,15313,ro,read only
+1379,15314,rn,
+1380,15315,ro,read only
+1381,15316,ro,read only
+1382,15317,rn,
+1383,15318,"rd,ldn",dietitian
+1384,15319,ro,read only
+1385,15320,rn,
+1386,15321,md,
+1387,15322,ro,read only
+1388,15323,rn,rn
+1389,15324,res,resident/fellow/pa/np
+1390,15325,ro,read only
+1391,15326,mds,resident/fellow/pa/np
+1392,15327,md,resident/fellow/pa/np
+1393,15328,md,
+1394,15329,ro,read only
+1397,15332,sw,social worker
+1398,15333,rrt,
+1399,15334,pct,pct/na
+1400,15335,rn,rn
+1401,15336,res,resident/fellow/pa/np
+1402,15337,admin,administrator
+1403,15338,md,
+1404,15339,md,attending
+1405,15340,res,resident/fellow/pa/np
+1406,15341,res,resident/fellow/pa/np
+1407,15342,res,resident/fellow/pa/np
+1408,15343,rehab,rehabilitation
+1409,15344,res,resident/fellow/pa/np
+1410,15345,res,resident/fellow/pa/np
+1411,15346,res,resident/fellow/pa/np
+1412,15347,md,
+1413,15348,md,
+1414,15349,res,resident/fellow/pa/np
+1415,15350,3874,resident/fellow/pa/np
+1416,15351,rn,rn
+1417,15352,rn,rn
+1418,15353,ro,read only
+1419,15354,pca,
+1420,15355,rn,rn
+1421,15356,rnc,
+1422,15357,pa,
+1423,15358,ro,read only
+1424,15359,ro,read only
+1425,15360,sw,social worker
+1426,15361,ro,read only
+1427,15362,ro,read only
+1428,15363,res,resident/fellow/pa/np
+1429,15364,pc,pastoral care
+1430,15365,ro,read only
+1431,15366,res,resident/fellow/pa/np
+1432,15367,md,attending
+1433,15368,res,resident/fellow/pa/np
+1434,15369,rn,rn
+1435,15370,ccrn,
+1436,15371,md,resident/fellow/pa/np
+1437,15372,rn,rn
+1438,15373,sw,social worker
+1439,15374,ro,read only
+1440,15375,rph,pharmacist
+1441,15376,sw,social worker
+1442,15377,res,resident/fellow/pa/np
+1443,15378,res,resident/fellow/pa/np
+1444,15379,cm,case manager
+1445,15380,res,resident/fellow/pa/np
+1446,15381,res,resident/fellow/pa/np
+1447,15382,admin,administrator
+1448,15383,pct,pct/na
+1449,15384,res,resident/fellow/pa/np
+1450,15385,md,resident/fellow/pa/np
+1451,15386,rehab,rehabilitation
+1452,15387,admin,administrator
+1453,15388,md,
+1454,15389,md,read only
+1455,15390,md,
+1456,15391,ro,read only
+1457,15392,rn,
+1458,15393,rn,
+1459,15394,rt,respiratory
+1460,15395,res,resident/fellow/pa/np
+1461,15396,md,
+1462,15397,res,resident/fellow/pa/np
+1463,15398,res,resident/fellow/pa/np
+1464,15399,rehab,rehabilitation
+1465,15400,rehab,rehabilitation
+1466,15401,ro,read only
+1467,15402,rn,
+1468,15403,ms,
+1469,15404,ro,read only
+1470,15405,rn,rn
+1471,15406,pct,pct/na
+1472,15407,rn,rn
+1473,15408,md,
+1474,15409,ro,read only
+1475,15410,ro,read only
+1476,15411,rrt,respiratory
+1477,15412,rn,rn
+1478,15413,res,resident/fellow/pa/np
+1479,15414,rehab,rehabilitation
+1480,15415,res,resident/fellow/pa/np
+1481,15416,res,resident/fellow/pa/np
+1482,15417,rn,
+1483,15418,pct,pct/na
+1484,15419,rph,
+1485,15420,md,attending
+1486,15421,rehab,rehabilitation
+1487,15422,sw,social worker
+1488,15423,uco,uco
+1489,15424,res,resident/fellow/pa/np
+1490,15425,rn,
+1491,15426,rehab,rehabilitation
+1492,15427,res,resident/fellow/pa/np
+1493,15428,rn,rn
+1494,15429,cm,case manager
+1495,15430,uco,uco
+1496,15431,rn,rn
+1497,15432,rehab,rehabilitation
+1498,15433,pct,pct/na
+1499,15434,res,resident/fellow/pa/np
+1500,15435,res,resident/fellow/pa/np
+1501,15436,rehab,rehabilitation
+1502,15437,md,attending
+1503,15438,rrt,
+1504,15439,rrt,
+1505,15440,rn,rn
+1506,15441,rn,
+1507,15442,rn,
+1508,15443,rn,rn
+1509,15444,md,
+1510,15445,md,
+1511,15446,ro,read only
+1512,15447,rn,rn
+1513,15448,snp,
+1514,15449,rn,
+1515,15450,stu,
+1516,15451,rn,
+1517,15452,pct,pct/na
+1518,15453,ro,read only
+1519,15454,md,
+1520,15455,rn,
+1521,15456,rn,
+1522,15457,md,attending
+1523,15458,res,resident/fellow/pa/np
+1524,15459,pc,pastoral care
+1525,15460,md,attending
+1526,15461,rehab,rehabilitation
+1527,15462,ro,read only
+1528,15463,res,resident/fellow/pa/np
+1529,15464,cm,case manager
+1530,15465,res,resident/fellow/pa/np
+1531,15466,rd,dietitian
+1532,15467,ro,read only
+1533,15468,res,resident/fellow/pa/np
+1534,15469,rn,
+1535,15470,cm,case manager
+1536,15471,res,resident/fellow/pa/np
+1537,15472,res,resident/fellow/pa/np
+1538,15473,res,resident/fellow/pa/np
+1539,15474,md,
+1540,15475,md,
+1541,15476,rrt,
+1542,15477,rn,
+1543,15478,ro,read only
+1544,15479,mfd,
+1545,15480,cowork,
+1546,15481,md,read only
+1547,15482,ms,
+1548,15483,res,resident/fellow/pa/np
+1549,15484,rn,read only
+1550,15485,res,resident/fellow/pa/np
+1551,15486,rtstu,
+1552,15487,mds,resident/fellow/pa/np
+1553,15488,ro,read only
+1554,15489,mds,read only
+1555,15490,ro,read only
+1556,15491,md,
+1557,15492,md,
+1558,15493,ro,read only
+1559,15494,ro,read only
+1560,15495,md,
+1561,15496,ro,read only
+1562,15497,medstu,
+1563,15498,rrt,respiratory
+1564,15499,hms ms,resident/fellow/pa/np
+1565,15500,md,
+1566,15501,mds,read only
+1567,15502,md,
+1568,15503,md,
+1569,15504,rph,pharmacist
+1570,15505,md,
+1571,15506,md,
+1572,15507,mds,resident/fellow/pa/np
+1573,15508,md,read only
+1574,15509,mds,
+1575,15510,ro,read only
+1576,15511,md,attending
+1577,15512,medstu,resident/fellow/pa/np
+1578,15513,ro,read only
+1579,15514,md,
+1580,15515,ro,read only
+1581,15516,ro,read only
+1582,15517,ro,read only
+1583,15518,md,
+1584,15519,ro,read only
+1585,15520,md,
+1586,15521,rn,
+1587,15522,rn,
+1588,15523,rd,dietitian
+1589,15524,dietin,
+1590,15525,rph,
+1591,15526,rn,rn
+1592,15527,rn,rn
+1593,15528,ms,
+1594,15529,md,
+1595,15530,rn,
+1596,15531,ro,read only
+1597,15532,ro,read only
+1598,15533,mds,
+1599,15534,md,
+1600,15535,md,
+1601,15536,res,resident/fellow/pa/np
+1602,15537,co-wkr,
+1603,15538,ro,read only
+1604,15539,md,read only
+1605,15540,rd,dietitian
+1606,15541,ro,read only
+1607,15542,np,
+1608,15543,ua,
+1609,15544,rn,rn
+1610,15545,md,
+1611,15546,ro,read only
+1612,15547,ms,
+1613,15548,md,
+1614,15549,ro,read only
+1615,15550,res,resident/fellow/pa/np
+1616,15551,rd,dietitian
+1617,15552,ro,read only
+1618,15553,res,resident/fellow/pa/np
+1619,15554,ro,read only
+1620,15555,rph,
+1621,15556,admin,administrator
+1622,15557,md,
+1623,15558,md,
+1624,15559,ro,read only
+1625,15560,rn,
+1626,15561,md,read only
+1627,15562,ro,read only
+1628,15563,md,
+1629,15564,rn,rn
+1630,15565,ro,read only
+1631,15566,msii,
+1632,15567,md,
+1633,15568,md,
+1634,15569,md,
+1635,15570,md,
+1636,15571,md,attending
+1637,15572,md,
+1638,15573,md,
+1639,15574,md,read only
+1640,15575,ro,read only
+1641,15576,md,attending
+1642,15577,mds,resident/fellow/pa/np
+1643,15578,md,
+1644,15579,md,read only
+1645,15580,md,
+1178,15581,ro,read only
+1179,15582,sn,pct/na
+1180,15583,ro,read only
+1181,15584,md,
+1182,15585,ro,read only
+1183,15586,issc,administrator
+1184,15587,md,
+1185,15588,md,resident/fellow/pa/np
+1186,15589,md,
+1187,15590,ro,read only
+1188,15591,dml,resident/fellow/pa/np
+1189,15592,ro,read only
+1190,15593,ro,read only
+1191,15594,ro,read only
+1192,15595,ro,read only
+1193,15596,ro,read only
+1194,15597,rrt,
+1195,15598,ro,read only
+1196,15599,mds,read only
+1197,15600,ro,read only
+1198,15601,rn,
+1199,15602,ro,read only
+1200,15603,ro,read only
+1201,15604,md,
+1202,15605,md,
+1203,15606,md,read only
+1204,15607,md,
+1205,15608,md,
+1206,15609,md,
+1207,15610,rn,
+1208,15611,md,
+1209,15612,ro,read only
+1210,15613,ro,read only
+1211,15614,ro,read only
+1212,15615,md,read only
+1213,15616,rd int,
+1214,15617,ro,read only
+1215,15618,res,resident/fellow/pa/np
+1216,15619,res,resident/fellow/pa/np
+1217,15620,ro,read only
+1218,15621,rd,dietitian
+1219,15622,res,resident/fellow/pa/np
+1220,15623,rn,rn
+1221,15624,ro,read only
+1223,15626,rn,resident/fellow/pa/np
+1224,15627,rn,rn
+1225,15628,ro,read only
+1226,15629,ro,read only
+1227,15630,rn,
+1228,15631,medstu,
+1229,15632,res,resident/fellow/pa/np
+1230,15633,uco,uco
+1231,15634,ro,read only
+1232,15635,pc,pastoral care
+1233,15636,pc,pastoral care
+1234,15637,res,resident/fellow/pa/np
+1235,15638,md,
+1236,15639,ro,read only
+1237,15640,md,
+1238,15641,rn,
+1239,15642,sw,social worker
+1240,15643,rd,dietitian
+1241,15644,rn,
+1242,15645,rn,
+1646,15646,rn,
+1647,15647,md,
+1648,15648,res,resident/fellow/pa/np
+1649,15649,res,resident/fellow/pa/np
+1650,15650,pt,rehabilitation
+1651,15651,mds,resident/fellow/pa/np
+1652,15652,rn,read only
+1653,15653,rn,rn
+1654,15654,rn,rn
+1655,15655,ro,read only
+1656,15656,rnba,case manager
+1657,15657,rn,rn
+1658,15658,rnc,
+1659,15659,rn,rn
+1660,15660,md,
+1661,15661,rn,rn
+1662,15662,coor,
+1663,15663,rn,uco
+1664,15664,ro,read only
+1665,15665,ro,read only
+1666,15666,rn,rn
+1667,15667,rn,rn
+1668,15668,admin,read only
+1669,15669,ro,read only
+1670,15670,rn,
+1671,15671,rn,
+1672,15672,uco/pc,
+1673,15673,cowork,pct/na
+1674,15674,rn,rn
+1675,15675,ro,read only
+1676,15676,md,
+1677,15677,rtstu,
+1678,15678,ro,read only
+1679,15679,rn,
+1680,15680,rn,rn
+1681,15681,md,
+1682,15682,mds,
+1683,15683,rehab,rehabilitation
+1684,15684,cowker,
+1685,15685,ro,read only
+1686,15686,cowker,
+1687,15687,md,
+1688,15688,res,resident/fellow/pa/np
+1689,15689,res,resident/fellow/pa/np
+1690,15690,rn,
+1691,15691,rehab,rehabilitation
+1692,15692,res,resident/fellow/pa/np
+1693,15693,rehab,rehabilitation
+1694,15694,rn,rn
+1695,15695,rehab,rehabilitation
+1696,15696,rn,rn
+1697,15697,md,
+1698,15698,mds,resident/fellow/pa/np
+1699,15699,res,resident/fellow/pa/np
+1700,15700,ro,read only
+1701,15701,ro,read only
+1702,15702,md,resident/fellow/pa/np
+1703,15703,rph,
+1704,15704,rn,read only
+1705,15705,ro,read only
+1706,15706,ro,read only
+1707,15707,ro,read only
+1708,15708,uco,uco
+1709,15709,rns,rn
+1710,15710,rn,read only
+1711,15711,pct,pct/na
+1712,15712,rn,
+1713,15713,rrt,read only
+1714,15714,ro,read only
+1715,15715,mds,read only
+1716,15716,md,
+1717,15717,rn,rn
+1718,15718,uco,uco
+1719,15719,medst,
+1720,15720,ro,read only
+1721,15721,rph,
+1722,15722,md,read only
+1723,15723,srt,
+1724,15724,md,
+1725,15725,pct,pct/na
+1726,15726,st,
+1727,15727,res,resident/fellow/pa/np
+1728,15728,pct,pct/na
+1729,15729,cowker,
+1730,15730,res,resident/fellow/pa/np
+1731,15731,rehab,rehabilitation
+1732,15732,res,resident/fellow/pa/np
+1733,15733,md,attending
+1735,15735,md,
+1736,15736,rph,pharmacist
+1737,15737,md,
+1738,15738,res,resident/fellow/pa/np
+1739,15739,md,attending
+1740,15740,res,resident/fellow/pa/np
+1741,15741,rn,rn
+1742,15742,ro,read only
+1743,15743,md,
+1744,15744,rt,respiratory
+1745,15745,rph,pharmacist
+1746,15746,rn,rn
+1747,15747,md,
+1748,15748,rn,pct/na
+1749,15749,ro,read only
+1750,15750,mds,resident/fellow/pa/np
+1751,15751,md,attending
+1752,15752,ro,read only
+1753,15753,md,
+1754,15754,ro,read only
+1755,15755,ro,read only
+1756,15756,ro,read only
+1757,15757,st,
+1758,15758,ro,read only
+1759,15759,md,
+1760,15760,md,
+1761,15761,ro,read only
+1762,15762,rn,
+1763,15763,ro,read only
+1764,15764,rn,
+1765,15765,ro,read only
+1766,15766,mds,resident/fellow/pa/np
+1767,15767,rn,rn
+1768,15768,ro,read only
+1769,15769,rph,pharmacist
+1770,15770,ro,read only
+1771,15771,ro,read only
+1772,15772,md,read only
+1773,15773,res,resident/fellow/pa/np
+1774,15774,res,resident/fellow/pa/np
+1775,15775,md,
+1776,15776,res,resident/fellow/pa/np
+1777,15777,res,resident/fellow/pa/np
+1778,15778,mds,resident/fellow/pa/np
+1779,15779,md,
+1780,15780,ro,read only
+1781,15781,ro,read only
+1782,15782,studen,
+1783,15783,srt,
+1784,15784,rrt,read only
+1785,15785,ro,read only
+1786,15786,res,resident/fellow/pa/np
+1787,15787,md,
+1788,15788,md,
+1789,15789,uco,uco
+1790,15790,md,attending
+1791,15791,res,resident/fellow/pa/np
+1792,15792,rehab,rehabilitation
+1793,15793,drm,
+1794,15794,md,
+1795,15795,rn,rn
+1796,15796,rrt,
+1797,15797,md,
+1798,15798,isops,administrator
+1799,15799,rn,rn
+1800,15800,ro,read only
+1801,15801,ro,read only
+1802,15802,res,resident/fellow/pa/np
+1803,15803,rn,rn
+1804,15804,ro,read only
+1805,15805,rn,rn
+1806,15806,ro,read only
+1807,15807,rrt,respiratory
+1808,15808,rn,
+1809,15809,rn,read only
+1810,15810,rn,
+1811,15811,ro,read only
+1812,15812,rn,
+1813,15813,ro,read only
+1814,15814,rn,rn
+1815,15815,rn,rn
+1816,15816,rn,rn
+1817,15817,ro,read only
+1818,15818,licsw,
+1819,15819,rn,read only
+1820,15820,ro,read only
+1821,15821,rn,
+1822,15822,rn,rn
+1823,15823,rn,
+1824,15824,rn,
+1825,15825,md,attending
+1826,15826,rehab,rehabilitation
+1827,15827,rn,rn
+1828,15828,res,resident/fellow/pa/np
+1829,15829,pct,uco
+1830,15830,rn,rn
+1831,15831,uco,
+1832,15832,ro,read only
+1833,15833,rn,rn
+1834,15834,rrt,respiratory
+1835,15835,rph,
+1836,15836,ro,read only
+1837,15837,ro,read only
+1838,15838,rn,
+1839,15839,ro,read only
+1840,15840,ro,read only
+1841,15841,rn,
+1842,15842,rehab,rehabilitation
+1843,15843,rn,rn
+1844,15844,ro,read only
+1845,15845,md,attending
+1846,15846,ro,read only
+1847,15847,"md,phd",attending
+1848,15848,ro,read only
+1849,15849,medstu,resident/fellow/pa/np
+1850,15850,md,
+1851,15851,ro,read only
+1852,15852,md,attending
+1853,15853,res,resident/fellow/pa/np
+1854,15854,res,resident/fellow/pa/np
+1855,15855,pct,pct/na
+1856,15856,dht,read only
+1857,15857,res,resident/fellow/pa/np
+1858,15858,rn,rn
+1859,15859,cm,case manager
+1860,15860,rehab,rehabilitation
+1861,15861,res,resident/fellow/pa/np
+1862,15862,res,resident/fellow/pa/np
+1863,15863,ro,read only
+1864,15864,res,resident/fellow/pa/np
+1865,15865,res,resident/fellow/pa/np
+1866,15866,pct,pct/na
+1867,15867,rehab,rehabilitation
+1868,15868,res,resident/fellow/pa/np
+1869,15869,ro,read only
+1870,15870,res,resident/fellow/pa/np
+1871,15871,rph,pharmacist
+1872,15872,pc,pastoral care
+1873,15873,md,
+1874,15874,ro,read only
+1875,15875,res,resident/fellow/pa/np
+1876,15876,rt,respiratory
+1877,15877,pc,pastoral care
+1878,15878,rn,rn
+1879,15879,rn,rn
+1880,15880,rd,dietitian
+1881,15881,ro,read only
+1882,15882,rn,rn
+1883,15883,ro,read only
+1884,15884,pct,pct/na
+1885,15885,res,resident/fellow/pa/np
+1886,15886,ro,read only
+1887,15887,ro,read only
+1888,15888,ro,read only
+1889,15889,res,resident/fellow/pa/np
+1890,15890,res,resident/fellow/pa/np
+1891,15891,res,resident/fellow/pa/np
+1892,15892,res,resident/fellow/pa/np
+1893,15893,rph,pharmacist
+1894,15894,rph,
+1895,15895,ro,read only
+1896,15896,res,resident/fellow/pa/np
+1897,15897,rn,rn
+1898,15898,md,
+1899,15899,md,
+1900,15900,rn,rn
+1901,15901,md,
+1902,15902,ro,read only
+1903,15903,rrt,
+1904,15904,mds,
+1905,15905,mds,resident/fellow/pa/np
+1906,15906,ro,read only
+1907,15907,cowker,pct/na
+1908,15908,rrt,
+1909,15909,md,
+1910,15910,uco,uco
+1911,15911,res,resident/fellow/pa/np
+1912,15912,ro,read only
+1913,15913,res,resident/fellow/pa/np
+1914,15914,res,resident/fellow/pa/np
+1915,15915,res,resident/fellow/pa/np
+1916,15916,rn,
+1917,15917,rrt,
+1918,15918,rn,read only
+1919,15919,rn,rn
+1920,15920,ro,read only
+1921,15921,uco,read only
+1922,15922,rn,rn
+1923,15923,mds,
+1924,15924,rph,
+1925,15925,res,resident/fellow/pa/np
+1926,15926,res,resident/fellow/pa/np
+1927,15927,ro,read only
+1928,15928,rn,rn
+1929,15929,rrt,
+1930,15930,rn,
+1931,15931,rn,
+1932,15932,mds,
+1933,15933,md,
+1934,15934,md,
+1935,15935,rn,rn
+1936,15936,ro,read only
+1937,15937,ro,read only
+1938,15938,np,read only
+1939,15939,uco,
+1940,15940,ro,read only
+1941,15941,mds,resident/fellow/pa/np
+1942,15942,ro,read only
+1943,15943,md,attending
+1944,15944,md,
+1945,15945,md,
+1946,15946,mds,
+1947,15947,ro,read only
+1948,15948,md,attending
+2353,16299,md,
+2354,16300,res,resident/fellow/pa/np
+2355,16301,md,
+2356,16302,rn,rn
+2357,16303,stu,
+2358,16304,ms,
+2359,16305,ro,read only
+2360,16306,res,resident/fellow/pa/np
+2361,16307,rn,rn
+2362,16308,ro,read only
+2363,16309,ro,read only
+2364,16310,res,resident/fellow/pa/np
+2365,16311,rn,rn
+2366,16312,md,
+2367,16313,res,resident/fellow/pa/np
+2368,16314,res,resident/fellow/pa/np
+2369,16315,md,attending
+2370,16316,rs,read only
+2371,16317,res,resident/fellow/pa/np
+2372,16318,rd,dietitian
+2373,16319,sw,social worker
+2374,16320,res,resident/fellow/pa/np
+2375,16321,md,
+2376,16322,mds,
+2377,16323,mds,read only
+2378,16324,ro,read only
+2379,16325,ro,read only
+2380,16326,rn,rn
+2381,16327,rn,rn
+2382,16328,ro,read only
+2383,16329,res,resident/fellow/pa/np
+2384,16330,res,resident/fellow/pa/np
+2385,16331,ms,dietitian
+2386,16332,res,resident/fellow/pa/np
+2387,16333,rn,rn
+2388,16334,ro,read only
+2389,16335,rn,rn
+2390,16336,licsw,
+2391,16337,res,resident/fellow/pa/np
+2392,16338,md,
+2393,16339,rn,rn
+2394,16340,pct,pct/na
+2395,16341,sw,social worker
+2396,16342,res,resident/fellow/pa/np
+2397,16343,res,resident/fellow/pa/np
+2398,16344,res,resident/fellow/pa/np
+2399,16345,md,
+2400,16346,res,resident/fellow/pa/np
+2401,16347,res,resident/fellow/pa/np
+2402,16348,md,attending
+2403,16349,res,resident/fellow/pa/np
+2404,16350,res,resident/fellow/pa/np
+2405,16351,rt,respiratory
+2406,16352,md,attending
+2407,16353,ms,resident/fellow/pa/np
+2408,16354,res,resident/fellow/pa/np
+2409,16355,mds,
+2410,16356,rrt,respiratory
+2411,16357,md,
+2412,16358,res,resident/fellow/pa/np
+2413,16359,res,resident/fellow/pa/np
+2414,16360,res,resident/fellow/pa/np
+2415,16361,res,resident/fellow/pa/np
+2416,16362,res,resident/fellow/pa/np
+2417,16363,ro,read only
+2418,16364,md,
+2419,16365,admin,administrator
+2420,16366,md,attending
+2421,16367,rn,
+2422,16368,res,resident/fellow/pa/np
+2423,16369,res,resident/fellow/pa/np
+2424,16370,ro,read only
+2425,16371,sw,social worker
+2426,16372,pc,pastoral care
+2427,16373,res,resident/fellow/pa/np
+2428,16374,md,attending
+2429,16375,res,resident/fellow/pa/np
+2430,16376,rph,read only
+2431,16377,res,resident/fellow/pa/np
+2432,16378,uco,
+2433,16379,ro,read only
+2434,16380,ro,read only
+2435,16381,ro,read only
+2436,16382,res,resident/fellow/pa/np
+2437,16383,md,attending
+2438,16384,mds,read only
+2439,16385,md,
+2440,16386,pct,pct/na
+2441,16387,rd,dietitian
+2442,16388,di,
+2443,16389,md,
+2444,16390,md,read only
+2445,16391,md,
+2446,16392,ro,read only
+2447,16393,md,
+2448,16394,md,
+2449,16395,rn,
+2450,16396,md,resident/fellow/pa/np
+2451,16397,rd,dietitian
+2452,16398,res,resident/fellow/pa/np
+2453,16399,licsw,social worker
+2454,16400,res,resident/fellow/pa/np
+2455,16401,res,resident/fellow/pa/np
+2456,16402,pc,pastoral care
+2457,16403,st,
+2458,16404,res,resident/fellow/pa/np
+2459,16405,ro,read only
+2460,16406,res,resident/fellow/pa/np
+2461,16407,res,resident/fellow/pa/np
+2462,16408,res,resident/fellow/pa/np
+2463,16409,res,resident/fellow/pa/np
+2464,16410,ro,read only
+2465,16411,cm,case manager
+2466,16412,rn,rn
+2467,16413,ro,read only
+2468,16414,ro,read only
+2469,16415,md,attending
+2470,16416,ro,read only
+2471,16417,rn,rn
+2472,16418,pct,pct/na
+2473,16419,rd,dietitian
+2474,16420,res,resident/fellow/pa/np
+2475,16421,res,resident/fellow/pa/np
+2476,16422,ro,read only
+2477,16423,rph,pharmacist
+2478,16424,res,resident/fellow/pa/np
+2479,16425,co-wkr,
+2480,16426,rn,
+2481,16427,rn,
+2482,16428,ua,
+2483,16429,ro,read only
+2484,16430,rtstu,respiratory
+2485,16431,ro,read only
+2486,16432,ro,read only
+2487,16433,rn,
+2488,16434,csmngm,
+2489,16435,rn,
+2490,16436,rn,rn
+2491,16437,ro,read only
+2492,16438,mds,resident/fellow/pa/np
+2493,16439,ro,read only
+2494,16440,res,resident/fellow/pa/np
+2495,16441,ro,read only
+2496,16442,res,resident/fellow/pa/np
+2497,16443,res,resident/fellow/pa/np
+2498,16444,ro,read only
+2499,16445,ro,read only
+2500,16446,rrt,read only
+2501,16447,srt,
+2502,16448,md,
+2503,16449,rn,
+2504,16450,phd,
+2505,16451,res,resident/fellow/pa/np
+2506,16452,rph,
+2507,16453,rehab,rehabilitation
+2508,16454,res,resident/fellow/pa/np
+2509,16455,res,resident/fellow/pa/np
+2510,16456,res,resident/fellow/pa/np
+2511,16457,rn,rn
+2512,16458,md,read only
+2513,16459,md,
+2514,16460,res,resident/fellow/pa/np
+2515,16461,res,resident/fellow/pa/np
+2516,16462,md,
+2517,16463,res,resident/fellow/pa/np
+2518,16464,res,resident/fellow/pa/np
+2519,16465,uco,uco
+2520,16466,pct,pct/na
+2521,16467,ro,read only
+2522,16468,res,resident/fellow/pa/np
+2523,16469,md,
+2524,16470,res,resident/fellow/pa/np
+2525,16471,res,resident/fellow/pa/np
+2526,16472,res,resident/fellow/pa/np
+2527,16473,cm,case manager
+2528,16474,sw,social worker
+2529,16475,md,
+2530,16476,uco,uco
+2531,16477,res,resident/fellow/pa/np
+2532,16478,res,resident/fellow/pa/np
+2533,16479,ro,read only
+2534,16480,ro,read only
+2535,16481,md,
+2044,16482,res,resident/fellow/pa/np
+2045,16483,res,resident/fellow/pa/np
+2047,16485,md,
+2048,16486,mds,resident/fellow/pa/np
+2049,16487,md,read only
+2050,16488,pct,
+2051,16489,md,resident/fellow/pa/np
+2052,16490,ro,read only
+2053,16491,md,
+2054,16492,uco,uco
+2055,16493,nurse,rn
+2056,16494,mds,read only
+2057,16495,cm,case manager
+2058,16496,res,resident/fellow/pa/np
+2059,16497,md,
+2060,16498,coopst,
+2061,16499,ro,read only
+2062,16500,rn,rn
+2063,16501,ra,research assistant
+2064,16502,res,resident/fellow/pa/np
+2065,16503,pc,pastoral care
+2066,16504,cm,case manager
+2067,16505,rehab,rehabilitation
+2068,16506,rehab,rehabilitation
+2069,16507,md,attending
+2070,16508,md,read only
+2071,16509,md,
+2072,16510,rrt,respiratory
+2073,16511,ro,read only
+2074,16512,ms,
+2075,16513,ro,read only
+2076,16514,rph,
+2077,16515,res,resident/fellow/pa/np
+2078,16516,md,resident/fellow/pa/np
+2079,16517,md,
+2080,16518,rph,read only
+2081,16519,md,
+2082,16520,rrt,respiratory
+2083,16521,res,resident/fellow/pa/np
+2084,16522,ro,read only
+2085,16523,np,
+2086,16524,rn,
+2087,16525,rn,
+2088,16526,rn,rn
+2089,16527,pct,
+2090,16528,pc,pastoral care
+2091,16529,res,resident/fellow/pa/np
+2092,16530,rn,rn
+2093,16531,sw,social worker
+2094,16532,res,resident/fellow/pa/np
+2095,16533,res,resident/fellow/pa/np
+2096,16534,rn,rn
+2097,16535,res,resident/fellow/pa/np
+2536,16536,res,resident/fellow/pa/np
+2537,16537,res,resident/fellow/pa/np
+2538,16538,cm,case manager
+2539,16539,res,resident/fellow/pa/np
+2540,16540,ro,read only
+2541,16541,res,resident/fellow/pa/np
+2542,16542,rn,rn
+2543,16543,res,resident/fellow/pa/np
+2544,16544,res,resident/fellow/pa/np
+2545,16545,md,attending
+2546,16546,res,resident/fellow/pa/np
+2547,16547,res,resident/fellow/pa/np
+2548,16548,res,resident/fellow/pa/np
+2549,16549,ro,read only
+2550,16550,cm,case manager
+2551,16551,ro,read only
+2552,16552,rn,read only
+2553,16553,res,resident/fellow/pa/np
+2554,16554,ro,read only
+2555,16555,rd,dietitian
+2556,16556,pc,pastoral care
+2557,16557,md,
+2558,16558,res,resident/fellow/pa/np
+2559,16559,res,resident/fellow/pa/np
+2560,16560,rn,
+2561,16561,md,attending
+2562,16562,uco,uco
+2563,16563,md,attending
+2564,16564,md,resident/fellow/pa/np
+2565,16565,res,resident/fellow/pa/np
+2566,16566,datamg,
+2567,16567,ro,read only
+2568,16568,cm,case manager
+2569,16569,res,resident/fellow/pa/np
+2570,16570,res,resident/fellow/pa/np
+2571,16571,rn,read only
+2572,16572,uco,uco
+2573,16573,res,resident/fellow/pa/np
+2574,16574,uco,uco
+2575,16575,mds,resident/fellow/pa/np
+2576,16576,res,resident/fellow/pa/np
+2577,16577,cm,case manager
+2578,16578,res,resident/fellow/pa/np
+2579,16579,res,resident/fellow/pa/np
+2580,16580,md,attending
+2581,16581,rn,rn
+2582,16582,rehab,rehabilitation
+2583,16583,res,resident/fellow/pa/np
+2584,16584,md,attending
+2585,16585,rph,pharmacist
+2586,16586,rn,rn
+2587,16587,md,
+2588,16588,res,resident/fellow/pa/np
+2589,16589,medstu,
+2590,16590,ro,read only
+2591,16591,ro,read only
+2592,16592,sn,
+2593,16593,rn,rn
+2594,16594,md,
+2595,16595,ro,read only
+2596,16596,msiv,
+2597,16597,rt,respiratory
+2598,16598,res,resident/fellow/pa/np
+2599,16599,res,resident/fellow/pa/np
+2600,16600,ro,read only
+2601,16601,std,
+2602,16602,res,resident/fellow/pa/np
+2603,16603,rn,rn
+2604,16604,rn,rn
+2605,16605,res,resident/fellow/pa/np
+2606,16606,pc,pastoral care
+2607,16607,ro,read only
+2608,16608,res,resident/fellow/pa/np
+2609,16609,rn,rn
+2610,16610,srt,
+2611,16611,coor,
+2612,16612,res,resident/fellow/pa/np
+2613,16613,res,resident/fellow/pa/np
+2614,16614,md,attending
+2615,16615,res,resident/fellow/pa/np
+2616,16616,res,resident/fellow/pa/np
+2617,16617,rn,rn
+2618,16618,md,attending
+2619,16619,md,attending
+2620,16620,res,resident/fellow/pa/np
+2621,16621,res,resident/fellow/pa/np
+2622,16622,res,resident/fellow/pa/np
+2623,16623,cm,case manager
+2624,16624,ro,read only
+2625,16625,res,resident/fellow/pa/np
+2626,16626,md,attending
+2627,16627,res,resident/fellow/pa/np
+2628,16628,res,resident/fellow/pa/np
+2629,16629,res,resident/fellow/pa/np
+2630,16630,md,
+2631,16631,ro,read only
+2632,16632,ro,read only
+2633,16633,rn,
+2634,16634,rn,rn
+2635,16635,ro,read only
+2636,16636,ro,read only
+2637,16637,md,
+2638,16638,md,
+2639,16639,ms,
+2640,16640,pt,
+2641,16641,ro,read only
+2642,16642,ro,read only
+2643,16643,rn,rn
+2644,16644,ms,
+2645,16645,md,resident/fellow/pa/np
+2646,16646,rph,
+2647,16647,ro,read only
+2648,16648,md,read only
+2649,16649,rn,rn
+2650,16650,res,resident/fellow/pa/np
+2651,16651,md,
+2652,16652,ro,read only
+2653,16653,md,
+2654,16654,res,resident/fellow/pa/np
+2655,16655,res,resident/fellow/pa/np
+2656,16656,res,resident/fellow/pa/np
+2657,16657,mds,resident/fellow/pa/np
+2658,16658,rn,
+2659,16659,ro,read only
+2660,16660,rn,read only
+2661,16661,pct,
+2662,16662,ro,read only
+2663,16663,ro,read only
+2664,16664,ro,read only
+2665,16665,rn,
+2666,16666,ua,
+2667,16667,md,attending
+2668,16668,ro,read only
+2669,16669,ro,read only
+2670,16670,rn,case manager
+2671,16671,res,resident/fellow/pa/np
+2672,16672,rn,case manager
+2673,16673,rn,
+2674,16674,rn,
+2675,16675,mds,
+2676,16676,studen,
+2677,16677,pct,pct/na
+2678,16678,rehab,rehabilitation
+2679,16679,pct,pct/na
+2680,16680,res,resident/fellow/pa/np
+2681,16681,md,attending
+2682,16682,res,resident/fellow/pa/np
+2683,16683,ro,read only
+2684,16684,studen,
+2685,16685,ro,read only
+2686,16686,ro,read only
+2687,16687,md,attending
+2688,16688,ro,read only
+2689,16689,ro,read only
+2690,16690,rehab,rehabilitation
+2691,16691,res,resident/fellow/pa/np
+2692,16692,res,resident/fellow/pa/np
+2693,16693,pct,pct/na
+2694,16694,rn,rn
+2695,16695,ro,read only
+2696,16696,rehab,rehabilitation
+2697,16697,res,resident/fellow/pa/np
+2698,16698,ro,read only
+2699,16699,md,
+2700,16700,res,resident/fellow/pa/np
+2701,16701,res,resident/fellow/pa/np
+2702,16702,res,resident/fellow/pa/np
+2703,16703,rt,respiratory
+2704,16704,rn,rn
+2705,16705,ro,read only
+2706,16706,rn,
+2707,16707,rn,rn
+2708,16708,md,
+2709,16709,rn,rn
+2710,16710,rehab,rehabilitation
+2711,16711,md,
+2712,16712,md,
+2713,16713,md,
+2714,16714,rn,rn
+2715,16715,res,resident/fellow/pa/np
+2716,16716,md,attending
+2717,16717,msiv,
+2719,16719,uco,
+2720,16720,rt,respiratory
+2721,16721,md,attending
+2722,16722,rehab,rehabilitation
+2723,16723,rn,rn
+2724,16724,res,resident/fellow/pa/np
+2725,16725,rd,dietitian
+2726,16726,res,resident/fellow/pa/np
+2727,16727,res,resident/fellow/pa/np
+2728,16728,rn,rn
+2729,16729,rehab,rehabilitation
+2730,16730,res,resident/fellow/pa/np
+5065,19001,ro,read only
+5066,19002,std,
+5067,19003,md,
+5068,19004,rph,
+5069,19005,ms,
+5070,19006,md,attending
+5071,19007,ro,read only
+5072,19008,ro,read only
+5073,19009,ms,
+5074,19010,md,
+5075,19011,ro,read only
+5076,19012,ms,
+5077,19013,ro,read only
+5078,19014,rn,rn
+5079,19015,medstu,
+5080,19016,md,read only
+5081,19017,ro,read only
+5082,19018,ro,read only
+5083,19019,ro,read only
+5084,19020,md,
+5085,19021,md,
+5086,19022,ro,read only
+5087,19023,md,resident/fellow/pa/np
+5088,19024,ro,read only
+5089,19025,md,resident/fellow/pa/np
+5090,19026,uco,
+5091,19027,md,
+5092,19028,ro,read only
+5093,19029,stu,
+5094,19030,md,
+5095,19031,md,
+5096,19032,medstu,pct/na
+5097,19033,ro,read only
+5098,19034,md,
+5099,19035,md,attending
+5100,19036,md,
+5101,19037,md,
+5102,19038,mds,resident/fellow/pa/np
+5103,19039,ro,read only
+5104,19040,ro,read only
+5105,19041,ro,read only
+5106,19042,md,
+5107,19043,ro,read only
+5108,19044,md,
+5109,19045,rph,
+5110,19046,md,
+5111,19047,rn,
+5112,19048,np,
+5113,19049,rn,
+5114,19050,rn,rn
+5115,19051,np,
+5116,19052,pa-c,
+5117,19053,rph,
+5118,19054,ro,read only
+5119,19055,ro,read only
+5120,19056,rn,rn
+5121,19057,mds,
+5122,19058,ms,
+5123,19059,cowker,
+5124,19060,rn,
+5125,19061,ro,read only
+5126,19062,rn,rn
+5127,19063,rn,rn
+5128,19064,mds,resident/fellow/pa/np
+5129,19065,rn,
+5130,19066,np,
+5131,19067,rn,
+5132,19068,snnp,
+5133,19069,cowork,
+5134,19070,pca,
+5135,19071,rn,
+5136,19072,pca,
+5137,19073,ro,read only
+5138,19074,ro,read only
+5139,19075,md,read only
+5140,19076,ro,read only
+5141,19077,md,
+5142,19078,rn,
+5143,19079,rn,rn
+5144,19080,ro,read only
+5145,19081,ro,read only
+5146,19082,ro,read only
+5147,19083,pct,pct/na
+5148,19084,ro,read only
+5149,19085,rn,rn
+5150,19086,ro,read only
+5151,19087,rn,
+5152,19088,ro,read only
+5153,19089,rn,
+5154,19090,rn,
+5155,19091,rn,
+5156,19092,res,resident/fellow/pa/np
+5157,19093,res,resident/fellow/pa/np
+5158,19094,res,resident/fellow/pa/np
+5159,19095,md,
+5160,19096,md,
+5161,19097,ro,read only
+5162,19098,res,resident/fellow/pa/np
+5163,19099,mds,resident/fellow/pa/np
+5164,19100,res,resident/fellow/pa/np
+5165,19101,rrt,respiratory
+5166,19102,rrts,
+5167,19103,rph,
+5168,19104,ro,read only
+5169,19105,uco,uco
+5170,19106,md,
+5171,19107,rn,rn
+5172,19108,rehab,rehabilitation
+5173,19109,ro,read only
+5174,19110,md,resident/fellow/pa/np
+5175,19111,res,resident/fellow/pa/np
+5176,19112,ro,read only
+5177,19113,ro,read only
+5178,19114,rehab,rehabilitation
+5179,19115,md,
+5180,19116,rn,
+4718,19117,ro,read only
+4719,19118,rn,
+4720,19119,res,resident/fellow/pa/np
+4721,19120,ro,read only
+4722,19121,rn,
+4723,19122,md,
+4724,19123,uco,uco
+4725,19124,res,resident/fellow/pa/np
+4726,19125,md,
+4727,19126,cm,case manager
+4728,19127,res,resident/fellow/pa/np
+4729,19128,ro,read only
+4730,19129,ro,read only
+4731,19130,res,resident/fellow/pa/np
+4732,19131,md,attending
+4733,19132,md,read only
+4734,19133,res,resident/fellow/pa/np
+4735,19134,ro,read only
+4736,19135,ms,
+4737,19136,ro,read only
+4738,19137,rn,
+4739,19138,ro,read only
+4740,19139,rd,dietitian
+4741,19140,ro,read only
+4742,19141,rn,rn
+4743,19142,cowker,
+4744,19143,md,
+4745,19144,ro,read only
+4746,19145,res,resident/fellow/pa/np
+4747,19146,rn,rn
+4748,19147,md,
+4749,19148,ps,
+4750,19149,pca,
+4751,19150,rn,
+4752,19151,md,
+4753,19152,rn,rn
+4754,19153,cowkr,pct/na
+4755,19154,md,
+4756,19155,snp,
+4757,19156,np,resident/fellow/pa/np
+4758,19157,nnp,
+4759,19158,md,read only
+4760,19159,res,resident/fellow/pa/np
+4761,19160,res,resident/fellow/pa/np
+4762,19161,res,resident/fellow/pa/np
+4763,19162,ro,read only
+4764,19163,uco,uco
+4765,19164,rehab,rehabilitation
+4766,19165,res,resident/fellow/pa/np
+4767,19166,res,resident/fellow/pa/np
+4768,19167,rph,pharmacist
+4769,19168,res,resident/fellow/pa/np
+4770,19169,rn,rn
+4771,19170,ro,read only
+4772,19171,md,attending
+4773,19172,res,resident/fellow/pa/np
+4774,19173,ro,read only
+4775,19174,rn,rn
+4776,19175,res,resident/fellow/pa/np
+4777,19176,ro,read only
+4779,19178,md,resident/fellow/pa/np
+4780,19179,sturn,
+4781,19180,res,resident/fellow/pa/np
+4782,19181,cm,case manager
+4783,19182,res,resident/fellow/pa/np
+4784,19183,res,resident/fellow/pa/np
+5181,19184,res,resident/fellow/pa/np
+5182,19185,res,resident/fellow/pa/np
+5183,19186,res,resident/fellow/pa/np
+5184,19187,rn,rn
+5185,19188,res,resident/fellow/pa/np
+5186,19189,res,resident/fellow/pa/np
+5187,19190,res,resident/fellow/pa/np
+5188,19191,res,resident/fellow/pa/np
+5189,19192,md,attending
+5190,19193,res,resident/fellow/pa/np
+5191,19194,res,resident/fellow/pa/np
+5192,19195,md,attending
+5193,19196,rehab,rehabilitation
+5194,19197,res,resident/fellow/pa/np
+5195,19198,res,resident/fellow/pa/np
+5196,19199,md,
+5197,19200,res,resident/fellow/pa/np
+5198,19201,rt,respiratory
+5199,19202,res,resident/fellow/pa/np
+5200,19203,res,resident/fellow/pa/np
+5201,19204,res,resident/fellow/pa/np
+5202,19205,res,resident/fellow/pa/np
+5203,19206,rn,rn
+5204,19207,md,attending
+5205,19208,res,resident/fellow/pa/np
+5206,19209,res,
+5207,19210,ro,read only
+5208,19211,md,read only
+5209,19212,res,resident/fellow/pa/np
+5210,19213,sw,social worker
+5211,19214,rt,respiratory
+5212,19215,md,attending
+5213,19216,res,resident/fellow/pa/np
+5214,19217,ro,read only
+5215,19218,res,resident/fellow/pa/np
+5216,19219,res,resident/fellow/pa/np
+5217,19220,rn,rn
+5218,19221,rn,rn
+5219,19222,rt,respiratory
+5220,19223,rd,dietitian
+5221,19224,cm,case manager
+5222,19225,rd,dietitian
+5223,19226,rn,rn
+5224,19227,rn,rn
+5225,19228,md,
+5226,19229,res,resident/fellow/pa/np
+5227,19230,ro,read only
+5228,19231,ro,read only
+5229,19232,sw,social worker
+5230,19233,sw,social worker
+5231,19234,rph,
+5232,19235,rn,
+5233,19236,md,
+5234,19237,md,
+5235,19238,res,resident/fellow/pa/np
+5236,19239,ro,read only
+5237,19240,md,read only
+5238,19241,uc,uco
+5239,19242,pct,pct/na
+5240,19243,res,resident/fellow/pa/np
+5241,19244,ro,read only
+5242,19245,ro,read only
+5243,19246,medstu,
+5244,19247,md,attending
+5245,19248,md,attending
+5246,19249,ro,read only
+5247,19250,rt,respiratory
+5248,19251,res,resident/fellow/pa/np
+5249,19252,res,resident/fellow/pa/np
+5250,19253,ro,read only
+5251,19254,ro,read only
+5252,19255,rn,
+5253,19256,rn,
+5254,19257,ro,read only
+5255,19258,md,
+5256,19259,rn,
+5257,19260,ro,read only
+5258,19261,stn,
+5259,19262,uc,uco
+5260,19263,rn,rn
+5261,19264,rhp,
+5262,19265,ro,read only
+5263,19266,ro,read only
+5264,19267,ro,read only
+5265,19268,ro,read only
+5266,19269,ro,read only
+5267,19270,ro,read only
+5268,19271,rn,read only
+5269,19272,ro,read only
+5270,19273,ro,read only
+5271,19274,rrt,
+5272,19275,rn,
+5273,19276,ro,read only
+5274,19277,res,resident/fellow/pa/np
+5275,19278,res,resident/fellow/pa/np
+5276,19279,rn,rn
+5277,19280,rn,resident/fellow/pa/np
+5278,19281,rph,pharmacist
+5279,19282,res,resident/fellow/pa/np
+5280,19283,md,
+5281,19284,rehab,rehabilitation
+5282,19285,rt,respiratory
+5283,19286,res,resident/fellow/pa/np
+5284,19287,rrt,read only
+5285,19288,ro,read only
+5286,19289,ro,read only
+5287,19290,rn,
+5288,19291,ro,read only
+5289,19292,mds,resident/fellow/pa/np
+5290,19293,md,
+5291,19294,ro,read only
+5292,19295,rn,rn
+5293,19296,rn,
+5294,19297,ro,read only
+5295,19298,ro,read only
+5296,19299,pharmd,pharmacist
+5297,19300,rn,
+5298,19301,res,resident/fellow/pa/np
+5299,19302,md,
+5300,19303,mds,resident/fellow/pa/np
+5301,19304,stu,
+5302,19305,md,attending
+5303,19306,md,
+5304,19307,ro,read only
+5305,19308,res,resident/fellow/pa/np
+5306,19309,res,resident/fellow/pa/np
+5307,19310,md,
+5308,19311,ro,read only
+5309,19312,rn,
+5310,19313,medst,
+5311,19314,rn,rn
+5312,19315,ra,research assistant
+5313,19316,ro,read only
+5314,19317,md,resident/fellow/pa/np
+5315,19318,ro,read only
+5316,19319,md,
+5317,19320,md,
+5318,19321,ro,read only
+5319,19322,mds,resident/fellow/pa/np
+5320,19323,ro,read only
+5321,19324,ro,read only
+5322,19325,rn,rn
+5323,19326,rn,rn
+5324,19327,cm,case manager
+5325,19328,rn,
+5326,19329,res,resident/fellow/pa/np
+5327,19330,rn,
+5328,19331,res,resident/fellow/pa/np
+5329,19332,rehab,rehabilitation
+5330,19333,reside,
+5331,19334,res,resident/fellow/pa/np
+5332,19335,rn,rn
+5333,19336,ro,read only
+5334,19337,ro,read only
+5335,19338,res,resident/fellow/pa/np
+5336,19339,rehab,rehabilitation
+5337,19340,md,
+5338,19341,admin,administrator
+5340,19343,res,resident/fellow/pa/np
+5341,19344,res,resident/fellow/pa/np
+5342,19345,res,resident/fellow/pa/np
+5343,19346,md,
+5344,19347,mds,resident/fellow/pa/np
+5345,19348,rn,rn
+5346,19349,ro,read only
+5347,19350,ro,read only
+5348,19351,st,
+5349,19352,ro,read only
+5350,19353,md,
+5351,19354,md,
+5352,19355,md,
+5353,19356,ro,read only
+5354,19357,ro,read only
+5355,19358,md,read only
+5356,19359,md,attending
+5357,19360,ro,read only
+5358,19361,md,
+5359,19362,ro,read only
+5360,19363,md,
+5361,19364,rn,
+5362,19365,res,resident/fellow/pa/np
+5363,19366,res,resident/fellow/pa/np
+5364,19367,res,resident/fellow/pa/np
+5365,19368,md,
+5366,19369,pct,
+5367,19370,ro,read only
+5368,19371,rn,
+5369,19372,ro,read only
+5370,19373,di,dietitian
+5371,19374,rn,rn
+5372,19375,ro,read only
+5373,19376,rn,
+5374,19377,phstud,
+5375,19378,coordi,read only
+5376,19379,ms,
+5377,19380,ro,read only
+5378,19381,di,
+5379,19382,rn,rn
+5380,19383,ro,read only
+5381,19384,ro,read only
+5382,19385,ro,read only
+5383,19386,msiv,
+5384,19387,ro,read only
+5385,19388,ro,read only
+5386,19389,md,
+5387,19390,rd,
+5388,19391,"ms,rd",
+5389,19392,rehab,rehabilitation
+5390,19393,res,resident/fellow/pa/np
+5391,19394,res,resident/fellow/pa/np
+5392,19395,ro,read only
+5393,19396,res,resident/fellow/pa/np
+5394,19397,mds,
+5395,19398,ra,research assistant
+5396,19399,res,resident/fellow/pa/np
+5397,19400,res,resident/fellow/pa/np
+5398,19401,rehab,rehabilitation
+5399,19402,ro,read only
+5400,19403,md,
+5401,19404,ro,read only
+5402,19405,ro,read only
+5403,19406,ro,read only
+5404,19407,md,
+5405,19408,ro,read only
+5406,19409,ms,
+5407,19410,md,
+5408,19411,licsw,read only
+5409,19412,rrt,read only
+5410,19413,rn,
+5411,19414,md,
+5412,19415,otr/l,
+5413,19416,md,
+5414,19417,md,
+5415,19418,md,
+5416,19419,md,
+5417,19420,ms,resident/fellow/pa/np
+5418,19421,rn,
+5419,19422,md,resident/fellow/pa/np
+5420,19423,ro,read only
+5421,19424,ro,read only
+5422,19425,md,
+5423,19426,md,
+5424,19427,md,attending
+5425,19428,md,
+5426,19429,rn,
+5427,19430,rts,
+5428,19431,licsw,social worker
+5429,19432,md,resident/fellow/pa/np
+5430,19433,res,resident/fellow/pa/np
+5431,19434,iscs,
+5432,19435,md,
+5433,19436,ro,read only
+5434,19437,rph,pharmacist
+5435,19438,ro,read only
+5436,19439,ro,read only
+5437,19440,res,resident/fellow/pa/np
+5438,19441,res,resident/fellow/pa/np
+5439,19442,rt,respiratory
+5440,19443,res,resident/fellow/pa/np
+5441,19444,ro,read only
+5442,19445,res,resident/fellow/pa/np
+5443,19446,rt,respiratory
+5444,19447,md,read only
+5445,19448,rn,rn
+5446,19449,md,attending
+5447,19450,res,resident/fellow/pa/np
+5448,19451,rn,
+5449,19452,res,resident/fellow/pa/np
+5450,19453,res,resident/fellow/pa/np
+5451,19454,md,attending
+5452,19455,rn,rn
+5453,19456,rn,rn
+5454,19457,res,resident/fellow/pa/np
+5455,19458,res,resident/fellow/pa/np
+5456,19459,rd,dietitian
+5457,19460,rn,rn
+5458,19461,rph,pharmacist
+5459,19462,pct,pct/na
+5460,19463,rn,rn
+5461,19464,rehab,rehabilitation
+5462,19465,rrts,
+5463,19466,res,resident/fellow/pa/np
+5464,19467,md,attending
+5465,19468,mds,
+5466,19469,pc,pastoral care
+5467,19470,res,resident/fellow/pa/np
+5468,19471,res,resident/fellow/pa/np
+5469,19472,res,resident/fellow/pa/np
+5470,19473,res,resident/fellow/pa/np
+5471,19474,md,
+5472,19475,md,
+5473,19476,res,resident/fellow/pa/np
+5474,19477,ro,read only
+5475,19478,mds,read only
+5476,19479,ms,
+5477,19480,ro,read only
+5478,19481,rd,dietitian
+5479,19482,ro,read only
+5480,19483,md,read only
+5481,19484,ro,read only
+5482,19485,md,
+5483,19486,md,read only
+5484,19487,res,resident/fellow/pa/np
+5485,19488,ro,read only
+5486,19489,md,
+5487,19490,ro,read only
+5488,19491,medstu,
+5489,19492,mds,read only
+5490,19493,ro,read only
+5491,19494,rehab,rehabilitation
+5492,19495,rt,respiratory
+5493,19496,rt,respiratory
+5494,19497,ro,read only
+5495,19498,ro,read only
+5496,19499,res,resident/fellow/pa/np
+5497,19500,dietin,
+5498,19501,sw,social worker
+5499,19502,uco,uco
+6070,20023,ro,read only
+6071,20024,isops,
+6072,20025,md,resident/fellow/pa/np
+6073,20026,md,
+6074,20027,cowker,pct/na
+6075,20028,ro,read only
+6076,20029,ro,read only
+6077,20030,rn,rn
+6078,20031,md,
+6079,20032,ro,read only
+6080,20033,ro,read only
+6081,20034,rn,rn
+6082,20035,md,
+6083,20036,md,resident/fellow/pa/np
+6084,20037,md,
+6085,20038,md,read only
+6086,20039,md,
+6087,20040,md,
+6088,20041,md,
+6089,20042,ro,read only
+6090,20043,ro,read only
+6091,20044,rn,
+6092,20045,ro,read only
+6093,20046,md,
+6094,20047,md,attending
+6095,20048,res,resident/fellow/pa/np
+6096,20049,res,resident/fellow/pa/np
+6097,20050,pct,pct/na
+6098,20051,res,resident/fellow/pa/np
+6099,20052,rn,read only
+6100,20053,rn,rn
+6101,20054,rn,rn
+6102,20055,rn,case manager
+6103,20056,rn,read only
+6104,20057,ms,
+6105,20058,ro,read only
+6106,20059,medst,
+6107,20060,mds,read only
+6108,20061,rn,rn
+6109,20062,rehab,rehabilitation
+6110,20063,rn,rn
+6111,20064,res,resident/fellow/pa/np
+6112,20065,ro,read only
+6113,20066,md,attending
+6114,20067,ro,read only
+4682,18684,rn,
+4683,18685,rn,
+4684,18686,pct,pct/na
+4685,18687,ro,read only
+4686,18688,ro,read only
+4687,18689,md,
+4688,18690,mds,read only
+4689,18691,md,
+4690,18692,rn,
+4691,18693,srt,respiratory
+4692,18694,mds,resident/fellow/pa/np
+4693,18695,rn,rn
+4694,18696,ro,read only
+4695,18697,md,resident/fellow/pa/np
+4696,18698,ro,read only
+4697,18699,st,
+4698,18700,np,read only
+4699,18701,rn,
+4700,18702,ro,read only
+4701,18703,ro,read only
+4702,18704,pa,
+4703,18705,rrt,read only
+4704,18706,nnp,
+4705,18707,md,
+4706,18708,np,
+4707,18709,rn,
+4708,18710,ro,read only
+4709,18711,rn,
+4710,18712,rn,
+4711,18713,issupp,administrator
+4712,18714,md,
+4713,18715,rn,
+4714,18716,ro,read only
+4715,18717,md,
+4716,18718,ro,read only
+4717,18719,ro,read only
+4785,18720,rn,
+4786,18721,rn,
+4787,18722,rrt,respiratory
+4788,18723,rn,
+4789,18724,md,
+4790,18725,rrt,respiratory
+4791,18726,ro,read only
+4792,18727,ro,read only
+4793,18728,rehab,rehabilitation
+4794,18729,res,resident/fellow/pa/np
+4795,18730,rn,rn
+4796,18731,rehab,rehabilitation
+4797,18732,rn,rn
+4798,18733,pca,
+4799,18734,rrt,
+4800,18735,res,resident/fellow/pa/np
+4801,18736,ro,read only
+4802,18737,md,
+4803,18738,md,
+4804,18739,ro,read only
+4805,18740,rn,rn
+4806,18741,res,resident/fellow/pa/np
+4807,18742,md,resident/fellow/pa/np
+4808,18743,res,resident/fellow/pa/np
+4809,18744,res,resident/fellow/pa/np
+4810,18745,md,read only
+4811,18746,md,
+4812,18747,ro,read only
+4813,18748,md,
+4814,18749,md,
+4815,18750,md,
+4816,18751,md,
+4817,18752,md,
+4818,18753,md,
+4819,18754,ro,read only
+4820,18755,rn,
+4821,18756,med st,
+4822,18757,ms,
+4823,18758,md,resident/fellow/pa/np
+4824,18759,ro,read only
+4825,18760,md,resident/fellow/pa/np
+4826,18761,ro,read only
+4827,18762,mds,resident/fellow/pa/np
+4828,18763,mds,resident/fellow/pa/np
+4829,18764,mds,
+4830,18765,md,
+4831,18766,ro,read only
+4832,18767,mds,resident/fellow/pa/np
+4833,18768,ro,read only
+4834,18769,md,
+4835,18770,ro,read only
+4836,18771,res,
+4837,18772,md,resident/fellow/pa/np
+4838,18773,ro,read only
+4839,18774,md,resident/fellow/pa/np
+4840,18775,mds,resident/fellow/pa/np
+4841,18776,ro,read only
+4842,18777,rn,rn
+4843,18778,pct,pct/na
+4844,18779,mds,resident/fellow/pa/np
+4845,18780,pa,resident/fellow/pa/np
+4846,18781,ro,read only
+4847,18782,md,
+4848,18783,rn,
+4849,18784,rn,rn
+4850,18785,rn,
+4851,18786,licsw,social worker
+4852,18787,rn,rn
+4853,18788,rn,read only
+4854,18789,rn,
+4855,18790,md,
+4856,18791,rn,
+4857,18792,rn,rn
+4858,18793,rn,rn
+4859,18794,ro,read only
+4860,18795,rt,respiratory
+4861,18796,rn,
+4862,18798,md,
+4863,18799,ro,read only
+4864,18800,rn,
+4865,18801,rn,
+4866,18802,res,resident/fellow/pa/np
+4867,18803,ms,
+4868,18804,rn,rn
+4869,18805,rehab,rehabilitation
+4870,18806,ro,read only
+4871,18807,cowker,
+4872,18808,res,resident/fellow/pa/np
+4873,18809,cm,case manager
+4874,18810,rn,rn
+4875,18811,cm,case manager
+4876,18812,sw,social worker
+4878,18814,res,resident/fellow/pa/np
+4879,18815,pc,pastoral care
+4880,18816,res,resident/fellow/pa/np
+4881,18817,ro,read only
+4882,18818,res,resident/fellow/pa/np
+4883,18819,md,attending
+4884,18820,rn,rn
+4885,18821,pct,pct/na
+4886,18822,pct,pct/na
+4887,18823,rehab,rehabilitation
+4888,18824,rn,rn
+4889,18825,rn,rn
+4890,18826,sw,social worker
+4891,18827,rehab,rehabilitation
+4892,18828,res,resident/fellow/pa/np
+4893,18829,res,resident/fellow/pa/np
+4894,18830,rehab,rehabilitation
+4895,18831,cm,case manager
+4896,18832,res,resident/fellow/pa/np
+4897,18833,ro,read only
+4898,18834,ro,read only
+4899,18835,rn,rn
+4900,18836,rehab,rehabilitation
+4901,18837,pct,pct/na
+4902,18838,snnp,
+4903,18839,ro,read only
+4904,18840,cm,case manager
+4905,18841,rph,pharmacist
+4906,18842,rn,rn
+4907,18843,rt,respiratory
+4908,18844,rehab,rehabilitation
+4909,18845,res,resident/fellow/pa/np
+4910,18846,rn,rn
+4911,18847,res,resident/fellow/pa/np
+4912,18848,res,resident/fellow/pa/np
+4913,18849,res,resident/fellow/pa/np
+4914,18850,rn,
+4915,18851,ra,read only
+4916,18852,sn,
+4917,18853,ro,read only
+4918,18854,ro,read only
+4919,18855,rn,rn
+4920,18856,rn,
+4921,18857,res,resident/fellow/pa/np
+4923,18859,res,resident/fellow/pa/np
+4924,18860,rn,rn
+4925,18861,rn,rn
+4926,18862,md,
+4927,18863,res,resident/fellow/pa/np
+4928,18864,ro,read only
+4929,18865,mds,resident/fellow/pa/np
+4930,18866,rn,read only
+4931,18867,ro,read only
+4932,18868,md,
+4933,18869,rn,
+4934,18870,ro,read only
+4935,18871,studen,
+4936,18872,ro,read only
+4937,18873,rn,rn
+4938,18874,mds,read only
+4939,18875,rn,
+4940,18876,md,
+4941,18877,ro,read only
+4942,18878,mds,resident/fellow/pa/np
+4943,18879,ro,read only
+4944,18880,rn,
+4945,18881,mcd,
+4946,18882,ms,
+4947,18883,rn,
+4948,18884,ro,read only
+4949,18885,ro,read only
+4950,18886,sn,
+4951,18887,rn,rn
+4952,18888,nur-st,
+4953,18889,md,read only
+4954,18890,ro,read only
+4955,18891,md,attending
+4956,18892,res,resident/fellow/pa/np
+4957,18893,ro,read only
+4958,18894,ra,research assistant
+4959,18895,res,resident/fellow/pa/np
+4960,18896,res,resident/fellow/pa/np
+4961,18897,ro,read only
+4962,18898,md,attending
+4963,18899,res,resident/fellow/pa/np
+4964,18900,res,resident/fellow/pa/np
+4965,18901,rn,rn
+4966,18902,rn,
+4967,18903,md,
+4968,18904,mds,
+4969,18905,ro,read only
+4970,18906,md,resident/fellow/pa/np
+4971,18907,md,
+4972,18908,rn stu,
+4973,18909,md,
+4974,18910,ro,read only
+4975,18911,mds,resident/fellow/pa/np
+4976,18912,ro,read only
+4977,18913,md,
+4978,18914,ro,read only
+4979,18915,ro,read only
+4980,18916,di,dietitian
+4981,18917,mds,attending
+4982,18918,rn,
+4983,18919,res,resident/fellow/pa/np
+4984,18920,rn,
+4985,18921,ro,read only
+4986,18922,ro,read only
+4987,18923,co-wor,pct/na
+4988,18924,ro,read only
+4989,18925,rd int,
+4990,18926,rn,
+4991,18927,rph,pharmacist
+4992,18928,rn,rn
+4993,18929,rn,
+4994,18930,rn,
+4995,18931,ua,read only
+4996,18932,phstud,
+4997,18933,ro,read only
+4998,18934,ro,read only
+4999,18935,md,
+5000,18936,md,
+5001,18937,rn,
+5002,18938,coopst,
+5003,18939,pct,pct/na
+5004,18940,rn,
+5005,18941,rn,rn
+5006,18942,md,read only
+5007,18943,mds,resident/fellow/pa/np
+5008,18944,sw int,
+5009,18945,rn,
+5010,18946,ms,resident/fellow/pa/np
+5011,18947,rnstu,
+5012,18948,ro,read only
+5013,18949,ro,read only
+5014,18950,rrt,respiratory
+5015,18951,md,resident/fellow/pa/np
+5016,18952,md,
+5017,18953,ro,read only
+5018,18954,rn,rn
+5019,18955,rn,
+5020,18956,res,resident/fellow/pa/np
+5021,18957,pct,pct/na
+5022,18958,medst,
+5023,18959,rn,rn
+5024,18960,res,resident/fellow/pa/np
+5025,18961,res,resident/fellow/pa/np
+5026,18962,ro,read only
+5027,18963,md,
+5028,18964,res,resident/fellow/pa/np
+5029,18965,rn,
+5030,18966,coopst,
+5031,18967,ro,read only
+5032,18968,md,resident/fellow/pa/np
+5033,18969,rph,
+5034,18970,rph,
+5035,18971,res,resident/fellow/pa/np
+5036,18972,sw,social worker
+5037,18973,cm,case manager
+5038,18974,rph,pharmacist
+5039,18975,res,resident/fellow/pa/np
+5040,18976,rph,pharmacist
+5041,18977,res,resident/fellow/pa/np
+5042,18978,res,resident/fellow/pa/np
+5043,18979,msiv,
+5044,18980,md,
+3548,17549,ro,read only
+3549,17550,res,resident/fellow/pa/np
+3550,17551,res,resident/fellow/pa/np
+3551,17552,md,
+3552,17553,res,resident/fellow/pa/np
+3553,17554,co-ord,uco
+3554,17555,ro,read only
+3555,17556,ro,read only
+3556,17557,res,resident/fellow/pa/np
+3557,17558,sn,
+3558,17559,res,resident/fellow/pa/np
+3559,17560,sw,social worker
+3560,17561,res,resident/fellow/pa/np
+3561,17562,res,resident/fellow/pa/np
+3562,17563,rph,pharmacist
+3563,17564,ro,read only
+3564,17565,res,resident/fellow/pa/np
+3565,17566,ro,read only
+3566,17567,res,resident/fellow/pa/np
+3567,17568,res,resident/fellow/pa/np
+3568,17569,res,resident/fellow/pa/np
+3569,17570,res,resident/fellow/pa/np
+3570,17571,rn,
+3571,17572,ro,read only
+3572,17573,rrts,
+3573,17574,rn,rn
+3574,17575,pca,read only
+3575,17576,rn,rn
+3576,17577,res,resident/fellow/pa/np
+3577,17578,rn,rn
+3578,17579,ro,read only
+3579,17580,ro,read only
+3580,17581,rn,
+3581,17582,rn,rn
+3582,17583,srn,
+3583,17584,rn,
+3584,17585,rn,
+3585,17586,md,
+3586,17587,rn,
+3587,17588,rn,
+3588,17589,md,
+3589,17590,rn,rn
+3590,17591,rn,
+3591,17592,snp,
+3592,17593,md,
+3593,17594,rn,
+3594,17595,rph,
+3595,17596,rn,
+3596,17597,rn,
+3597,17598,uco,
+3598,17599,rph,read only
+3599,17600,rn,rn
+3600,17601,ro,read only
+3601,17602,mds,resident/fellow/pa/np
+3602,17603,rn,
+3603,17604,rn,read only
+3604,17605,ro,read only
+3605,17606,res,resident/fellow/pa/np
+3606,17607,studen,
+3607,17608,md,
+3608,17609,rn,rn
+3609,17610,md,
+3610,17611,coop s,
+3611,17612,md,
+3612,17613,rn,rn
+3613,17614,res,resident/fellow/pa/np
+3614,17615,rn,
+3615,17616,rn,rn
+3616,17617,ro,read only
+3617,17618,md,
+3618,17619,res,resident/fellow/pa/np
+3619,17620,ro,read only
+3620,17621,crt,
+3621,17622,rn,
+3622,17623,pca,
+3623,17624,rn,
+3624,17625,pct,
+3625,17626,ro,read only
+3626,17627,ro,read only
+3627,17628,rn,
+3628,17629,studen,
+3629,17630,ro,read only
+3630,17631,ro,read only
+3631,17632,ro,read only
+3632,17633,res,read only
+3633,17634,stnuiv,
+3634,17635,sn,
+3635,17636,ro,read only
+3636,17637,ro,read only
+3637,17638,ro,read only
+3638,17639,md,
+3639,17640,mds,resident/fellow/pa/np
+3640,17641,md,
+3642,17643,ro,read only
+3643,17644,ro,read only
+3644,17645,ro,read only
+3645,17646,md,
+3646,17647,ro,read only
+3647,17648,pct,
+3648,17649,rn,
+3649,17650,mds,resident/fellow/pa/np
+3650,17651,ro,read only
+3651,17652,di,dietitian
+3652,17653,ro,read only
+3653,17654,mds,resident/fellow/pa/np
+3654,17655,ro,read only
+3655,17656,rn,
+3656,17657,md,
+3657,17658,rn,
+3658,17659,nps,
+3659,17660,ro,read only
+3660,17661,rn,rn
+3661,17662,rt stu,
+3662,17663,admin,
+3663,17664,ua,uco
+3664,17665,licsw,
+3665,17666,md,
+3666,17667,ro,read only
+3667,17668,ro,read only
+3668,17669,rrt,
+3669,17670,rn,
+3670,17671,rnc,
+3671,17672,rn,
+3672,17673,ro,read only
+3673,17674,rn,
+3674,17675,rn,
+3675,17676,dirhcq,read only
+3676,17677,rn,
+3677,17678,rn,
+3678,17679,rn,read only
+3679,17680,rn,
+3680,17681,rn,read only
+3681,17682,ro,read only
+3682,17683,md,
+3683,17684,medstu,
+3684,17685,medst,
+3685,17686,ro,read only
+3686,17687,ro,read only
+3687,17688,md,
+3688,17689,rn,
+3689,17690,rn,
+3690,17691,res,resident/fellow/pa/np
+3691,17692,ro,read only
+3692,17693,rn,rn
+3693,17694,md,resident/fellow/pa/np
+3694,17695,ro,read only
+3695,17696,ro,read only
+3696,17697,ro,read only
+3697,17698,rrt,respiratory
+3698,17699,rn,rn
+3699,17700,rn,
+3700,17701,rn,
+3701,17702,rph,
+3702,17703,rph,
+3703,17704,rn,
+3704,17705,rn,rn
+3705,17706,rn,
+3706,17707,rn,
+3707,17708,ro,read only
+3708,17709,rd,dietitian
+3709,17710,ro,read only
+3710,17711,ro,read only
+3711,17712,snp,
+3712,17713,msiv,
+3713,17714,std,
+3714,17715,rph,
+3715,17716,ro,read only
+3716,17717,rph,pharmacist
+3717,17718,res,resident/fellow/pa/np
+3718,17719,md,attending
+3719,17720,res,resident/fellow/pa/np
+3720,17721,ro,read only
+3721,17722,ro,read only
+3722,17723,res,resident/fellow/pa/np
+3723,17724,md,
+3724,17725,md,
+3725,17726,ro,read only
+3726,17727,ro,read only
+3727,17728,res,resident/fellow/pa/np
+3728,17729,md,
+3729,17730,rehab,rehabilitation
+3730,17731,res,resident/fellow/pa/np
+3731,17732,res,resident/fellow/pa/np
+3732,17733,res,resident/fellow/pa/np
+3733,17734,phastu,
+3734,17735,rn,rn
+3735,17736,rn,read only
+3736,17737,rph,pharmacist
+3737,17738,rrt,respiratory
+3738,17739,rn,
+3739,17740,sw,social worker
+3740,17741,rn,rn
+3741,17742,ro,read only
+3742,17743,ro,read only
+3743,17744,rt,respiratory
+3744,17745,rn,rn
+3745,17746,rn,
+3746,17747,rts,
+3747,17748,rn,
+3748,17749,ro,read only
+3749,17750,rn,rn
+3750,17751,res,resident/fellow/pa/np
+3751,17752,res,resident/fellow/pa/np
+3752,17753,ro,read only
+3753,17754,md,
+3754,17755,ro,read only
+3755,17756,rn,read only
+3756,17757,pct,pct/na
+3757,17758,di,
+3758,17759,res,resident/fellow/pa/np
+3759,17760,rn,rn
+3760,17761,mds,resident/fellow/pa/np
+3761,17762,res,resident/fellow/pa/np
+3762,17763,pt,
+3763,17764,pca,
+3764,17765,licsw,
+3765,17766,md,
+3766,17767,rn,
+3767,17768,ms,
+3768,17769,rn,
+3769,17770,rn,rn
+3770,17771,pcs,
+3771,17772,rn,
+3772,17773,pca,
+3773,17774,rn,
+3774,17775,rn,
+3775,17776,pca,
+3776,17777,rph,
+3777,17778,uco,uco
+3778,17779,di,dietitian
+3779,17780,ro,read only
+3780,17781,rehab,rehabilitation
+3781,17782,ro,read only
+3782,17783,rrt,respiratory
+3783,17784,md,
+3784,17785,crt,
+3785,17786,ro,read only
+3786,17787,srt,
+3787,17788,md,resident/fellow/pa/np
+3788,17789,sw,social worker
+3789,17790,rn,rn
+3790,17791,ro,read only
+3791,17792,md,
+3792,17793,md,
+3793,17794,md,
+3794,17795,ro,read only
+3795,17796,md,
+3796,17797,cm,case manager
+3797,17798,rehab,rehabilitation
+3798,17799,rn,rn
+3799,17800,res,resident/fellow/pa/np
+3800,17801,ro,read only
+3801,17802,mds,resident/fellow/pa/np
+3802,17803,res,resident/fellow/pa/np
+3803,17804,md,
+3856,17805,lpn,
+3857,17806,rn,rn
+3858,17807,rn,rn
+3859,17808,ro,read only
+3860,17809,pca,
+3861,17810,ro,read only
+3862,17811,ro,read only
+3863,17812,ro,read only
+3864,17813,di,
+3865,17814,otr/l,rehabilitation
+3866,17815,res,resident/fellow/pa/np
+3867,17816,rn,
+3868,17817,res,resident/fellow/pa/np
+3869,17818,rn,
+3870,17819,md,
+3871,17820,ro,read only
+3872,17821,md,resident/fellow/pa/np
+3873,17822,ro,read only
+3874,17823,mds,resident/fellow/pa/np
+3875,17824,md,
+3876,17825,rn,read only
+3877,17826,md,
+3878,17827,ro,read only
+3879,17828,md,
+3880,17829,md,
+3881,17830,ro,read only
+3882,17831,ro,read only
+3883,17832,mds,
+3884,17833,ro,read only
+3885,17834,res,resident/fellow/pa/np
+3886,17835,rn,rn
+3887,17836,cra,read only
+3888,17837,md,attending
+3889,17838,res,resident/fellow/pa/np
+3890,17839,md,attending
+3891,17840,ro,read only
+3892,17841,res,resident/fellow/pa/np
+3893,17842,res,resident/fellow/pa/np
+3894,17843,res,resident/fellow/pa/np
+3895,17844,ra,
+3896,17845,std,
+3897,17846,res,resident/fellow/pa/np
+3898,17847,res,resident/fellow/pa/np
+3899,17848,ro,read only
+3900,17849,res,resident/fellow/pa/np
+3901,17850,res,resident/fellow/pa/np
+3902,17851,res,resident/fellow/pa/np
+3903,17852,res,resident/fellow/pa/np
+3904,17853,ro,read only
+3905,17854,ra,research assistant
+3906,17855,res,resident/fellow/pa/np
+3907,17856,res,resident/fellow/pa/np
+3908,17857,rt,respiratory
+3909,17858,rn,
+3910,17859,ms,
+3911,17860,rph,pharmacist
+3912,17861,ro,read only
+3913,17862,ro,read only
+3914,17863,res,resident/fellow/pa/np
+3915,17864,di,dietitian
+3916,17865,res,resident/fellow/pa/np
+3917,17866,studen,resident/fellow/pa/np
+3918,17867,rn,rn
+3919,17868,respst,
+3920,17869,ro,read only
+3921,17870,ro,read only
+3922,17871,ro,read only
+3923,17872,res,
+3924,17873,rn,rn
+3925,17874,rn,
+3926,17875,md,
+3927,17876,ro,read only
+3928,17877,rn,rn
+3929,17878,md,
+3930,17879,ro,read only
+3931,17880,ro,read only
+3932,17881,rn,
+3933,17882,ro,read only
+3934,17883,rt,respiratory
+3935,17884,di,dietitian
+3936,17885,md,
+3937,17886,ro,read only
+3938,17887,ro,read only
+3939,17888,md,resident/fellow/pa/np
+3940,17889,mds,resident/fellow/pa/np
+3941,17890,mds,
+3942,17891,res,resident/fellow/pa/np
+3943,17892,rn,
+3944,17893,otr/l,
+3945,17894,rn,read only
+3946,17895,ro,read only
+3947,17896,uco,uco
+3948,17897,rehab,rehabilitation
+3949,17898,md,
+3950,17899,ro,read only
+3951,17900,res,resident/fellow/pa/np
+3952,17901,res,resident/fellow/pa/np
+3953,17902,sw,social worker
+3954,17903,res,resident/fellow/pa/np
+3955,17904,rehab,rehabilitation
+3956,17905,ro,read only
+3957,17906,res,resident/fellow/pa/np
+3958,17907,res,resident/fellow/pa/np
+3959,17908,res,resident/fellow/pa/np
+3960,17909,ra,research assistant
+3961,17910,md,attending
+3962,17911,res,resident/fellow/pa/np
+3963,17912,rph,pharmacist
+3964,17913,res,resident/fellow/pa/np
+3965,17914,ro,read only
+3966,17915,res,resident/fellow/pa/np
+3967,17916,res,resident/fellow/pa/np
+3968,17917,std,
+3969,17918,rehab,rehabilitation
+3970,17919,rn,
+3971,17920,res,resident/fellow/pa/np
+3972,17921,md,attending
+3973,17922,res,resident/fellow/pa/np
+3974,17923,res,resident/fellow/pa/np
+3975,17924,sw,social worker
+3976,17925,res,resident/fellow/pa/np
+3977,17926,res,resident/fellow/pa/np
+3978,17927,ro,read only
+3979,17928,rehab,rehabilitation
+3980,17929,res,resident/fellow/pa/np
+3981,17930,res,resident/fellow/pa/np
+3982,17931,md,attending
+3983,17932,res,resident/fellow/pa/np
+3984,17933,ra,research assistant
+3985,17934,ro,read only
+3986,17935,rt,respiratory
+3987,17936,rehab,rehabilitation
+3988,17937,sw,social worker
+3989,17938,md,
+3990,17939,res,resident/fellow/pa/np
+3991,17940,res,resident/fellow/pa/np
+3992,17941,rt,respiratory
+3993,17942,srt,
+3994,17943,rn,
+3995,17944,rn,rn
+3996,17945,res,
+3997,17946,rn,rn
+3998,17947,rn,
+3999,17948,ms,resident/fellow/pa/np
+4000,17949,rn,
+4001,17950,rn,rn
+4002,17951,ro,read only
+4003,17952,ro,read only
+4004,17953,rn cm,
+4005,17954,rn,
+4006,17955,rn,
+4007,17956,cowker,
+4008,17957,rphs,
+4009,17958,rrt,
+4010,17959,rn,
+4011,17960,ro,read only
+4012,17961,ro,read only
+4013,17962,ms,
+4014,17963,ro,read only
+4015,17964,rn,
+4016,17965,np,
+4017,17966,ro,read only
+4018,17967,ro,read only
+4019,17968,ro,read only
+4020,17969,md,
+4021,17970,md,
+4022,17971,rn,rn
+4023,17972,pt,
+4024,17973,std,
+4025,17974,md,resident/fellow/pa/np
+4026,17975,rn,rn
+4027,17976,md,
+4028,17977,pct,pct/na
+4029,17978,ro,read only
+4030,17979,coop s,pct/na
+4031,17980,md,
+4032,17981,ro,read only
+4033,17982,rn,
+4034,17983,di,
+4035,17984,ro,read only
+4036,17985,ro,read only
+4037,17986,rn,
+4038,17987,ro,read only
+4039,17988,res,resident/fellow/pa/np
+4040,17989,ro,read only
+4041,17990,res,resident/fellow/pa/np
+4042,17991,res,resident/fellow/pa/np
+4043,17992,cm,case manager
+4044,17993,rn,rn
+4045,17994,res,resident/fellow/pa/np
+4046,17995,res,resident/fellow/pa/np
+4047,17996,res,resident/fellow/pa/np
+4048,17997,res,resident/fellow/pa/np
+4049,17998,res,resident/fellow/pa/np
+4050,17999,rph,pharmacist
+4051,18000,md,
+4052,18001,res,resident/fellow/pa/np
+4053,18002,ro,read only
+4054,18003,res,resident/fellow/pa/np
+4055,18004,rn,rn
+4056,18005,res,resident/fellow/pa/np
+4057,18006,rn,
+4058,18007,ro,read only
+4059,18008,ro,read only
+4060,18009,md,
+4061,18010,rrt,read only
+4062,18011,md,read only
+4063,18012,rn,rn
+4064,18013,rehab,rehabilitation
+4065,18014,rn,
+4066,18015,rn,rn
+4067,18016,rn,rn
+4068,18017,res,resident/fellow/pa/np
+4069,18018,res,resident/fellow/pa/np
+4070,18019,res,resident/fellow/pa/np
+4071,18020,rd,dietitian
+4072,18021,res,resident/fellow/pa/np
+4073,18022,pct,pct/na
+4074,18023,md,attending
+4075,18024,rt,respiratory
+4076,18025,rph,pharmacist
+4077,18026,rd,dietitian
+4078,18027,res,resident/fellow/pa/np
+4079,18028,ro,read only
+4080,18029,res,resident/fellow/pa/np
+4081,18030,ph.stu,
+4082,18031,pc,pastoral care
+4083,18032,res,resident/fellow/pa/np
+4084,18033,ro,read only
+4085,18034,res,resident/fellow/pa/np
+4086,18035,res,resident/fellow/pa/np
+4087,18036,md,attending
+4088,18037,ro,read only
+4089,18038,rn,
+4090,18039,md,
+4091,18040,md,
+4092,18041,ro,read only
+4093,18042,res,resident/fellow/pa/np
+4094,18043,rehab,rehabilitation
+4095,18044,res,resident/fellow/pa/np
+4096,18045,res,resident/fellow/pa/np
+4097,18046,rph,pharmacist
+4098,18047,rehab,rehabilitation
+4099,18048,md,attending
+4100,18049,ro,read only
+4101,18050,ro,read only
+4102,18051,ro,read only
+4103,18052,md,
+4104,18053,md,
+4105,18054,md,
+4106,18055,ro,read only
+4107,18056,md,
+4108,18057,ro,read only
+4109,18058,ro,read only
+4110,18059,res,resident/fellow/pa/np
+4111,18060,res,resident/fellow/pa/np
+4112,18061,res,resident/fellow/pa/np
+4113,18062,md,resident/fellow/pa/np
+4114,18063,coopst,pct/na
+4115,18064,ro,read only
+4116,18065,ms,resident/fellow/pa/np
+4117,18066,md,
+4118,18067,medst,
+4119,18068,ro,read only
+4120,18069,res,resident/fellow/pa/np
+4121,18070,coopst,
+4122,18071,md,
+4123,18072,rd int,
+4124,18073,ro,read only
+4125,18074,mds,
+4126,18075,md,
+4127,18076,rn,rn
+4128,18077,ro,read only
+4129,18078,rn,
+4130,18079,rn,
+4131,18080,ro,read only
+4132,18081,ro,read only
+4133,18082,md,resident/fellow/pa/np
+4134,18083,pa,read only
+4135,18084,rn,rn
+4136,18085,ro,read only
+4137,18086,ro,read only
+4138,18087,uc,
+4139,18088,res,resident/fellow/pa/np
+4140,18089,nnp,
+4141,18090,pca,
+4142,18091,md,read only
+4143,18092,ro,read only
+4144,18093,rts,
+4145,18094,ro,read only
+4146,18095,rn,
+4147,18096,pc,read only
+4148,18097,ra,read only
+4149,18098,ro,read only
+4150,18099,ro,read only
+4151,18100,ro,read only
+4152,18101,cowker,
+4153,18102,rn,
+4154,18103,ro,read only
+4155,18104,di,dietitian
+4156,18105,mds,resident/fellow/pa/np
+4157,18106,mds,resident/fellow/pa/np
+4158,18107,ro,read only
+4159,18108,md,
+4160,18109,ro,read only
+4161,18110,rph,
+4162,18111,ro,read only
+4163,18112,pca,
+4164,18113,ro,read only
+4165,18114,ro,read only
+4166,18115,mds,resident/fellow/pa/np
+4167,18116,ro,read only
+4168,18117,ro,read only
+4169,18118,ro,read only
+4170,18119,md,read only
+4171,18120,mswint,
+4172,18121,rn,rn
+4173,18122,srt,
+4174,18123,coop,pharmacist
+4175,18124,rn,
+4176,18125,rn,read only
+4177,18126,rn,
+4178,18127,issupp,administrator
+4179,18128,md,attending
+4180,18129,res,resident/fellow/pa/np
+4181,18130,res,resident/fellow/pa/np
+4182,18131,ro,read only
+4183,18132,ro,read only
+4184,18133,ro,read only
+4185,18134,md,
+4186,18135,isops,administrator
+4187,18136,md,
+4188,18137,pct,pct/na
+4189,18138,res,resident/fellow/pa/np
+4190,18139,ro,read only
+4191,18140,uc,
+4192,18141,stnur,
+4193,18142,ro,read only
+4194,18143,pct,
+4195,18144,rn,rn
+4196,18145,rn,rn
+4197,18146,res,resident/fellow/pa/np
+4198,18147,rn,rn
+4199,18148,ro,read only
+4200,18149,res,resident/fellow/pa/np
+4201,18150,rn,rn
+4202,18151,res,resident/fellow/pa/np
+4203,18152,res,resident/fellow/pa/np
+4204,18153,medst,
+4205,18154,res,resident/fellow/pa/np
+4206,18155,res,resident/fellow/pa/np
+4207,18156,ua,uco
+4208,18157,res,resident/fellow/pa/np
+4209,18158,res,resident/fellow/pa/np
+4210,18159,rd,dietitian
+4211,18160,res,resident/fellow/pa/np
+4212,18161,res,resident/fellow/pa/np
+4213,18162,srt,respiratory
+4214,18163,rn,
+4215,18164,rrt,
+4216,18165,md,attending
+4217,18166,sw,social worker
+4218,18167,ro,read only
+4219,18168,md,
+4220,18169,pct,pct/na
+4221,18170,rn,rn
+4222,18171,ro,read only
+4223,18172,rd,dietitian
+4224,18173,ro,read only
+4225,18174,cowkr,
+4226,18175,md,read only
+4227,18176,ua,
+4228,18177,pct,pct/na
+4229,18178,res,resident/fellow/pa/np
+4230,18179,ro,read only
+4231,18180,md,resident/fellow/pa/np
+4232,18181,res,resident/fellow/pa/np
+4233,18182,md,
+4234,18183,medstu,
+4235,18184,ro,read only
+4236,18185,mds,
+4237,18186,md,
+4238,18187,rrt,
+4239,18188,cowker,pct/na
+4240,18189,res,resident/fellow/pa/np
+4241,18190,rrt,respiratory
+4242,18191,rehab,rehabilitation
+4243,18192,rd,
+4244,18193,rn,read only
+4245,18194,mds,read only
+4246,18195,ro,read only
+4247,18196,rph,pharmacist
+4248,18197,rn,
+4249,18198,r.ph.,
+4250,18199,mtascp,
+4251,18200,rt,respiratory
+4252,18201,res,resident/fellow/pa/np
+4253,18202,res,resident/fellow/pa/np
+4254,18203,res,resident/fellow/pa/np
+4255,18204,md,
+4256,18205,res,resident/fellow/pa/np
+4257,18206,rehab,rehabilitation
+4258,18207,res,resident/fellow/pa/np
+4259,18208,res,resident/fellow/pa/np
+4260,18209,res,resident/fellow/pa/np
+4261,18210,res,resident/fellow/pa/np
+4262,18211,rn,rn
+4263,18212,res,resident/fellow/pa/np
+4264,18213,ro,read only
+4265,18214,rd,dietitian
+4266,18215,ro,read only
+4267,18216,res,resident/fellow/pa/np
+4268,18217,res,resident/fellow/pa/np
+4269,18218,rehab,rehabilitation
+4270,18219,res,resident/fellow/pa/np
+4272,18221,res,resident/fellow/pa/np
+4273,18222,rn,rn
+4274,18223,rn,
+4275,18224,ro,read only
+4276,18225,cm,case manager
+4277,18226,ro,read only
+4278,18227,ro,read only
+4279,18228,res,resident/fellow/pa/np
+4280,18229,res,resident/fellow/pa/np
+4281,18230,res,resident/fellow/pa/np
+4282,18231,res,resident/fellow/pa/np
+4283,18232,md,
+4284,18233,ro,read only
+4285,18234,rn,rn
+4286,18235,ro,read only
+4287,18236,rn,read only
+4288,18237,rd,
+4289,18238,rrt,
+4290,18239,rn,
+4291,18240,rn,rn
+4292,18241,ro,read only
+4293,18242,rn,
+4294,18243,ro,read only
+4295,18244,md,read only
+4296,18245,cm,case manager
+4297,18246,rn,rn
+4298,18247,rn,
+4299,18248,ro,read only
+4300,18249,rn,
+4301,18250,md,
+4302,18251,rn,
+4303,18252,pt,
+4304,18253,rn,
+4305,18254,md,
+4306,18255,nnp,
+4307,18256,coopst,
+4308,18257,snp,
+4309,18258,stnurs,
+4310,18259,ro,read only
+4311,18260,ro,read only
+4312,18261,reside,read only
+4313,18262,mds,resident/fellow/pa/np
+3804,18263,ro,read only
+3805,18264,md,resident/fellow/pa/np
+3806,18265,uco,
+3807,18266,stnuiv,
+3808,18267,ns,
+3809,18268,md,attending
+3810,18269,mds,
+3811,18270,rn,
+3812,18271,ro,read only
+3813,18272,rn,
+3814,18273,rn,
+3815,18274,md,
+3816,18275,res,resident/fellow/pa/np
+3817,18276,md,resident/fellow/pa/np
+3818,18277,res,resident/fellow/pa/np
+3819,18278,res,resident/fellow/pa/np
+3820,18279,ms,
+3821,18280,ls,
+3822,18281,mds,resident/fellow/pa/np
+3823,18282,rnstu,
+3824,18283,ro,read only
+3825,18284,rncm,
+3826,18285,ms,
+3827,18286,rn,
+3828,18287,pharmd,
+3829,18288,rn,
+3830,18289,mds,resident/fellow/pa/np
+3831,18290,cowker,
+3832,18291,ph stu,
+3833,18292,rn,
+3834,18293,pt,rehabilitation
+3835,18294,ro,read only
+3836,18295,rn,
+3837,18296,ro,read only
+3838,18297,coopst,
+3839,18298,ro,read only
+3840,18299,ro,read only
+3841,18300,md,
+3842,18301,rn,rn
+3843,18302,rn,
+3844,18303,ro,read only
+3845,18304,ro,read only
+3846,18305,rn,rn
+3847,18306,rn,
+3848,18307,rn,
+3849,18308,pa,pct/na
+3850,18309,ro,read only
+3851,18310,mds,read only
+3852,18311,np,
+3853,18312,rph,
+3854,18313,ro,read only
+3855,18314,md,
+4314,18315,md,
+4315,18316,licsw,
+4316,18317,snnp,
+4317,18318,ro,read only
+4318,18319,ro,read only
+4319,18320,rn,rn
+4320,18321,md,
+4321,18322,rd,dietitian
+4322,18323,uco,
+4323,18324,res,resident/fellow/pa/np
+4324,18325,rph,pharmacist
+4325,18326,res,resident/fellow/pa/np
+4326,18327,rn,rn
+4327,18328,rn,rn
+4328,18329,rehab,rehabilitation
+4329,18330,res,resident/fellow/pa/np
+4330,18331,res,resident/fellow/pa/np
+4331,18332,res,resident/fellow/pa/np
+4332,18333,res,resident/fellow/pa/np
+4333,18334,cowker,
+4334,18335,md,
+4335,18336,ro,read only
+4336,18337,res,resident/fellow/pa/np
+4337,18338,res,resident/fellow/pa/np
+4338,18339,rph,pharmacist
+4339,18340,res,resident/fellow/pa/np
+4340,18341,res,resident/fellow/pa/np
+4341,18342,np,read only
+4342,18343,ro,read only
+4343,18344,res,resident/fellow/pa/np
+4344,18345,res,resident/fellow/pa/np
+4345,18346,ms,
+4346,18347,pct,pct/na
+4347,18348,md,
+4348,18349,ms,
+4349,18350,sw,social worker
+4350,18351,rph,pharmacist
+4351,18352,res,resident/fellow/pa/np
+4352,18353,pct,pct/na
+4353,18354,md,
+4354,18355,ro,read only
+4355,18356,rn,
+4356,18357,rd,dietitian
+4357,18358,ro,read only
+4358,18359,md,
+4359,18360,md,
+4360,18361,rn,
+4361,18362,pa,
+4362,18363,ro,read only
+4363,18364,stnurs,
+4364,18365,rn,
+4365,18366,rrt,
+4366,18367,rn,resident/fellow/pa/np
+4367,18368,ro,read only
+4368,18369,rn,rn
+4369,18370,licsw,
+4370,18371,licsw,social worker
+4371,18372,md,attending
+4372,18373,cm,case manager
+4373,18374,pc,pastoral care
+4374,18375,ro,read only
+4375,18376,md,resident/fellow/pa/np
+4376,18377,ro,read only
+4377,18378,ro,read only
+4378,18379,cowkr,
+4379,18380,md,
+4381,18382,res,resident/fellow/pa/np
+4382,18383,res,resident/fellow/pa/np
+4383,18384,res,resident/fellow/pa/np
+4384,18385,res,resident/fellow/pa/np
+4385,18386,rn,rn
+4386,18387,res,resident/fellow/pa/np
+4387,18388,rtstu,
+4388,18389,rn,
+4389,18390,ro,read only
+4390,18391,ro,read only
+4391,18392,md,
+4392,18393,medst,
+4393,18394,md,
+4394,18395,md,
+4395,18396,medstu,
+4396,18397,med. s,
+4397,18398,ro,read only
+4398,18399,ms,
+4399,18400,ro,read only
+4400,18401,ro,read only
+4401,18402,pca,
+4402,18403,rn,rn
+4403,18404,ro,read only
+4404,18405,rt,respiratory
+4405,18406,res,resident/fellow/pa/np
+4406,18407,md,
+4407,18408,pct,
+4408,18409,md,
+4409,18410,ro,read only
+4410,18411,cowkr,pct/na
+4411,18412,ro,read only
+4412,18413,md,read only
+4413,18414,res,resident/fellow/pa/np
+4414,18415,rn,rn
+4415,18416,res,resident/fellow/pa/np
+4416,18417,rn,rn
+4417,18418,rn,rn
+4418,18419,ro,read only
+4419,18420,ro,read only
+4420,18421,ro,read only
+4421,18422,rn,
+4422,18423,rn,
+4423,18424,rn,rn
+4424,18425,mds,read only
+4425,18426,swint,
+4426,18427,uc,
+4427,18428,rrt,respiratory
+4428,18429,ro,read only
+4429,18430,ro,read only
+4430,18431,ro,read only
+4431,18432,ro,read only
+4432,18433,rn,
+4433,18434,md,
+4434,18435,uco,
+4435,18436,licsw,
+4436,18437,rn,rn
+4437,18438,md,resident/fellow/pa/np
+4438,18439,ro,read only
+4439,18440,admin,administrator
+4440,18441,res,resident/fellow/pa/np
+4441,18442,res,resident/fellow/pa/np
+4442,18443,rn,rn
+4443,18444,cm,case manager
+4444,18445,rn,rn
+4445,18446,rt,respiratory
+4446,18447,res,resident/fellow/pa/np
+4447,18448,rn,
+4448,18449,res,resident/fellow/pa/np
+4449,18450,ro,read only
+4450,18451,res,resident/fellow/pa/np
+4451,18452,res,resident/fellow/pa/np
+4452,18453,rehab,rehabilitation
+4453,18454,ro,read only
+4454,18455,cm,case manager
+4455,18456,rn,rn
+4456,18457,cowker,
+4457,18458,res,resident/fellow/pa/np
+4458,18459,ms,
+4459,18460,md,attending
+4460,18461,rn,
+4461,18462,rn,rn
+4462,18463,res,resident/fellow/pa/np
+4463,18464,rn,rn
+4464,18465,uco,uco
+4465,18466,mds,resident/fellow/pa/np
+4466,18467,res,resident/fellow/pa/np
+4467,18468,sw,social worker
+4468,18469,rn,rn
+4469,18470,res,resident/fellow/pa/np
+4470,18471,imd,imd
+4471,18472,ro,read only
+4472,18473,md,read only
+4473,18474,sw,social worker
+4474,18475,md,
+4475,18476,md,attending
+4476,18477,md,
+4477,18478,md,attending
+4478,18479,ra,research assistant
+4479,18480,md,attending
+4480,18481,pc,pastoral care
+4481,18482,ro,read only
+4482,18483,mds,
+4483,18484,pct,pct/na
+4484,18485,pca,
+4485,18486,ms,dietitian
+4486,18487,res,resident/fellow/pa/np
+4487,18488,rn,rn
+4488,18489,res,resident/fellow/pa/np
+4489,18490,res,resident/fellow/pa/np
+4490,18491,res,resident/fellow/pa/np
+4491,18492,md,resident/fellow/pa/np
+4492,18493,rehab,rehabilitation
+4493,18494,ro,read only
+4494,18495,res,resident/fellow/pa/np
+4495,18496,ro,read only
+4496,18497,md,
+4497,18498,md,resident/fellow/pa/np
+4498,18499,ro,read only
+4499,18500,ro,read only
+4500,18501,md,attending
+4501,18502,rrt,
+4502,18503,res,resident/fellow/pa/np
+4503,18504,mds,
+4504,18505,ua,uco
+4505,18506,rehab,rehabilitation
+4506,18507,rn,
+4507,18508,rn,rn
+4508,18509,ro,read only
+4509,18510,md,
+4510,18511,ro,read only
+4511,18512,md,
+4512,18513,rph,pharmacist
+4513,18514,md,
+4514,18515,md,
+4515,18516,ro,read only
+4516,18517,ro,read only
+4517,18518,medstu,
+4518,18519,ro,read only
+4519,18520,res,resident/fellow/pa/np
+4520,18521,pct,pct/na
+4521,18522,rn,rn
+4522,18523,rn,rn
+4523,18524,rn,
+4524,18525,ro,read only
+4525,18526,res,resident/fellow/pa/np
+4526,18527,md,
+4527,18528,md,resident/fellow/pa/np
+4528,18529,md,
+4529,18530,md,read only
+4530,18531,np,
+4531,18532,stnuiv,read only
+4532,18533,md,
+4533,18534,ro,read only
+4534,18535,md,
+4535,18536,rn,
+4536,18537,mds,resident/fellow/pa/np
+4537,18538,ro,read only
+4538,18539,rn,rn
+4539,18540,issupp,
+4540,18541,rph,
+4541,18542,rehab,rehabilitation
+4542,18543,bsmt,
+4543,18544,rn,
+4544,18545,rn,
+4545,18546,msiv,
+4546,18547,pharmd,pharmacist
+4547,18548,ro,read only
+4548,18549,mds,read only
+4550,18551,ro,read only
+4551,18552,rn,
+4552,18553,co-wk,
+4553,18554,rts,
+4554,18555,md,read only
+4555,18556,ro,read only
+4556,18557,rn,rn
+4557,18558,md,
+4558,18559,rn,
+4559,18560,ps,
+4560,18561,medst,
+4561,18562,ro,read only
+4562,18563,ro,read only
+4563,18564,msiv,
+4564,18565,rn,rn
+4565,18566,rn,rn
+4566,18567,ro,read only
+4567,18568,ro,read only
+4568,18569,md,
+4569,18570,ro,read only
+4570,18571,ro,read only
+4571,18572,rn,rn
+4572,18573,ro,read only
+4573,18574,ro,read only
+4574,18575,rn,
+4575,18576,rn,rn
+4576,18577,uc,
+4577,18578,ro,read only
+4578,18579,rn,rn
+4579,18580,res,resident/fellow/pa/np
+4580,18581,rn,
+4581,18582,ro,read only
+4582,18583,ro,read only
+4583,18584,pct,
+4584,18585,rn,
+4585,18586,uco,
+4586,18587,md,
+4587,18588,ms,
+4588,18589,res,resident/fellow/pa/np
+4589,18590,ro,read only
+4590,18591,ro,read only
+4591,18592,rn,rn
+4592,18593,md,
+4593,18594,aa,
+4594,18595,rph,pharmacist
+4595,18596,ro,read only
+4596,18597,md,
+4597,18598,ro,read only
+4598,18599,md,
+4599,18600,ro,read only
+4600,18601,ro,read only
+4601,18602,rn,rn
+4877,18603,rph,pharmacist
+4602,18604,md,
+4603,18605,ro,read only
+4604,18606,rn,rn
+4605,18607,res,resident/fellow/pa/np
+4606,18608,ro,read only
+4607,18609,md,
+4608,18610,np,resident/fellow/pa/np
+4609,18611,ro,read only
+4610,18612,md,
+4611,18613,md,
+4612,18614,md,
+4613,18615,ms,
+4614,18616,md,
+4615,18617,md,read only
+4616,18618,ro,read only
+4617,18619,md,read only
+4618,18620,ro,read only
+4619,18621,md,
+4620,18622,isops,administrator
+4621,18623,ro,read only
+4622,18624,ms,
+5045,18981,md,
+5046,18982,md,
+5047,18983,ro,read only
+5048,18984,ro,read only
+5049,18985,mds,read only
+5050,18986,md,resident/fellow/pa/np
+5051,18987,md,
+5052,18988,md,
+5053,18989,md,resident/fellow/pa/np
+5054,18990,md,
+5055,18991,md,attending
+5056,18992,ro,read only
+5057,18993,md,read only
+5058,18994,rtstu,
+5059,18995,rtstu,
+5060,18996,md,resident/fellow/pa/np
+5061,18997,rn,
+5062,18998,ro,read only
+5063,18999,rrt,respiratory
+5064,19000,md,resident/fellow/pa/np
+6305,20308,ro,read only
+6306,20309,rn,
+6307,20310,medstu,
+6308,20311,rn,
+6309,20312,md,
+6310,20313,ro,read only
+6311,20314,rrt,respiratory
+6312,20315,rt,
+6313,20316,ro,read only
+6314,20317,md,
+6315,20318,rn,
+6316,20319,hms iv,
+6317,20320,rn,read only
+6319,20322,sw,social worker
+6320,20323,ro,read only
+6321,20324,mds,resident/fellow/pa/np
+6322,20325,ro,read only
+6323,20326,coopst,
+6324,20327,di,
+6325,20328,rrts,
+6326,20329,rd,
+6327,20330,rd,
+6328,20331,res,resident/fellow/pa/np
+6329,20332,md,
+6330,20333,md,
+6331,20334,sw,social worker
+6332,20335,rn,rn
+6333,20336,ro,read only
+6334,20337,md,read only
+6335,20338,md,read only
+6336,20339,studen,
+6337,20340,ro,read only
+6338,20341,sw,social worker
+6339,20342,ro,read only
+6340,20343,res,resident/fellow/pa/np
+6341,20344,md,
+6342,20345,rn,rn
+6343,20346,rn,rn
+6344,20347,md,
+6345,20348,cm,case manager
+6346,20349,rehab,rehabilitation
+6347,20350,rd,dietitian
+6348,20351,md,attending
+6349,20352,rph,pharmacist
+6350,20353,md,attending
+6351,20354,res,resident/fellow/pa/np
+6352,20355,res,resident/fellow/pa/np
+6353,20356,res,resident/fellow/pa/np
+6354,20357,rn,rn
+6355,20358,md,attending
+6356,20359,res,resident/fellow/pa/np
+6357,20360,res,resident/fellow/pa/np
+6358,20361,md,attending
+6359,20362,ro,read only
+6360,20363,sw,social worker
+6361,20364,res,resident/fellow/pa/np
+6362,20365,md,attending
+6363,20366,sw,social worker
+6364,20367,res,resident/fellow/pa/np
+6365,20368,pct,pct/na
+6366,20369,res,resident/fellow/pa/np
+6367,20370,sw,social worker
+6368,20371,res,resident/fellow/pa/np
+6369,20372,res,resident/fellow/pa/np
+6370,20373,ro,read only
+6371,20374,res,resident/fellow/pa/np
+6372,20375,cm,case manager
+6373,20376,md,read only
+6374,20377,ro,read only
+6375,20378,uco,uco
+6376,20379,ro,read only
+6377,20380,ro,read only
+6378,20381,md,
+6379,20382,ro,read only
+6380,20383,md,
+6381,20384,md,attending
+6382,20385,res,resident/fellow/pa/np
+6383,20386,mds,read only
+6384,20387,md,
+6385,20388,ro,read only
+6386,20389,rrt,respiratory
+6387,20390,md,
+6388,20391,imd,imd
+6389,20392,rn,
+6390,20393,medstu,
+6391,20394,md,
+6392,20395,md,attending
+6394,20397,pct,pct/na
+6395,20398,rn,rn
+6396,20399,md,resident/fellow/pa/np
+6397,20400,rph,pharmacist
+6398,20401,md,attending
+6399,20402,ro,read only
+6400,20403,rn,rn
+6401,20404,ro,read only
+6402,20405,res,resident/fellow/pa/np
+6403,20406,ro,read only
+6404,20407,md,
+6405,20408,md,
+6406,20409,md,
+6407,20410,md,
+6408,20411,ms,
+6409,20412,ms,
+6410,20413,res,resident/fellow/pa/np
+6411,20414,ro,read only
+6412,20415,res,resident/fellow/pa/np
+6413,20416,res,resident/fellow/pa/np
+6414,20417,pca,
+6415,20418,ro,read only
+6416,20419,res,resident/fellow/pa/np
+6417,20420,res,resident/fellow/pa/np
+6418,20421,rn,rn
+6419,20422,md,attending
+6420,20423,rn,rn
+6421,20424,res,resident/fellow/pa/np
+6422,20425,md,
+6423,20426,res,resident/fellow/pa/np
+6424,20427,res,resident/fellow/pa/np
+6425,20428,md,read only
+6426,20429,admin,read only
+6427,20430,ro,read only
+6428,20431,ms,
+6429,20432,res,resident/fellow/pa/np
+6430,20433,md,
+6431,20434,ro,read only
+6432,20435,md,
+6433,20436,rn,
+6434,20437,ro,read only
+6435,20438,md,
+6436,20439,md,attending
+6437,20440,stnurs,
+6438,20441,md,
+6439,20442,ro,read only
+6440,20443,md,resident/fellow/pa/np
+6441,20444,res,resident/fellow/pa/np
+6442,20445,mds,
+6443,20446,res,resident/fellow/pa/np
+6444,20447,md,
+6445,20448,res,resident/fellow/pa/np
+6446,20449,res,resident/fellow/pa/np
+6447,20450,res,resident/fellow/pa/np
+6448,20451,res,resident/fellow/pa/np
+6449,20452,res,resident/fellow/pa/np
+6450,20453,res,resident/fellow/pa/np
+6451,20454,md,attending
+6452,20455,res,resident/fellow/pa/np
+6453,20456,res,resident/fellow/pa/np
+6454,20457,res,resident/fellow/pa/np
+6455,20458,res,resident/fellow/pa/np
+6456,20459,md,attending
+6457,20460,ro,read only
+6458,20461,rf,resident/fellow/pa/np
+6459,20462,uco,pct/na
+6460,20463,medstu,
+6461,20464,rehab,rehabilitation
+6462,20465,ro,read only
+6463,20466,ro,read only
+6464,20467,rn,
+6465,20468,rn,
+6466,20469,st,
+6467,20470,ro,read only
+6468,20471,ro,read only
+6469,20472,ro,read only
+6470,20473,res,resident/fellow/pa/np
+6471,20474,rn,
+6472,20475,res,resident/fellow/pa/np
+6473,20476,md,
+6474,20477,mds,resident/fellow/pa/np
+6475,20478,rn,
+6476,20479,rph,
+6477,20480,rrt,respiratory
+6478,20481,md,
+6479,20482,rn,rn
+6480,20483,md,
+6481,20484,pca,
+6482,20485,rn,rn
+6483,20486,ro,read only
+6484,20487,ro,read only
+6485,20488,np,resident/fellow/pa/np
+6486,20489,res,resident/fellow/pa/np
+6487,20490,rrts,
+6488,20491,res,resident/fellow/pa/np
+6489,20492,mds,resident/fellow/pa/np
+6490,20493,res,resident/fellow/pa/np
+6491,20494,ro,read only
+6492,20495,cowker,
+6493,20496,std,
+6494,20497,pct,pct/na
+6495,20498,ro,read only
+6496,20499,ro,read only
+6497,20500,ms,
+6498,20501,ro,read only
+6499,20502,ua,
+6500,20503,ro,read only
+6501,20504,mds,read only
+6502,20505,sn,read only
+6503,20506,md,
+6504,20507,rph,
+6505,20508,rn,read only
+6506,20509,ro,read only
+6507,20510,rn,
+6508,20511,rn,rn
+6509,20512,ro,read only
+6510,20513,rn,
+6511,20514,res,resident/fellow/pa/np
+6512,20515,pt,
+6513,20516,rph,
+6514,20517,di,
+6515,20518,uco,uco
+6516,20519,rrt,respiratory
+6517,20520,md,
+6518,20521,ro,read only
+6519,20522,rn,read only
+6520,20523,md,read only
+6521,20524,res,resident/fellow/pa/np
+6522,20525,mds,
+6523,20526,medica,
+6524,20527,res,resident/fellow/pa/np
+6525,20528,std,
+6526,20529,md,
+6527,20530,ro,read only
+6528,20531,md,
+6529,20532,rrt,respiratory
+6530,20533,rn,
+6531,20534,rn,
+6532,20535,md,
+6533,20536,mds,
+6534,20537,ro,read only
+6535,20538,res,resident/fellow/pa/np
+6536,20539,ro,read only
+6537,20540,mds,
+6538,20541,md,
+6539,20542,uco,uco
+6540,20543,md,read only
+6541,20544,ro,read only
+6542,20545,md,attending
+6543,20546,md,read only
+6595,20547,res,resident/fellow/pa/np
+6596,20548,cowker,
+6597,20549,rehab,rehabilitation
+6598,20550,rn,rn
+6599,20551,sw,social worker
+6600,20552,spg,
+6601,20553,ro,read only
+6602,20554,res,resident/fellow/pa/np
+6603,20555,res,resident/fellow/pa/np
+6604,20556,res,resident/fellow/pa/np
+6605,20557,res,resident/fellow/pa/np
+6606,20558,ro,read only
+6607,20559,md,
+6608,20560,res,resident/fellow/pa/np
+6609,20561,res,resident/fellow/pa/np
+6610,20562,cm,case manager
+6611,20563,res,resident/fellow/pa/np
+6612,20564,res,resident/fellow/pa/np
+6613,20565,res,resident/fellow/pa/np
+6614,20566,md,
+6615,20567,ms,
+6616,20568,ro,read only
+6617,20569,ro,read only
+6618,20570,res,resident/fellow/pa/np
+6619,20571,mds,read only
+6620,20572,ro,read only
+6621,20573,res,resident/fellow/pa/np
+6622,20574,res,resident/fellow/pa/np
+6623,20575,sw,social worker
+6624,20576,ro,read only
+6625,20577,res,resident/fellow/pa/np
+6626,20578,res,resident/fellow/pa/np
+6627,20579,res,resident/fellow/pa/np
+6628,20580,res,resident/fellow/pa/np
+6629,20581,rn,rn
+6630,20582,md,
+6631,20583,ro,read only
+6632,20584,ro,read only
+6633,20585,res,resident/fellow/pa/np
+6634,20586,ms v,
+6635,20587,pct,pct/na
+6636,20588,res,resident/fellow/pa/np
+6637,20589,pct,pct/na
+6638,20590,res,resident/fellow/pa/np
+6639,20591,rn,rn
+6640,20592,rn,rn
+6641,20593,res,resident/fellow/pa/np
+6642,20594,ro,read only
+6643,20595,res,resident/fellow/pa/np
+6644,20596,pct,pct/na
+6645,20597,rehab,rehabilitation
+6646,20598,res,resident/fellow/pa/np
+6647,20599,rt,respiratory
+6648,20600,res,resident/fellow/pa/np
+6649,20601,res,resident/fellow/pa/np
+6650,20602,pc,pastoral care
+6651,20603,ro,read only
+6652,20604,md,
+6653,20605,ro,read only
+6654,20606,ro,read only
+6655,20607,ro,read only
+6656,20608,rrt,
+6657,20609,pct,pct/na
+6658,20610,res,resident/fellow/pa/np
+6659,20611,sw,social worker
+6660,20612,imd,imd
+6661,20613,md,
+6662,20614,ro,read only
+6663,20615,ro,read only
+6664,20616,res,resident/fellow/pa/np
+6665,20617,res,resident/fellow/pa/np
+6666,20618,pct,pct/na
+6667,20619,res,resident/fellow/pa/np
+6668,20620,res,resident/fellow/pa/np
+6669,20621,rehab,rehabilitation
+6670,20622,rn,rn
+6671,20623,md,resident/fellow/pa/np
+6672,20624,rn,rn
+6673,20625,ph.stu,
+6674,20626,md,
+6675,20627,phad,
+6676,20628,md,
+6677,20629,ro,read only
+6678,20630,res,resident/fellow/pa/np
+6679,20631,res,resident/fellow/pa/np
+6680,20632,res,resident/fellow/pa/np
+6681,20633,ro,read only
+6682,20634,rn,
+6683,20635,ro,read only
+6684,20636,res,resident/fellow/pa/np
+6685,20637,ro,read only
+6686,20638,rph,
+6687,20639,ro,read only
+6688,20640,ua,uco
+6689,20641,ro,read only
+6690,20642,ro,read only
+6691,20643,ro,read only
+6692,20644,md,
+6693,20645,admin,administrator
+6694,20646,ro,read only
+6695,20647,md,
+6696,20648,rn,rn
+6697,20649,ro,read only
+6698,20650,ro,read only
+6699,20651,pct,pct/na
+6700,20652,rt,respiratory
+6701,20653,rehab,rehabilitation
+6702,20654,res,resident/fellow/pa/np
+6703,20655,res,resident/fellow/pa/np
+6704,20656,res,resident/fellow/pa/np
+6705,20657,uco,uco
+6706,20658,ro,read only
+6707,20659,res,resident/fellow/pa/np
+6708,20660,res,resident/fellow/pa/np
+6709,20661,ro,read only
+6710,20662,res,resident/fellow/pa/np
+6711,20663,ms,
+6712,20664,md,
+6713,20665,res,resident/fellow/pa/np
+6714,20666,ro,read only
+6715,20667,pt,rehabilitation
+6716,20668,md,
+6717,20669,coopst,
+6718,20670,rn,
+6719,20671,ro,read only
+6720,20672,rn,rn
+6721,20673,ldn,read only
+6722,20674,rn,
+6723,20675,rn,rn
+6724,20676,md,
+6725,20677,rn,
+6726,20678,res,resident/fellow/pa/np
+6727,20679,ro,read only
+6728,20680,rn,read only
+6729,20681,di,dietitian
+6730,20682,res,resident/fellow/pa/np
+6731,20683,res,resident/fellow/pa/np
+6732,20684,pct,pct/na
+6733,20685,rn,rn
+6734,20686,md,attending
+6735,20687,res,resident/fellow/pa/np
+6736,20688,pca,
+6737,20689,res,resident/fellow/pa/np
+6738,20690,co-wkr,pct/na
+6739,20691,md,
+6740,20692,md,
+6741,20693,rn,
+6742,20694,res,resident/fellow/pa/np
+6743,20695,rph,pharmacist
+6744,20696,stph,
+6745,20697,ro,read only
+6746,20698,res,resident/fellow/pa/np
+6747,20699,res,resident/fellow/pa/np
+6748,20700,md,
+6749,20701,rn,rn
+6750,20702,ro,read only
+6751,20703,ro,read only
+6752,20704,rn,rn
+6753,20705,rn,rn
+6754,20706,rn,rn
+6755,20707,stunur,
+6756,20708,mds,resident/fellow/pa/np
+6757,20709,ro,read only
+6758,20710,rn,
+6759,20711,rn,rn
+6760,20712,medst,
+6761,20713,pca,read only
+6762,20714,rn,rn
+6763,20715,res,resident/fellow/pa/np
+6764,20716,ro,read only
+6765,20717,ra,
+6766,20718,md,
+6767,20719,ro,read only
+6768,20720,rn,
+6769,20721,rn,
+6770,20722,rph,
+6771,20723,mds,
+6772,20724,md,resident/fellow/pa/np
+6773,20725,md,
+6774,20726,md,
+6775,20727,res,resident/fellow/pa/np
+6776,20728,ro,read only
+6777,20729,ro,read only
+6778,20730,rph,pharmacist
+6779,20731,rrt,read only
+6780,20732,mds,resident/fellow/pa/np
+6781,20733,md,
+6782,20734,ro,read only
+6783,20735,md,
+6784,20736,ro,read only
+6785,20737,ro,read only
+6786,20738,md,resident/fellow/pa/np
+6787,20739,ro,read only
+6788,20740,md,
+6789,20741,ro,read only
+6790,20742,ms,
+6791,20743,rehab,rehabilitation
+6792,20744,md,attending
+6793,20745,rph,read only
+6794,20746,is,administrator
+6795,20747,rn,read only
+6796,20748,medst,attending
+6797,20749,md,
+6798,20750,issupp,
+6799,20751,ro,read only
+6800,20752,ro,read only
+6801,20753,ro,read only
+6802,20754,md,
+6803,20755,md,read only
+6804,20756,rrt,
+6805,20757,mds,read only
+6806,20758,cm,case manager
+6807,20759,md,read only
+6808,20760,ro,read only
+6809,20761,res,resident/fellow/pa/np
+6810,20762,res,resident/fellow/pa/np
+6811,20763,md,attending
+6812,20764,rt,respiratory
+6813,20765,res,resident/fellow/pa/np
+6814,20766,res,resident/fellow/pa/np
+6815,20767,res,resident/fellow/pa/np
+6816,20768,md,
+6817,20769,is,
+6818,20770,res,resident/fellow/pa/np
+6819,20771,res,
+6820,20772,ro,read only
+6821,20773,md,
+6822,20774,ro,read only
+6823,20775,ro,read only
+6824,20776,ro,read only
+6825,20777,md,
+6826,20778,res,resident/fellow/pa/np
+6827,20779,rn,
+6828,20780,rn,
+6829,20781,rn,
+6830,20782,rn,
+6831,20783,ro,read only
+6832,20784,res,resident/fellow/pa/np
+6833,20785,md,
+6834,20786,ro,read only
+6835,20787,md,attending
+6836,20788,rrt,respiratory
+6837,20789,cowker,pct/na
+6838,20790,mds,resident/fellow/pa/np
+6839,20791,ro,read only
+6840,20792,mds,resident/fellow/pa/np
+6841,20793,is int,
+6842,20794,rn,
+6843,20795,ro,read only
+6844,20796,md,
+6845,20797,res,resident/fellow/pa/np
+6846,20798,md,
+6847,20799,md,
+6848,20800,md,
+6849,20801,md,
+6850,20802,md,resident/fellow/pa/np
+6851,20803,rrt,respiratory
+6852,20804,ro,read only
+6853,20805,res,resident/fellow/pa/np
+6854,20806,res,resident/fellow/pa/np
+6855,20807,md,
+6856,20808,rn,rn
+6857,20809,rn,read only
+6858,20810,rn,
+6859,20811,ro,read only
+6860,20812,rn,
+6861,20813,ro,read only
+6862,20814,rn,
+6863,20815,ro,read only
+6864,20816,rn,rn
+6865,20817,hmsiv,
+6866,20818,rn,rn
+6867,20819,ro,read only
+6868,20820,md,read only
+6869,20821,rn,
+6870,20822,rn,
+6871,20823,rn,rn
+6872,20824,rph,
+6873,20825,rn,
+6874,20826,ro,read only
+6875,20827,md,resident/fellow/pa/np
+6876,20828,ro,read only
+6877,20829,rd,
+6878,20830,ro,read only
+6879,20831,rn,rn
+6880,20832,rrt,
+6881,20833,ro,read only
+6882,20834,rn,
+6883,20835,nnp,
+6884,20836,licsw,read only
+6885,20837,ro,read only
+6886,20838,md,
+6887,20839,ro,read only
+6888,20840,rn,
+6889,20841,ro,read only
+6890,20842,std,
+6891,20843,rn,
+6892,20844,md,
+6893,20845,ro,read only
+6894,20846,rnc,read only
+6895,20847,np,
+6896,20848,rn,
+6897,20849,mds,
+6898,20850,ro,read only
+6899,20851,ro,read only
+6900,20852,md,
+6901,20853,md,resident/fellow/pa/np
+6902,20854,res,resident/fellow/pa/np
+6903,20855,rn,rn
+6904,20856,rn,rn
+6905,20857,res,resident/fellow/pa/np
+6906,20858,md,read only
+6907,20859,md,read only
+6908,20860,ro,read only
+6909,20861,rn,rn
+6910,20862,co-wkr,
+6911,20863,md,
+6912,20864,rn,
+6913,20865,ro,read only
+6914,20866,rn,rn
+6915,20867,md,
+6916,20868,rn,rn
+6917,20869,ro,read only
+6918,20870,pt,
+6919,20871,rn,rn
+6920,20872,ro,read only
+6921,20873,md,resident/fellow/pa/np
+6922,20874,rph,
+6923,20875,md,
+6924,20876,ro,read only
+6925,20877,rn,rn
+6926,20878,pct,pct/na
+6927,20879,rehab,rehabilitation
+6928,20880,rph,pharmacist
+6929,20881,ro,read only
+6930,20882,rn,rn
+6931,20883,ro,read only
+6932,20884,res,resident/fellow/pa/np
+6933,20885,ro,read only
+6934,20886,md,
+6935,20887,rn,case manager
+6936,20888,md,
+6937,20889,imd,imd
+6938,20890,rn,rn
+6939,20891,res,resident/fellow/pa/np
+6940,20892,rehab,rehabilitation
+6941,20893,ms,
+6942,20894,res,resident/fellow/pa/np
+6943,20895,ro,read only
+6944,20896,md,
+6945,20897,ro,read only
+6946,20898,md,
+6947,20899,ro,read only
+6948,20900,ro,read only
+6949,20901,res,resident/fellow/pa/np
+6950,20902,res,resident/fellow/pa/np
+6951,20903,mds,read only
+6952,20904,ms,
+6953,20905,ro,read only
+6955,20907,dietin,
+6956,20908,cowker,
+6957,20909,md,
+6958,20910,ms,
+6959,20911,res,resident/fellow/pa/np
+6960,20912,res,resident/fellow/pa/np
+6961,20913,ro,read only
+6962,20914,rrt,
+6963,20915,ro,read only
+6964,20916,snp,
+6965,20917,ro,read only
+6966,20918,res,resident/fellow/pa/np
+6967,20919,res,resident/fellow/pa/np
+6968,20920,res,resident/fellow/pa/np
+6969,20921,md,
+6970,20922,rn,rn
+6971,20923,res,resident/fellow/pa/np
+6972,20924,rn,rn
+6973,20925,res,resident/fellow/pa/np
+6974,20926,rph,
+6975,20927,ro,read only
+6976,20928,md,
+6977,20929,mds,resident/fellow/pa/np
+6978,20930,ro,read only
+6979,20931,rn,
+6980,20932,md,
+6981,20933,res,resident/fellow/pa/np
+6982,20934,md,
+6983,20935,ro,read only
+6984,20936,ro,read only
+6985,20937,md,
+6986,20938,rehab,rehabilitation
+6987,20939,rn,rn
+6988,20940,md,
+6989,20941,res,resident/fellow/pa/np
+6990,20942,rn,rn
+6991,20943,ro,read only
+6992,20944,cm,case manager
+6993,20945,res,
+6994,20946,res,resident/fellow/pa/np
+6995,20947,ro,read only
+6996,20948,rn,
+6997,20949,unit a,
+6998,20950,res,resident/fellow/pa/np
+6999,20951,rn,rn
+7000,20952,res,resident/fellow/pa/np
+7001,20953,res,resident/fellow/pa/np
+7002,20954,ro,read only
+7004,20956,res,resident/fellow/pa/np
+7005,20957,rph,
+7006,20958,res,resident/fellow/pa/np
+7007,20959,res,resident/fellow/pa/np
+7008,20960,ms,
+7009,20961,taf,read only
+7010,20962,rn,
+7011,20963,rn,
+7012,20964,rrt,
+7013,20965,tap,read only
+7014,20966,rn,
+7015,20967,md,
+7016,20968,md,
+7017,20969,ro,read only
+7018,20970,rrt,respiratory
+7019,20971,rn,rn
+7020,20972,md,
+7021,20973,rn,rn
+7022,20974,rph,pharmacist
+7023,20975,rph,pharmacist
+7024,20976,rn,
+7025,20977,ua,attending
+6544,20978,mds,read only
+6545,20979,res,resident/fellow/pa/np
+6546,20980,md,
+6547,20981,ro,read only
+6548,20982,md,
+6549,20983,res,resident/fellow/pa/np
+6550,20984,res,resident/fellow/pa/np
+6551,20985,res,resident/fellow/pa/np
+6552,20986,md,read only
+6553,20987,md,
+6554,20988,rn,
+6555,20989,ro,read only
+6556,20990,rn,
+6557,20991,ro,read only
+6558,20992,rn,
+6559,20993,ro,read only
+6560,20994,ro,read only
+6561,20995,ro,read only
+6562,20996,ro,read only
+6563,20997,ro,read only
+6564,20998,ms,
+6565,20999,ro,read only
+6566,21000,ro,read only
+6567,21001,uco,
+6568,21002,rn,read only
+6569,21003,rehab,rehabilitation
+6570,21004,stpha,
+6571,21005,rrt,
+6572,21006,rn,rn
+6573,21007,ro,read only
+6574,21008,md,
+6575,21009,ro,read only
+6576,21010,sw,social worker
+6577,21011,ms,
+6578,21012,res,resident/fellow/pa/np
+6579,21013,ro,read only
+6580,21014,md,
+6581,21015,md,resident/fellow/pa/np
+6582,21016,ro,read only
+6583,21017,md,
+6584,21018,ro,read only
+6585,21019,ro,read only
+6586,21020,rn,rn
+6587,21021,ro,read only
+6588,21022,res,resident/fellow/pa/np
+6589,21023,ms,
+6590,21024,md,
+6591,21025,rn,rn
+6592,21026,ro,read only
+6593,21027,ro,read only
+6594,21028,ro,read only
+7320,21029,ro,read only
+7321,21030,ms,
+7322,21031,ro,read only
+7323,21032,stn md,
+7324,21033,rn,
+7325,21034,ro,read only
+7326,21035,rn,
+7327,21036,pa,
+7328,21037,md,
+7329,21038,res,resident/fellow/pa/np
+7330,21039,res,resident/fellow/pa/np
+7331,21040,rph,
+7332,21041,res,resident/fellow/pa/np
+7333,21042,rrt,
+7334,21043,ro,read only
+7335,21044,medst,
+7336,21045,md,
+7337,21046,rn,
+7338,21047,pst,
+7339,21048,md,
+7340,21049,md,
+7341,21050,rn,rn
+7342,21051,rrt,
+7343,21052,rn,
+7344,21053,rrt,
+7345,21054,pct,pct/na
+7346,21055,md,
+7347,21056,rn,rn
+7348,21057,ro,read only
+7349,21058,rn,rn
+7350,21059,res,resident/fellow/pa/np
+7351,21060,res,resident/fellow/pa/np
+7352,21061,ro,read only
+7353,21062,rn,rn
+7354,21063,res,resident/fellow/pa/np
+7355,21064,res,resident/fellow/pa/np
+7356,21065,md,
+7357,21066,rph,
+7358,21067,ro,read only
+7359,21068,ro,read only
+7360,21069,md,read only
+7361,21070,md,attending
+7362,21071,md,
+7363,21072,ro,read only
+7364,21073,ro,read only
+7365,21074,rph,
+7366,21075,rehab,rehabilitation
+7367,21076,ro,read only
+7368,21077,md,
+7369,21078,ps,
+7370,21079,mds,
+7371,21080,ro,read only
+7372,21081,pracst,
+7373,21082,md,
+7374,21083,np,
+7375,21084,rrt,respiratory
+7376,21085,ro,read only
+7377,21086,ro,read only
+7378,21087,ro,read only
+7379,21088,uco,
+7380,21089,res,resident/fellow/pa/np
+7381,21090,md,
+7382,21091,res,resident/fellow/pa/np
+7383,21092,ro,read only
+7384,21093,rn,
+7385,21094,ms,
+7386,21095,rn,
+7387,21096,rn,
+7388,21097,rrt,
+7389,21098,rn,rn
+7390,21099,ro,read only
+7391,21100,ro,read only
+7392,21101,ro,read only
+7393,21102,mds,resident/fellow/pa/np
+7394,21103,ro,read only
+7395,21104,rph,pharmacist
+7396,21105,rehab,rehabilitation
+7397,21106,rn,rn
+7398,21107,res,resident/fellow/pa/np
+7399,21108,rn,rn
+7400,21109,ro,read only
+7401,21110,rd,
+7402,21111,res,resident/fellow/pa/np
+7403,21112,pct,pct/na
+7404,21113,res,resident/fellow/pa/np
+7405,21114,res,resident/fellow/pa/np
+7406,21115,md,
+7407,21116,rn,rn
+7408,21117,rd,
+7409,21118,rrt,
+7410,21119,rn,rn
+7411,21120,res,resident/fellow/pa/np
+7412,21121,md,attending
+7413,21122,rrts,
+7414,21123,mds,read only
+7415,21124,rehab,rehabilitation
+7416,21125,md,resident/fellow/pa/np
+7417,21126,md,
+7418,21127,md,attending
+7419,21128,cm,case manager
+7420,21129,res,resident/fellow/pa/np
+7421,21130,res,resident/fellow/pa/np
+7422,21131,rph,
+7423,21132,md,attending
+7424,21133,rehab,rehabilitation
+7425,21134,res,resident/fellow/pa/np
+7426,21135,res,resident/fellow/pa/np
+7427,21136,rn,
+7428,21137,md,
+7429,21138,ro,read only
+7430,21139,ro,read only
+7431,21140,ms,resident/fellow/pa/np
+7432,21141,ro,read only
+7433,21142,medstu,
+7434,21143,rn,rn
+7435,21144,ro,read only
+7436,21145,md,read only
+7437,21146,ro,read only
+7438,21147,ro,read only
+7439,21148,"md,phd",
+7440,21149,rn,rn
+7441,21150,res,resident/fellow/pa/np
+7442,21151,rph,
+7443,21152,ro,read only
+7444,21153,ro,read only
+7445,21154,uco,
+7446,21155,md,
+7447,21156,res,resident/fellow/pa/np
+7448,21157,ro,read only
+7449,21158,mds,
+7450,21159,uco,uco
+7451,21160,pct,
+7452,21161,md,resident/fellow/pa/np
+7453,21162,ro,read only
+7454,21163,mds,
+7455,21164,rn,rn
+7456,21165,rn,rn
+7457,21166,res,resident/fellow/pa/np
+7458,21167,cowkr,
+7459,21168,ro,read only
+7460,21169,ro,read only
+7461,21170,rt,respiratory
+7462,21171,res,resident/fellow/pa/np
+7463,21172,res,resident/fellow/pa/np
+7464,21173,md,attending
+7465,21174,ro,read only
+7466,21175,rehab,rehabilitation
+7467,21176,res,resident/fellow/pa/np
+7468,21177,md,attending
+7469,21178,res,resident/fellow/pa/np
+7470,21179,sw,social worker
+7471,21180,ro,read only
+7472,21181,ro,read only
+7473,21182,md,
+7474,21183,md,resident/fellow/pa/np
+7475,21184,rn,
+7476,21185,ro,read only
+7477,21186,rehab,rehabilitation
+7478,21187,ro,read only
+7479,21188,rn,
+7480,21189,rn,rn
+7481,21190,res,
+7482,21191,res,resident/fellow/pa/np
+7483,21192,res,resident/fellow/pa/np
+7484,21193,rph,pharmacist
+7485,21194,res,resident/fellow/pa/np
+7486,21195,ro,read only
+7487,21196,ro,read only
+7488,21197,rrt,
+7489,21198,rn,rn
+7490,21199,md,
+7491,21200,medst,
+7492,21201,md,
+7493,21202,rn,rn
+7494,21203,md,resident/fellow/pa/np
+7495,21204,rn,rn
+7496,21205,rn,rn
+7497,21206,ua,uco
+7498,21207,md,
+7499,21208,res,resident/fellow/pa/np
+7500,21209,md,
+7501,21210,md,
+7502,21211,vs,
+7503,21212,medstu,
+7504,21213,res,resident/fellow/pa/np
+7505,21214,md,
+7506,21215,md,read only
+7507,21216,md,
+7508,21217,res,resident/fellow/pa/np
+7509,21218,rn,
+7510,21219,md,
+7511,21220,ms,read only
+7512,21221,ro,read only
+7513,21222,md,read only
+7514,21223,rd,dietitian
+7515,21224,res,resident/fellow/pa/np
+7516,21225,rn,
+7517,21226,rn,
+7518,21227,res,resident/fellow/pa/np
+7519,21228,md,
+7520,21229,ro,read only
+7521,21230,rn,
+7522,21231,rn,
+7523,21232,rn,read only
+7524,21233,rd,dietitian
+7525,21234,ms,
+7526,21235,ro,read only
+7527,21236,pct,pct/na
+7528,21237,admin,administrator
+7529,21238,md,
+7530,21239,md,
+7531,21240,md,
+7532,21241,ro,read only
+7533,21242,mds,resident/fellow/pa/np
+7534,21243,rehab,rehabilitation
+7535,21244,ro,read only
+7536,21245,res,resident/fellow/pa/np
+7537,21246,ro,read only
+7538,21247,ro,read only
+7539,21248,res,resident/fellow/pa/np
+7540,21249,sw,social worker
+7541,21250,ro,read only
+7542,21251,rehab,rehabilitation
+7543,21252,res,resident/fellow/pa/np
+7544,21253,uco,uco
+7545,21254,md,
+7546,21255,rph,pharmacist
+7547,21256,res,resident/fellow/pa/np
+7548,21257,rn,rn
+7549,21258,rrt,
+7550,21259,md,read only
+7551,21260,md,read only
+7552,21261,rph,
+7553,21262,res,resident/fellow/pa/np
+6115,20068,rn,
+6116,20069,ro,read only
+6117,20070,rn,rn
+6118,20071,res,resident/fellow/pa/np
+6119,20072,rd,dietitian
+6120,20073,rehab,rehabilitation
+6121,20074,rn,rn
+6122,20075,ro,read only
+6123,20076,ro,read only
+6124,20077,ro,read only
+6125,20078,rrt,
+6126,20079,md,
+6127,20080,ro,read only
+6128,20081,rn,rn
+6129,20082,res,resident/fellow/pa/np
+5640,20083,sw,social worker
+5641,20084,ro,read only
+5642,20085,ro,read only
+5643,20086,pct,pct/na
+5644,20087,res,resident/fellow/pa/np
+5645,20088,rn,rn
+5646,20089,res,resident/fellow/pa/np
+5647,20090,rehab,rehabilitation
+5648,20091,ro,read only
+5649,20092,md,
+5650,20093,md,
+5651,20094,ro,read only
+5652,20095,md,attending
+5653,20096,md,attending
+5654,20097,res,resident/fellow/pa/np
+5655,20098,res,resident/fellow/pa/np
+5656,20099,sw,social worker
+5657,20100,ro,read only
+5658,20101,uc,uco
+5659,20102,ro,read only
+5660,20103,md,attending
+5661,20104,np,
+5662,20105,md,attending
+5663,20106,rn,rn
+5664,20107,ms,
+5665,20108,pct,pct/na
+5666,20109,ro,read only
+5667,20110,res,resident/fellow/pa/np
+5668,20111,rrt,respiratory
+5669,20112,rn,
+5670,20113,rtstu,
+5671,20114,rn,rn
+5672,20115,rn,read only
+5673,20116,ro,read only
+5674,20117,rn,rn
+5675,20118,res,resident/fellow/pa/np
+5676,20119,res,resident/fellow/pa/np
+5677,20120,rehab,rehabilitation
+5678,20121,res,resident/fellow/pa/np
+5679,20122,res,resident/fellow/pa/np
+5680,20123,msiv,
+5681,20124,cowker,
+5682,20125,par,pharmacist
+5683,20126,rd,dietitian
+5684,20127,res,resident/fellow/pa/np
+5685,20128,stunur,
+5686,20129,res,resident/fellow/pa/np
+5687,20130,rt,respiratory
+5688,20131,rn,rn
+5689,20132,ro,read only
+6130,20133,ms,
+6131,20134,rph,pharmacist
+6132,20135,res,resident/fellow/pa/np
+6133,20136,rn,
+6134,20137,rph,pharmacist
+6135,20138,res,resident/fellow/pa/np
+6136,20139,res,resident/fellow/pa/np
+6137,20140,rn,rn
+6138,20141,ro,read only
+6139,20142,res,resident/fellow/pa/np
+6140,20143,res,resident/fellow/pa/np
+6141,20144,res,resident/fellow/pa/np
+6142,20145,md,resident/fellow/pa/np
+6143,20146,ro,read only
+6144,20147,ro,read only
+6145,20148,rn,rn
+6146,20149,md,
+6147,20150,rn,rn
+6148,20151,md,
+6149,20152,ro,read only
+6150,20153,res,resident/fellow/pa/np
+6151,20154,rn,
+6152,20155,ro,read only
+6153,20156,rn,
+6154,20157,rd/ldn,dietitian
+6155,20158,ph.stu,
+6156,20159,res,resident/fellow/pa/np
+6157,20160,pct,pct/na
+6158,20161,rn,rn
+6159,20162,ro,read only
+6160,20163,md,
+6161,20164,md,read only
+6162,20165,rn,rn
+6163,20166,rehab,rehabilitation
+6164,20167,ro,read only
+6165,20168,ro,read only
+6166,20169,ro,read only
+6167,20170,res,resident/fellow/pa/np
+6168,20171,rn,rn
+6169,20172,rn,rn
+6170,20173,res,resident/fellow/pa/np
+6171,20174,ro,read only
+6172,20175,res,resident/fellow/pa/np
+6173,20176,res,resident/fellow/pa/np
+6174,20177,ro,read only
+6175,20178,ro,read only
+6176,20179,mds,read only
+6177,20180,ms,
+6178,20181,ro,read only
+6179,20182,ro,read only
+6180,20183,hmsiv,
+6181,20184,ro,read only
+6182,20185,ro,read only
+6183,20186,ro,read only
+6184,20187,mds,resident/fellow/pa/np
+6185,20188,res,resident/fellow/pa/np
+6186,20189,rph,pharmacist
+6187,20190,ro,read only
+6188,20191,ro,read only
+6189,20192,md,
+6190,20193,rn,rn
+6191,20194,sw,social worker
+6192,20195,ms,resident/fellow/pa/np
+6193,20196,ro,read only
+6194,20197,md,
+5500,19503,res,resident/fellow/pa/np
+5501,19504,md,
+5502,19505,ro,read only
+5503,19506,cm,case manager
+5504,19507,res,resident/fellow/pa/np
+5505,19508,res,resident/fellow/pa/np
+5506,19509,ms,
+5507,19510,rt,respiratory
+5508,19511,md,
+5509,19512,res,
+5510,19513,rehab,rehabilitation
+5511,19514,rehab,rehabilitation
+5512,19515,ro,read only
+5513,19516,medst,
+5514,19517,rehab,rehabilitation
+5515,19518,res,resident/fellow/pa/np
+5516,19519,res,resident/fellow/pa/np
+5517,19520,ms,
+5518,19521,sw,social worker
+5519,19522,pct,pct/na
+5520,19523,pct,pct/na
+5521,19524,md,
+5522,19525,rn,rn
+5523,19526,ro,read only
+5524,19527,pradm,
+5525,19528,rn,
+5526,19529,ro,read only
+5527,19530,licsw,
+5528,19531,pa-c,read only
+5529,19532,rn,
+5530,19533,ph.stu,
+5531,19534,rncm,
+5532,19535,res,resident/fellow/pa/np
+5533,19536,ro,read only
+5534,19537,md,
+5535,19538,md,
+5536,19539,rph,pharmacist
+5537,19540,res,resident/fellow/pa/np
+5538,19541,md,
+5539,19542,res,resident/fellow/pa/np
+5540,19543,rn,rn
+5541,19544,sw,social worker
+5542,19545,res,resident/fellow/pa/np
+5544,19547,md,attending
+5545,19548,ro,read only
+5546,19549,rehab,rehabilitation
+5547,19550,res,resident/fellow/pa/np
+5548,19551,ro,read only
+5549,19552,md,attending
+5550,19553,res,resident/fellow/pa/np
+5551,19554,rn,rn
+5552,19555,res,resident/fellow/pa/np
+5553,19556,res,resident/fellow/pa/np
+5554,19557,res,resident/fellow/pa/np
+5555,19558,res,resident/fellow/pa/np
+5556,19559,res,resident/fellow/pa/np
+5557,19560,sw,social worker
+5558,19561,rn,rn
+5559,19562,rn,rn
+5560,19563,medstu,
+5561,19564,rehab,rehabilitation
+5562,19565,res,resident/fellow/pa/np
+5563,19566,res,resident/fellow/pa/np
+5564,19567,md,
+5565,19568,stph,
+5566,19569,rehab,rehabilitation
+5567,19570,ro,read only
+5568,19571,res,resident/fellow/pa/np
+5569,19572,rd,
+5570,19573,res,resident/fellow/pa/np
+5571,19574,res,resident/fellow/pa/np
+5572,19575,ro,read only
+5573,19576,res,resident/fellow/pa/np
+5574,19577,res,resident/fellow/pa/np
+5575,19578,res,resident/fellow/pa/np
+5576,19579,res,resident/fellow/pa/np
+5577,19580,res,resident/fellow/pa/np
+5578,19581,rehab,rehabilitation
+5579,19582,res,resident/fellow/pa/np
+5580,19583,hms,
+5581,19584,rn,
+5582,19585,rrt,
+5583,19586,ro,read only
+5584,19587,rn,uco
+5585,19588,rn,
+5586,19589,rn,rn
+5587,19590,ro,read only
+5588,19591,nnp,
+5589,19592,ro,read only
+5590,19593,rn,rn
+5591,19594,ms,
+5592,19595,rn,
+5593,19596,rn,rn
+5594,19597,std,
+5595,19598,uco,
+5596,19599,rnc,read only
+5597,19600,cowkr,
+5598,19601,ro,read only
+5599,19602,md,attending
+5600,19603,rn,
+5601,19604,rn,
+5602,19605,rn,read only
+5603,19606,md,
+5604,19607,ro,read only
+5605,19608,ro,read only
+5606,19609,cowker,
+5607,19610,rn,rn
+5608,19611,rn,rn
+5609,19612,rn,
+5610,19613,rn,rn
+5611,19614,rn,
+5612,19615,ro,read only
+5613,19616,ro,read only
+5614,19617,md,resident/fellow/pa/np
+5615,19618,md,
+5616,19619,medst,
+5617,19620,md,
+5618,19621,md,resident/fellow/pa/np
+5619,19622,md,
+5620,19623,ro,read only
+5621,19624,pt,
+5622,19625,md,resident/fellow/pa/np
+5623,19626,md,
+5624,19627,res,resident/fellow/pa/np
+5625,19628,rd,
+5626,19629,res,resident/fellow/pa/np
+5627,19630,rd,dietitian
+5628,19631,res,resident/fellow/pa/np
+5629,19632,di,
+5630,19633,md,
+5631,19634,rn,
+5632,19635,rph,
+5633,19636,pa,read only
+5634,19637,rrt,respiratory
+5635,19638,md,
+5636,19639,md,
+5637,19640,rn,rn
+5638,19641,ro,read only
+5639,19642,md,read only
+5690,19643,rn,
+5691,19644,ro,read only
+5692,19645,md,
+5693,19646,rn,
+5694,19647,ro,read only
+5695,19648,rrt,
+5696,19649,rn,read only
+5697,19650,rn,rn
+5698,19651,rn,
+5699,19652,rns,
+5700,19653,rrt,respiratory
+5701,19654,ro,read only
+5702,19655,rph,
+5703,19656,rn,
+5704,19657,res,resident/fellow/pa/np
+5705,19658,res,resident/fellow/pa/np
+5706,19659,md,
+5707,19660,md,
+5708,19661,res,resident/fellow/pa/np
+5709,19662,res,resident/fellow/pa/np
+5710,19663,md,
+5711,19664,ro,read only
+5712,19665,ms,
+5713,19666,issupp,
+5714,19667,cowker,pct/na
+5715,19668,ro,read only
+5716,19669,mds,resident/fellow/pa/np
+5717,19670,rph,
+5718,19671,ro,read only
+5719,19672,ro,read only
+5720,19673,rn,
+5721,19674,rd,dietitian
+5722,19675,res,resident/fellow/pa/np
+5723,19676,res,resident/fellow/pa/np
+5724,19677,ro,read only
+5725,19678,res,resident/fellow/pa/np
+5726,19679,rehab,rehabilitation
+5727,19680,res,resident/fellow/pa/np
+5728,19681,rn,rn
+5729,19682,res,resident/fellow/pa/np
+5730,19683,rehab,rehabilitation
+5731,19684,ro,read only
+5732,19685,ua,
+5733,19686,res,resident/fellow/pa/np
+5734,19687,res,resident/fellow/pa/np
+5736,19689,rn,rn
+5737,19690,res,resident/fellow/pa/np
+5738,19691,ro,read only
+5739,19692,md,attending
+5740,19693,rph,pharmacist
+5741,19694,ro,read only
+5742,19695,md,
+5743,19696,ro,read only
+5744,19697,md,attending
+5745,19698,md,
+5746,19699,res,resident/fellow/pa/np
+5747,19700,md,
+5748,19701,md,
+5749,19702,ro,read only
+5750,19703,md,
+5751,19704,md,read only
+5752,19705,md,
+5753,19706,md,
+5754,19707,ro,read only
+5755,19708,md,
+5756,19709,res,resident/fellow/pa/np
+5757,19710,rn,rn
+5758,19711,rn,rn
+5759,19712,md,
+5760,19713,rd,dietitian
+5761,19714,res,resident/fellow/pa/np
+5762,19715,ro,read only
+5763,19716,res,resident/fellow/pa/np
+5764,19717,res,resident/fellow/pa/np
+5765,19718,res,resident/fellow/pa/np
+5766,19719,res,resident/fellow/pa/np
+5768,19721,rn,rn
+5769,19722,medstu,
+5770,19723,ro,read only
+5771,19724,md,
+5772,19725,ro,read only
+5774,19727,ro,read only
+5775,19728,md,
+5776,19729,ro,read only
+5777,19730,res,resident/fellow/pa/np
+5778,19731,res,resident/fellow/pa/np
+5779,19732,cm,case manager
+5780,19733,md,
+5781,19734,res,resident/fellow/pa/np
+5782,19735,res,resident/fellow/pa/np
+5783,19736,rehab,rehabilitation
+5784,19737,res,resident/fellow/pa/np
+5785,19738,res,resident/fellow/pa/np
+5786,19739,md,
+5787,19740,ro,read only
+5788,19741,res,resident/fellow/pa/np
+5789,19742,uco,uco
+5790,19743,uco,uco
+5791,19744,md,attending
+5792,19745,rn,rn
+5793,19746,res,resident/fellow/pa/np
+5794,19747,rrt,respiratory
+5795,19748,md,attending
+5796,19749,res,resident/fellow/pa/np
+5797,19750,ro,read only
+5798,19751,res,resident/fellow/pa/np
+5799,19752,res,resident/fellow/pa/np
+5800,19753,pct,pct/na
+5801,19754,res,resident/fellow/pa/np
+5802,19755,rt,respiratory
+5803,19756,md,attending
+5804,19757,rehab,rehabilitation
+5805,19758,md,
+5806,19759,md,attending
+5807,19760,uco,uco
+5808,19761,uco,uco
+5809,19762,sw,social worker
+5810,19763,pct,pct/na
+5811,19764,rn,rn
+5812,19765,cm,case manager
+5813,19766,rehab,rehabilitation
+5814,19767,pct,pct/na
+5815,19768,res,resident/fellow/pa/np
+5816,19769,uco,
+5817,19770,res,resident/fellow/pa/np
+5818,19771,rrt,
+5819,19772,ro,read only
+5820,19773,md,
+5821,19774,md,
+5822,19775,std,
+5823,19776,rt,respiratory
+5824,19777,md,attending
+5825,19778,md,
+5826,19779,medst,
+5827,19780,md,resident/fellow/pa/np
+5828,19781,cm,case manager
+5829,19782,pct,pct/na
+5830,19783,rn,rn
+5831,19784,std,
+5832,19785,res,
+5833,19786,rn,rn
+5834,19787,res,resident/fellow/pa/np
+5835,19788,res,resident/fellow/pa/np
+5836,19789,pc,pastoral care
+5837,19790,res,resident/fellow/pa/np
+5838,19791,md,
+5839,19792,md,
+5840,19793,res,resident/fellow/pa/np
+5841,19794,rt,respiratory
+5842,19795,ro,read only
+5843,19796,res,resident/fellow/pa/np
+5844,19797,rn,rn
+5845,19798,res,resident/fellow/pa/np
+5846,19799,res,resident/fellow/pa/np
+5847,19800,rn,rn
+5848,19801,medstu,
+5849,19802,ro,read only
+5850,19803,rn,rn
+5851,19804,rn,rn
+5852,19805,res,resident/fellow/pa/np
+5853,19806,pct,pct/na
+5854,19807,res,resident/fellow/pa/np
+5855,19808,pct,pct/na
+5856,19809,res,resident/fellow/pa/np
+5857,19810,res,resident/fellow/pa/np
+5858,19811,rph,pharmacist
+5859,19812,rn,
+5860,19813,ms,
+5861,19814,ro,read only
+5862,19815,md,
+5863,19816,md,attending
+5864,19817,mds,
+5865,19818,ro,read only
+5866,19819,res,
+5867,19820,ro,read only
+5868,19821,rn,
+5869,19822,ms,
+5870,19823,np,
+5871,19824,md,
+5872,19825,rn,
+5873,19826,md,
+5874,19827,ro,read only
+5875,19828,ro,read only
+5876,19829,pca,
+5877,19830,mds,resident/fellow/pa/np
+5878,19831,msiv,
+5879,19832,ro,read only
+5880,19833,ro,read only
+5881,19834,md,
+5882,19835,ro,read only
+5883,19836,rn,read only
+5884,19837,pct,pct/na
+5885,19838,rn,rn
+5886,19839,md,
+5887,19840,res,resident/fellow/pa/np
+5888,19841,rn,rn
+5889,19842,res,resident/fellow/pa/np
+5890,19843,res,resident/fellow/pa/np
+5891,19844,res,resident/fellow/pa/np
+5892,19845,md,
+5893,19846,res,resident/fellow/pa/np
+5894,19847,md,
+5895,19848,md,
+5896,19849,md,resident/fellow/pa/np
+5897,19850,ro,read only
+5898,19851,ro,read only
+5899,19852,ro,read only
+5900,19853,res,resident/fellow/pa/np
+5901,19854,res,resident/fellow/pa/np
+5902,19855,md,
+5903,19856,md,
+5904,19857,rd,dietitian
+5905,19858,mds,resident/fellow/pa/np
+5906,19859,md,
+5907,19860,rph,
+5908,19861,res,resident/fellow/pa/np
+5909,19862,mds,resident/fellow/pa/np
+5910,19863,res,resident/fellow/pa/np
+5911,19864,ro,read only
+5912,19865,md,
+5913,19866,res,resident/fellow/pa/np
+5914,19867,res,resident/fellow/pa/np
+5915,19868,res,resident/fellow/pa/np
+5916,19869,res,resident/fellow/pa/np
+5917,19870,md,
+5918,19871,mds,resident/fellow/pa/np
+5919,19872,mds,resident/fellow/pa/np
+5920,19873,ro,read only
+5921,19874,ms,read only
+5922,19875,res,resident/fellow/pa/np
+5923,19876,res,resident/fellow/pa/np
+5924,19877,rn,rn
+5925,19878,rn,rn
+5926,19879,res,resident/fellow/pa/np
+5927,19880,res,resident/fellow/pa/np
+5928,19881,res,resident/fellow/pa/np
+5929,19882,res,resident/fellow/pa/np
+5930,19883,rd,dietitian
+5931,19884,ro,read only
+5932,19885,res,resident/fellow/pa/np
+5933,19886,ro,read only
+5934,19887,md,attending
+5935,19888,ms,
+5936,19889,rrt,respiratory
+5937,19890,rrt,respiratory
+5938,19891,rn,rn
+5939,19892,res,resident/fellow/pa/np
+5940,19893,ro,read only
+5941,19894,md,
+5942,19895,rn,pct/na
+5943,19896,pct,pct/na
+5944,19897,ro,read only
+5945,19898,ro,read only
+5946,19899,res,resident/fellow/pa/np
+5947,19900,md,
+5948,19901,md,
+5949,19902,rrt,
+5950,19903,rn,
+5951,19904,medstu,
+5952,19905,ro,read only
+5953,19906,stnuiv,
+5954,19907,rn,rn
+5955,19908,srt,
+5956,19909,ro,read only
+5957,19910,ro,read only
+5958,19911,cowkr,
+5959,19912,ro,read only
+5960,19913,md,
+5961,19914,ro,read only
+5962,19915,rn,
+5963,19916,ro,read only
+5964,19917,ro,read only
+5965,19918,ms,
+5966,19919,pt,
+5967,19920,ms,
+5968,19921,res,resident/fellow/pa/np
+5969,19922,res,resident/fellow/pa/np
+5970,19923,res,resident/fellow/pa/np
+5971,19924,res,resident/fellow/pa/np
+5972,19925,res,resident/fellow/pa/np
+5973,19926,sw,social worker
+5974,19927,md,attending
+5975,19928,ro,read only
+5976,19929,mds,resident/fellow/pa/np
+5977,19930,ro,read only
+5978,19931,na,
+5979,19932,res,resident/fellow/pa/np
+5980,19933,res,resident/fellow/pa/np
+5981,19934,rt,respiratory
+5982,19935,res,resident/fellow/pa/np
+5983,19936,res,resident/fellow/pa/np
+5984,19937,rns,rn
+5985,19938,res,resident/fellow/pa/np
+5986,19939,rph,
+5987,19940,rn,read only
+5988,19941,md,
+5989,19942,rn,
+5990,19943,md,
+5991,19944,ro,read only
+5992,19945,rn,
+5993,19946,ro,read only
+5994,19947,rn,rn
+5995,19948,ro,read only
+5996,19949,md,
+5997,19950,rt,respiratory
+5998,19951,rehab,rehabilitation
+5999,19952,res,resident/fellow/pa/np
+6000,19953,res,resident/fellow/pa/np
+6001,19954,pct,pct/na
+6002,19955,rt,respiratory
+6003,19956,rehab,rehabilitation
+6004,19957,pct,pct/na
+6005,19958,uco,uco
+6006,19959,mds,read only
+6007,19960,coopst,
+6008,19961,res,resident/fellow/pa/np
+6009,19962,ro,read only
+6010,19963,rn,rn
+6011,19964,uco,
+6012,19965,ro,read only
+6013,19966,admin,administrator
+6014,19967,md,attending
+6015,19968,res,resident/fellow/pa/np
+6016,19969,ro,read only
+6017,19970,ro,read only
+6018,19971,otr/l,
+6019,19972,rt stu,
+6020,19973,md,read only
+6021,19974,ro,read only
+6022,19975,ro,read only
+6023,19976,md,
+6024,19977,res,resident/fellow/pa/np
+6025,19978,ro,read only
+6026,19979,md,
+6027,19980,rn,
+6028,19981,rrt,
+6029,19982,ro,read only
+6030,19983,ro,read only
+6031,19984,md,attending
+6032,19985,rrt,
+6033,19986,rrt,
+6034,19987,ro,read only
+6035,19988,md,
+6036,19989,ro,read only
+6037,19990,res,resident/fellow/pa/np
+6038,19991,rn,rn
+6039,19992,ro,read only
+6040,19993,res,resident/fellow/pa/np
+6041,19994,md,read only
+6042,19995,md,
+6043,19996,res,resident/fellow/pa/np
+6044,19997,ro,read only
+6045,19998,pc,pastoral care
+6046,19999,rph,pharmacist
+6047,20000,res,resident/fellow/pa/np
+6048,20001,rph,pharmacist
+6049,20002,res,resident/fellow/pa/np
+6050,20003,rph,pharmacist
+6051,20004,res,resident/fellow/pa/np
+6052,20005,md,read only
+6053,20006,ro,read only
+6054,20007,md,
+6055,20008,ms,
+6056,20009,pct,pct/na
+6057,20010,res,resident/fellow/pa/np
+6058,20011,ro,read only
+6059,20012,md,resident/fellow/pa/np
+6060,20013,res,resident/fellow/pa/np
+6061,20014,rn,
+6062,20015,res,resident/fellow/pa/np
+6063,20016,ro,read only
+6064,20017,mds,read only
+6065,20018,md,
+6066,20019,ro,read only
+6067,20020,rrt,
+6068,20021,rt,read only
+6069,20022,md,resident/fellow/pa/np
+7554,21263,ro,read only
+7555,21264,md,
+7556,21265,res,resident/fellow/pa/np
+7557,21266,md,
+7558,21267,res,resident/fellow/pa/np
+7559,21268,rehab,rehabilitation
+7560,21269,rph,read only
+7561,21270,md,attending
+7562,21271,res,resident/fellow/pa/np
+7563,21272,rehab,rehabilitation
+7564,21273,res,resident/fellow/pa/np
+7565,21274,rehab,rehabilitation
+7566,21275,rph,pharmacist
+7567,21276,res,resident/fellow/pa/np
+7026,21277,res,resident/fellow/pa/np
+7027,21278,res,resident/fellow/pa/np
+7028,21279,md,
+7029,21280,res,resident/fellow/pa/np
+7030,21281,cm,case manager
+7031,21282,res,resident/fellow/pa/np
+7032,21283,res,resident/fellow/pa/np
+7033,21284,md,attending
+7034,21285,res,resident/fellow/pa/np
+7035,21286,cm,case manager
+7036,21287,cm,case manager
+7037,21288,rn,rn
+7038,21289,res,resident/fellow/pa/np
+7039,21290,rn,rn
+7040,21291,rn,rn
+7041,21292,ph stu,
+7042,21293,st,
+7043,21294,rts,
+7044,21295,md,read only
+7045,21296,rn,
+7046,21297,rn,rn
+7047,21298,ro,read only
+7048,21299,md,
+7049,21300,srt,
+7050,21301,res,resident/fellow/pa/np
+7051,21302,res,resident/fellow/pa/np
+7052,21303,cm,case manager
+7053,21304,rn,rn
+7054,21305,rn,rn
+7055,21306,res,resident/fellow/pa/np
+7056,21307,cm,case manager
+7057,21308,rn,rn
+7058,21309,cm,case manager
+7059,21310,cm,case manager
+7060,21311,admin,administrator
+7061,21312,res,resident/fellow/pa/np
+7062,21313,rehab,rehabilitation
+7063,21314,rehab,rehabilitation
+7064,21315,rn,rn
+7065,21316,rehab,rehabilitation
+7066,21317,ro,read only
+7067,21318,rn,rn
+7068,21319,ms,respiratory
+7069,21320,res,resident/fellow/pa/np
+7070,21321,rn,rn
+7071,21322,rt,respiratory
+7072,21323,rn,
+7073,21324,pct,pct/na
+7074,21325,ro,read only
+7075,21326,rn,rn
+7076,21327,rn,rn
+7077,21328,md,attending
+7078,21329,issupp,
+7079,21330,ro,read only
+7080,21331,md,
+7081,21332,isops,administrator
+7082,21333,ro,read only
+7083,21334,md,
+7084,21335,rn,rn
+7085,21336,rns,rn
+7086,21337,ro,read only
+7087,21338,ro,read only
+7088,21339,md,read only
+7089,21340,res,resident/fellow/pa/np
+7090,21341,rn,rn
+7091,21342,ms,
+7092,21343,ro,read only
+7093,21344,md,
+7094,21345,ro,read only
+7095,21346,md,
+7096,21347,pct,
+7097,21348,ro,read only
+7098,21349,md,
+7100,21351,md,
+7101,21352,rn,
+7102,21353,ro,read only
+7103,21354,mds,resident/fellow/pa/np
+7104,21355,rrt,read only
+7105,21356,ro,read only
+7106,21357,ro,read only
+7107,21358,res,resident/fellow/pa/np
+7108,21359,sw,social worker
+7109,21360,res,resident/fellow/pa/np
+7110,21361,pct,pct/na
+7111,21362,pc,pastoral care
+7112,21363,ro,read only
+7113,21364,md,
+7114,21365,res,resident/fellow/pa/np
+7115,21366,res,resident/fellow/pa/np
+7116,21367,rt,respiratory
+7117,21368,md,read only
+7118,21369,rehab,rehabilitation
+7119,21370,intern,resident/fellow/pa/np
+7120,21371,ro,read only
+7121,21372,res,resident/fellow/pa/np
+7122,21373,rd,dietitian
+7123,21374,res,resident/fellow/pa/np
+7124,21375,res,resident/fellow/pa/np
+7125,21376,res,resident/fellow/pa/np
+7126,21377,res,resident/fellow/pa/np
+7127,21378,ro,read only
+7128,21379,rph,pharmacist
+7129,21380,rd,dietitian
+7130,21381,md,
+7131,21382,sw,social worker
+7132,21383,res,resident/fellow/pa/np
+7133,21384,rehab,rehabilitation
+7134,21385,ro,read only
+7135,21386,rn,rn
+7136,21387,res,resident/fellow/pa/np
+7137,21388,res,resident/fellow/pa/np
+7138,21389,res,resident/fellow/pa/np
+7139,21390,res,resident/fellow/pa/np
+7140,21391,md,
+7141,21392,res,resident/fellow/pa/np
+7142,21393,md,read only
+7143,21394,ro,read only
+7144,21395,res,resident/fellow/pa/np
+7145,21396,md,
+7146,21397,res,resident/fellow/pa/np
+7147,21398,res,resident/fellow/pa/np
+7148,21399,rn,rn
+7149,21400,ro,read only
+7150,21401,medst,
+7151,21402,res,resident/fellow/pa/np
+7152,21403,ro,read only
+7153,21404,ro,read only
+7154,21405,res,resident/fellow/pa/np
+7155,21406,rd,dietitian
+7156,21407,ro,read only
+7157,21408,ro,read only
+7158,21409,ro,read only
+7159,21410,ro,read only
+7160,21411,res,resident/fellow/pa/np
+7161,21412,ms,resident/fellow/pa/np
+7162,21413,rd,dietitian
+7163,21414,ro,read only
+7164,21415,res,resident/fellow/pa/np
+7165,21416,mds,
+7166,21417,ro,read only
+7167,21418,cowker,pct/na
+7168,21419,pc,pastoral care
+7169,21420,md,
+7170,21421,ua,uco
+7171,21422,rn,
+7172,21423,ro,read only
+7173,21424,ms,
+7174,21425,md,
+7175,21426,mds,
+7176,21427,md,read only
+7177,21428,res,resident/fellow/pa/np
+7178,21429,ro,read only
+7179,21430,ro,read only
+7180,21431,res,resident/fellow/pa/np
+7181,21432,res,resident/fellow/pa/np
+7182,21433,res,resident/fellow/pa/np
+7183,21434,res,resident/fellow/pa/np
+7184,21435,rn,rn
+7185,21436,res,resident/fellow/pa/np
+7186,21437,pct,pct/na
+7187,21438,md,
+7188,21439,mds,
+7189,21440,ro,read only
+7190,21441,md,resident/fellow/pa/np
+7191,21442,res,resident/fellow/pa/np
+7192,21443,res,resident/fellow/pa/np
+7193,21444,rph,read only
+7194,21445,ro,read only
+7195,21446,ro,read only
+7196,21447,mds,resident/fellow/pa/np
+7197,21448,ro,read only
+7198,21449,ro,read only
+7199,21450,res,resident/fellow/pa/np
+7200,21451,rph,
+7201,21452,rn,rn
+7202,21453,ro,read only
+7203,21454,ro,read only
+7204,21455,md,
+7205,21456,rn,
+7206,21457,rehab,rehabilitation
+7207,21458,rehab,rehabilitation
+7208,21459,rn,rn
+7209,21460,res,resident/fellow/pa/np
+7210,21461,ro,read only
+7211,21462,cm,case manager
+7212,21463,ro,read only
+7213,21464,rph,pharmacist
+7214,21465,res,resident/fellow/pa/np
+7215,21466,res,resident/fellow/pa/np
+7216,21467,res,resident/fellow/pa/np
+7217,21468,res,resident/fellow/pa/np
+7218,21469,md,attending
+7219,21470,std,
+7220,21471,res,resident/fellow/pa/np
+7221,21472,rn,rn
+7222,21473,rn,rn
+7223,21474,res,resident/fellow/pa/np
+7224,21475,rehab,rehabilitation
+7225,21476,rn,rn
+7226,21477,ro,read only
+7227,21478,res,resident/fellow/pa/np
+7228,21479,ro,read only
+7229,21480,rph,pharmacist
+7230,21481,res,resident/fellow/pa/np
+7231,21482,res,resident/fellow/pa/np
+7232,21483,ro,read only
+7233,21484,res,resident/fellow/pa/np
+7234,21485,mds,read only
+7235,21486,res,resident/fellow/pa/np
+7236,21487,rehab,rehabilitation
+7237,21488,rt,respiratory
+7238,21489,ro,read only
+7239,21490,res,resident/fellow/pa/np
+7240,21491,md,attending
+7241,21492,rn,rn
+7242,21493,res,resident/fellow/pa/np
+7243,21494,res,resident/fellow/pa/np
+7244,21495,res,resident/fellow/pa/np
+7245,21496,res,resident/fellow/pa/np
+7246,21497,rehab,rehabilitation
+7247,21498,res,resident/fellow/pa/np
+7248,21499,rn,rn
+7249,21500,ro,read only
+7250,21501,res,resident/fellow/pa/np
+7251,21502,ro,read only
+7252,21503,res,resident/fellow/pa/np
+7253,21504,sw,social worker
+7254,21505,cm,case manager
+7255,21506,rph,pharmacist
+7256,21507,res,resident/fellow/pa/np
+7258,21509,md,
+7259,21510,md,
+7260,21511,ro,read only
+7261,21512,imd,imd
+7262,21513,rrt,
+7263,21514,rehab,rehabilitation
+7264,21515,md,
+7270,21521,rn,rn
+7271,21522,crt,
+7273,21524,imd,imd
+7274,21525,imd,imd
+7275,21526,md,
+7276,21527,md,
+7277,21528,md,
+7278,21529,nnp,
+7280,21531,md,
+7282,21533,mds,
+7284,21535,md,
+7285,21536,mds,resident/fellow/pa/np
+7286,21537,mds,resident/fellow/pa/np
+7287,21538,rn,
+7288,21539,medst,
+7289,21540,co-op,
+7290,21541,ua,uco
+7292,21543,ro,read only
+7293,21544,mds,resident/fellow/pa/np
+7294,21545,ms,rn
+7295,21546,mds,
+7296,21547,res,resident/fellow/pa/np
+7297,21548,do,read only
+7299,21550,rn,
+7300,21551,res,resident/fellow/pa/np
+7305,21556,cda,
+7307,21558,rn,
+7308,21559,ro,read only
+7310,21561,res,resident/fellow/pa/np
+7311,21562,rrt,
+7312,21563,rn,
+7313,21564,rn,
+7315,21566,md,
+7316,21567,res,resident/fellow/pa/np
+7317,21568,rehab,rehabilitation
+7318,21569,mds,
+6195,20198,md,resident/fellow/pa/np
+6196,20199,res,resident/fellow/pa/np
+6197,20200,md,
+6198,20201,ro,read only
+6199,20202,res,resident/fellow/pa/np
+6200,20203,res,resident/fellow/pa/np
+6201,20204,md,
+6202,20205,medst,
+6203,20206,res,resident/fellow/pa/np
+6204,20207,res,resident/fellow/pa/np
+6205,20208,rehab,rehabilitation
+6206,20209,md,resident/fellow/pa/np
+6207,20210,ro,read only
+6208,20211,rrt,
+6209,20212,res,resident/fellow/pa/np
+6210,20213,msv,
+6211,20214,rn,rn
+6212,20215,res,resident/fellow/pa/np
+6213,20216,ro,read only
+6214,20217,md,
+6215,20218,rn,rn
+6216,20219,cowkr,
+6217,20220,rn,rn
+6218,20221,rn,
+6219,20222,ro,read only
+6220,20223,md,
+6221,20224,cowker,
+6222,20225,ro,read only
+6223,20226,res,resident/fellow/pa/np
+6224,20227,medstu,
+6225,20228,md,
+6226,20229,md,
+6227,20230,md,
+6228,20231,ro,read only
+6229,20232,pca,
+6230,20233,std,
+6231,20234,ro,read only
+6232,20235,msiv,
+6233,20236,md,
+6234,20237,md,
+6235,20238,ro,read only
+6236,20239,rd,dietitian
+6237,20240,rrt,
+6238,20241,md,resident/fellow/pa/np
+6239,20242,st,
+6240,20243,ro,read only
+6241,20244,rrt,
+6242,20245,ro,read only
+6243,20246,res,resident/fellow/pa/np
+6244,20247,md,
+6245,20248,di,
+6246,20249,rd,dietitian
+6247,20250,res,resident/fellow/pa/np
+6248,20251,md,attending
+6249,20252,md,
+6250,20253,md,
+6251,20254,ro,read only
+6252,20255,rehab,rehabilitation
+6253,20256,rn,
+6254,20257,rn,
+6255,20258,np,read only
+6256,20259,admin,
+6257,20260,ro,read only
+6258,20261,md,resident/fellow/pa/np
+6259,20262,rn,
+6260,20263,ro,read only
+6261,20264,rn,
+6262,20265,ro,read only
+6263,20266,md,
+6264,20267,ro,read only
+6265,20268,ms,read only
+6266,20269,pct,pct/na
+6267,20270,res,resident/fellow/pa/np
+6268,20271,ms,
+6269,20272,md,resident/fellow/pa/np
+6270,20273,md,
+6271,20274,md,
+6272,20275,md,
+6273,20276,rehab,rehabilitation
+6274,20277,pct,pct/na
+6275,20278,uco,uco
+6276,20279,res,resident/fellow/pa/np
+6277,20280,pct,pct/na
+6278,20281,md,
+6279,20282,rn,
+6280,20283,md,
+6281,20284,pct,pct/na
+6282,20285,md,
+6283,20286,ro,read only
+6284,20287,ro,read only
+6285,20288,rph,
+6286,20289,di,dietitian
+6287,20290,rrt,respiratory
+6288,20291,md,
+6289,20292,pca,
+6290,20293,md,resident/fellow/pa/np
+6291,20294,md,
+6292,20295,rn,
+6293,20296,rn,
+6294,20297,rn,
+6295,20298,ro,read only
+6296,20299,rn,
+6297,20300,ro,read only
+6298,20301,mds,resident/fellow/pa/np
+6299,20302,md,
+6300,20303,md,
+6301,20304,rn,rn
+6302,20305,mds,
+6303,20306,rph,pharmacist
+6304,20307,ro,read only
