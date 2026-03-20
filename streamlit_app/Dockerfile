@@ -14,11 +14,11 @@ RUN pip install --no-cache-dir --upgrade pip && \
 COPY app.py .
 COPY database.py .
 
-EXPOSE 8501
+EXPOSE 8080
 
 ENV RDS_HOST=""
 ENV RDS_PASSWORD=""
 ENV RDS_DB="postgres"
 ENV RDS_USER="postgres"
 
-CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "app.py", "--server.port=8080", "--server.address=0.0.0.0"]
