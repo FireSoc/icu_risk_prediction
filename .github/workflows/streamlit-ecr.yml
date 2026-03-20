@@ -1,0 +1,119 @@
+name: Build and Push Streamlit to ECR
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'streamlit_app/**'
+      - '.github/workflows/streamlit-ecr.yml'
+  
+  workflow_dispatch:
+
+env:
+  AWS_REGION: us-east-2
+  ECR_REPOSITORY: icu-streamlit-dashboard
+
+jobs:
+  
+  lint:
+    name: Code Quality Check
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install linting tools
+        run: pip install black flake8
+      
+      - name: Check formatting
+        run: black --check streamlit_app/ || echo "Formatting issues found"
+      
+      - name: Lint code
+        run: flake8 streamlit_app/ --max-line-length=100 --extend-ignore=E203,W503 || echo "Linting issues found"
+  
+  test:
+    name: Run Tests
+    runs-on: ubuntu-latest
+    needs: lint
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          cd streamlit_app
+          pip install -r requirements.txt
+      
+      - name: Test data generation
+        run: |
+          cd streamlit_app
+          python mock_data.py
+          test -f mock_cleaned_data.csv && echo "✅ Mock data created successfully"
+  
+  build-and-push:
+    name: Build and Push to ECR
+    runs-on: ubuntu-latest
+    needs: test
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+      
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v2
+      
+      - name: Build Docker image
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          IMAGE_TAG: ${{ github.sha }}
+        run: |
+          cd streamlit_app
+          docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
+          docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:latest .
+      
+      - name: Push to ECR
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+          IMAGE_TAG: ${{ github.sha }}
+        run: |
+          docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
+          docker push $ECR_REGISTRY/$ECR_REPOSITORY:latest
+      
+      - name: Add deployment summary
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+        run: |
+          echo "### Deployment Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Image pushed to ECR:**" >> $GITHUB_STEP_SUMMARY
+          echo "\`$ECR_REGISTRY/$ECR_REPOSITORY:latest\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Commit:** \`${{ github.sha }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Pull command:**" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`bash" >> $GITHUB_STEP_SUMMARY
+          echo "aws ecr get-login-password --region ${{ env.AWS_REGION }} | \\" >> $GITHUB_STEP_SUMMARY
+          echo "  docker login --username AWS --password-stdin $ECR_REGISTRY" >> $GITHUB_STEP_SUMMARY
+          echo "docker pull $ECR_REGISTRY/$ECR_REPOSITORY:latest" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY

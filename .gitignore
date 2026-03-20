@@ -1,2 +1,7 @@
 raw_csvs/
 combined.csv
+
+# Env stuff
+.env
+.env.local
+streamlit_app/.env
